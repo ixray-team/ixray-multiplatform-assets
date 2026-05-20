@@ -1,0 +1,48 @@
+	<string id="blokpost_case">
+		<text>裝著文件的公事箱</text>
+	</string>
+	<string id="esc_fox">
+		<text>受傷的狐狸。</text>
+	</string>
+	<string id="esc_mill">
+		<text>遺棄的磨坊，是受傷的兄弟最後被人看見的地方。</text>
+	</string>
+	<string id="escape_trader">
+		<text>貿易商人。</text>
+	</string>
+	<string id="factory_bandits">
+		<text>工廠的強盜。</text>
+	</string>
+	<string id="killers_team">
+		<text>一個不知名的傭兵團組織。</text>
+	</string>
+	<string id="novice_leader">
+		<text>新兵營首領。</text>
+	</string>
+	<string id="soldiers_bridge">
+		<text>在毀壞橋旁的軍事檢查點。大家都知道那些軍人收賄後，就會讓人通行。</text>
+	</string>
+	<string id="tutorial_artefact">
+		<text>神器。</text>
+	</string>
+	<string id="tutorial_bandits">
+		<text>盯上我們斥候的強盜</text>
+	</string>
+	<string id="tutorial_secret">
+		<text>死亡潛行者的藏匿物。</text>
+	</string>
+	<string id="tutorial_secret_place1">
+		<text>死亡潛行者的藏匿物。</text>
+	</string>
+	<string id="tutorial_secret_shustryi">
+		<text>林伯的藏匿物。</text>
+	</string>
+	<string id="tutorial_wounded">
+		<text>林伯，一個囚犯。</text>
+	</string>
+	<string id="volk">
+		<text>沃夫，新兵營的領袖</text>
+	</string>
+	<string id="wolfs_rangers">
+		<text>沃夫的斥候。</text>
+	</string>

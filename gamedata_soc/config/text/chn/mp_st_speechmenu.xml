@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="speech_attack">
+		<text>攻擊！</text>
+	</string>
+	<string id="speech_covermeartifact">
+		<text>我要去拿神器！掩護我。</text>
+	</string>
+	<string id="speech_followme">
+		<text>跟著我！</text>
+	</string>
+	<string id="speech_guardartifact">
+		<text>守護神器，先不要攻擊！</text>
+	</string>
+	<string id="speech_holdingpos">
+		<text>我在待命中</text>
+	</string>
+	<string id="speech_holdpos">
+		<text>守住這裡！</text>
+	</string>
+	<string id="speech_icoverartifact">
+		<text>去拿神器！我會掩護你。</text>
+	</string>
+	<string id="speech_needhelp">
+		<text>需要幫助</text>
+	</string>
+	<string id="speech_needmoney">
+		<text>沒錢，買一些裝備</text>
+	</string>
+	<string id="speech_no">
+		<text>不</text>
+	</string>
+	<string id="speech_noenemy">
+		<text>四周無人</text>
+	</string>
+	<string id="speech_report">
+		<text>回報狀況</text>
+	</string>
+	<string id="speech_retreat">
+		<text>撤退！</text>
+	</string>
+	<string id="speech_roger">
+		<text>收到</text>
+	</string>
+	<string id="speech_silence">
+		<text>安靜，每一個人！</text>
+	</string>
+	<string id="speech_sticktogether">
+		<text>靠在一起</text>
+	</string>
+	<string id="speech_takeartifact">
+		<text>去拿取神器！</text>
+	</string>
+</string_table>

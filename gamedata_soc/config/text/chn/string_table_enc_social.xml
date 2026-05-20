@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Army">
+		<text>軍隊</text>
+	</string>
+	<string id="Bandits">
+		<text>強盜</text>
+	</string>
+	<string id="Duty">
+		<text>紀律團陣營</text>
+	</string>
+	<string id="enc_social_military_army">
+		<text>一般的軍隊士兵。他們守衛著所有進入特異區的道路，在四周巡邏，殺死異種和追捕強盜。\n俄羅斯特種部隊：軍隊中的菁英部隊，通常被派到特異區來執行拯救任務和特別任務。</text>
+	</string>
+	<string id="enc_social_military_milstalkers">
+		<text>那些接受特別訓練的士兵，或是跟陸軍簽了約的潛行者，跟著他們的部隊在特異區工作。他們通常擁有數種支援配備和良好的武裝，過去主要是在研究大災變的原因和影響，以及為特異區製作地圖。他們可以獨立工作，或是組成五人一組的小型特遣隊。軍隊潛行者通常不會允許一般的潛行者接近，而且一看到就會開火射擊。</text>
+	</string>
+	<string id="enc_social_scientists_mobile-groups">
+		<text>消除</text>
+	</string>
+	<string id="enc_social_scientists_mobile-labs">
+		<text>移動實驗室是由一個小型、帶有裝甲、有著骯髒玻璃小窗戶的碉堡改裝而成的。這個實驗室可以抵禦大型的攻擊，它有令人信賴的維生系統可以自動工作好幾個月。碉堡由運輸直昇機送到特異區中，實驗室的成員從來不讓訪客通過在外部的氣密室，所以從來沒有任何潛行者進去過裡面。</text>
+	</string>
+	<string id="enc_social_stalker-clans_bandits">
+		<text>地下世界犯罪組織的成員為了不同的理由來到特異區：變賣神器來獲取金錢、逃避法律或是販賣武器。特異區裡到處都是強盜，從一般的打手到可怕的罪犯，他們大部分都是幫派的成員。雖然在特異區裡，幫派互毆是司空見慣的事情，但對一般潛行者來說，犯罪仍然是很嚴重的問題。</text>
+	</string>
+	<string id="enc_social_stalker-clans_duty">
+		<text>紀律團是一個擁有自己規範的準軍事組織，它的成員依據嚴格的規定來生活，它也是唯一拒絕將特殊物品交易到特異區外面世界的組織。根據謠言，這個組織所發現的神器都交給了科學家。它的成員以保護外面世界免受特異區傷害為優先，大部分該組織的任務都是毀滅怪物跟盜匪。紀律團的行動通常解救了不少陷入麻煩的一般潛行者，而這個陣營跟自由團開戰已經有很長的一段時間了。</text>
+	</string>
+	<string id="enc_social_stalker-clans_freedom">
+		<text>無政府主義者跟一些不怕死的人宣稱他們擁有自由進入特異區的權力，結果卻很快的發現自己面臨了軍隊、軍事潛行者和紀律團陣營的對抗。這些被稱為自由團戰士的人相信，特異區的資訊應該和世界上其他人共同分享，因此跟壟斷特異區秘密和奇蹟的政府單位進行對抗。</text>
+	</string>
+	<string id="enc_social_stalker-clans_killers">
+		<text>傭兵團是在特異區中最神秘、最隱蔽的陣營，有些人甚至不承認他們的存在。把他們當成是專家的人定期會雇用傭兵團執行服務，他們可以迅速的解決任何潛行者，甚至殲滅一小群對手。他們的服務並不便宜，傭兵團會要求相當高價的費用，通常接受金錢或是神器來支付。他們基地的位置一直是個秘密，據說它位於深入特異區之中的地方。</text>
+	</string>
+	<string id="enc_social_stalker-clans_loners">
+		<text>潛行者會獨自探索特異區。因為加入組織會拿走珍貴的時間和需要分享戰利品，大部分的潛行者都單獨行動，所以有部分人是單純的喜歡孤獨和獨立，而成為潛行者。</text>
+	</string>
+	<string id="enc_social_stalker-clans_monolith">
+		<text>黑石組擁有許多宗教學派的特徵。它的成員相信一個外星複合水晶的存在——黑石，這塊石頭位於特異區中央的某個地方。大多數的潛行者輕視黑石組，並且把他們當成瘋子。這個組織從一開始便努力阻擋所有前往特異區中心的步伐，保護黑石不讓潛行者接近。謠傳說他們在特異區深處有一個大型的基地，但確實的位置只有它的成員才知道。</text>
+	</string>
+	<string id="enc_social_stalker-clans_zomstalkers">
+		<text>殭屍是長期暴露在揚塔和強烈輻射區的可憐靈魂。無人照顧的潛行者變得瘋狂，最後變成了活死人。有許多像這樣的屍體在特異區裡遊蕩著，有些則到了邊緣地帶。沒人幫助他們，因為這些影響是無法治療的。殭屍化的潛行者仍然會使用武器，但他們變得很笨，口中唸唸有詞，喃喃自語發出聲音而被發現。他們逐漸失去所有的技能而變成殭屍，他們通常非常易怒，在數量很多時是很可怕的威脅。</text>
+	</string>
+	<string id="Freedom">
+		<text>自由團</text>
+	</string>
+	<string id="Killers">
+		<text>傭兵團</text>
+	</string>
+	<string id="Loners">
+		<text>獨行潛行者</text>
+	</string>
+	<string id="Military">
+		<text>軍事單位</text>
+	</string>
+	<string id="Milstalkers">
+		<text>軍隊潛行者</text>
+	</string>
+	<string id="Mobile-groups">
+		<text>研發團隊</text>
+	</string>
+	<string id="Mobile-labs">
+		<text>移動科學實驗室</text>
+	</string>
+	<string id="Monolith">
+		<text>黑石組</text>
+	</string>
+	<string id="Scientists">
+		<text>科學家</text>
+	</string>
+	<string id="Social">
+		<text>陣營</text>
+	</string>
+	<string id="Stalker-clans">
+		<text>潛行者部落</text>
+	</string>
+	<string id="Zomstalkers">
+		<text>殭屍化的潛行者</text>
+	</string>
+</string_table>

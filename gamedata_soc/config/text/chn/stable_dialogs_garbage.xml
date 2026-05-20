@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gar_dolg_blokpost_11">
+		<text>站住，潛行者，你不能再往前走！</text>
+	</string>
+	<string id="gar_dolg_blokpost_111">
+		<text>為什麼？</text>
+	</string>
+	<string id="gar_dolg_blokpost_1111">
+		<text>因為這裡是我們的地盤，紀律團的地盤。對於想經過我們基地的人，我們可是很挑剔的。如果你沒有甚麼重要的事情跟我們的商談，你就別想通過這裡。</text>
+	</string>
+	<string id="gar_dolg_blokpost_11111">
+		<text>我懂了。</text>
+	</string>
+	<string id="gar_dolg_blokpost_111111">
+		<text>規矩是那樣的。</text>
+	</string>
+	<string id="gar_dolg_blokpost_11112">
+		<text>我得通過這裡，我有些生意要跟酒保談談。</text>
+	</string>
+	<string id="gar_dolg_blokpost_111121">
+		<text>是的，酒保有跟我們提過你，你可以通過。</text>
+	</string>
+	<string id="gar_dolg_blokpost_1111211">
+		<text>我會付錢的，拿去，</text>
+	</string>
+	<string id="gar_dolg_blokpost_11112111">
+		<text>很好！你可以通過，但你跟酒保最好有重要的事情要談。你聽到了嗎？小心點--前面有一堆的怪物。</text>
+	</string>
+	<string id="gar_dolg_blokpost_1111212">
+		<text>要幫甚麼忙？</text>
+	</string>
+	<string id="gar_dolg_blokpost_11112121">
+		<text>不多。在附近有一群野豬在嫌晃，去把牠們都殺光。幹掉牠們，這就當作是你的通行費吧。</text>
+	</string>
+	<string id="gar_dolg_blokpost_111121211">
+		<text>成交。</text>
+	</string>
+	<string id="gar_dolg_blokpost_1111212111">
+		<text>祝好運，潛行者。</text>
+	</string>
+	<string id="gar_dolg_blokpost_111121212">
+		<text>我沒錢。</text>
+	</string>
+	<string id="gar_dolg_blokpost_1111212121">
+		<text>好吧，那你最好開始去找了。</text>
+	</string>
+	<string id="gar_dolg_blokpost_111122">
+		<text>我沒錢。</text>
+	</string>
+	<string id="gar_dolg_blokpost_111123">
+		<text>好吧，那麼你就不能去酒吧。</text>
+	</string>
+	<string id="gar_dolg_blokpost_1231">
+		<text>謝謝你幫我們對抗野豬，收下酬勞吧。</text>
+	</string>
+	<string id="gar_dolg_blokpost_12311">
+		<text>謝謝！</text>
+	</string>
+	<string id="gar_dolg_blokpost_22">
+		<text>那麼，你殺死野豬了嗎？</text>
+	</string>
+	<string id="gar_dolg_blokpost_221">
+		<text>還沒。</text>
+	</string>
+	<string id="gar_dolg_blokpost_2211">
+		<text>真丟臉。當你開始在割豬下巴時，記得幫我帶一個回來，好嗎？</text>
+	</string>
+	<string id="gar_dolg_blokpost_222">
+		<text>耶，我會把牠們都殺光的。</text>
+	</string>
+	<string id="gar_dolg_blokpost_2221">
+		<text>好的，繼續前進吧。幫我跟酒保打聲招呼，好嗎？</text>
+	</string>
+	<string id="gar_dolg_blokpost_33">
+		<text>當你看到酒保時幫我跟他打聲招呼。喔，別忘了--路上有一堆的怪物，小心一點。</text>
+	</string>
+	<string id="gar_dramm_novice_start_0">
+		<text>謝啦--你真的幫了我的忙，我不會忘記的。</text>
+	</string>
+	<string id="gar_dramm_novice_start_1">
+		<text>這裡是怎麼回事？</text>
+	</string>
+	<string id="gar_dramm_novice_start_11">
+		<text>好的。</text>
+	</string>
+	<string id="gar_dramm_novice_start_2">
+		<text>我們正試著清除廢棄區中的強盜，我的朋友正要對一個強盜小隊進行伏擊。如果我們不阻止強盜，他們就會控制廢棄區，那就再也沒有人可以進入變異區了。跟我們的指揮官談談，他跟他的手下在這附近，就在機械廢料場中。我正要過去那邊--如果你願意的話我們也可以一起過去。</text>
+	</string>
+	<string id="gar_dramm_novice_start_21">
+		<text>讓我們出發吧。</text>
+	</string>
+	<string id="gar_dramm_novice_start_3">
+		<text>你可以跟我說說任何關於廢棄區的事情嗎？</text>
+	</string>
+	<string id="gar_dramm_novice_start_31">
+		<text>這沒甚麼好說的，朋友。廢棄區是...垃圾場。紀律團的戰士守衛著北方通往酒吧的道路，你或許會想要避開他們--紀律團裡可是有一堆下流齷齪的人。在右方是通往黑暗山谷的道路，但那邊的輻射污染指數非常的高。再靠近一點的地方是葛林潘沼澤--一個充滿的怪物的惡劣濕地，有人說那裡可以找到一些道地的神器，但是在那邊找麻煩可能會更容易一些。喔，好吧，至少在沼澤那邊沒有受到詛咒的巴斯克維家的幽靈獵犬。</text>
+	</string>
+	<string id="gar_dramm_novice_start_311">
+		<text>繼續。</text>
+	</string>
+	<string id="gar_dramm_novice_start_3111">
+		<text>在沼澤地的右邊，有個秘密的隱蔽處，你會看到在泥潭上方一個金屬製的結構物。我藏東西的地方就在那下面…我放在那邊有段時間了，但你救了我的命，或許你會比我更需要它。自己去拿吧。</text>
+	</string>
+	<string id="gar_dramm_novice_start_31111">
+		<text>謝了朋友，這些訊息真的很有用。</text>
+	</string>
+	<string id="gar_dramm_novice_start_312">
+		<text>那真是有趣，謝謝。</text>
+	</string>
+	<string id="gar_hellcar_start_11">
+		<text>嘿，潛行者，你來的真是時候！我們真的需要你的幫助。那些混蛋強盜想要控制廢棄區，我們在一個半小時前有一次交火，試著想要幹掉那三隻狗。其他的人都撤退了，如果他們帶著援軍回來，我可是死定了。我們沒有太多人留下，而其他人都受傷了。</text>
+	</string>
+	<string id="gar_hellcar_start_111">
+		<text>繼續。</text>
+	</string>
+	<string id="gar_hellcar_start_1111">
+		<text>我們要在這裡對他們伏擊。，們將會從西方的農會研究機構那邊過來。幫助我們擊敗他們的援軍，我們不會忘記你的恩情的。</text>
+	</string>
+	<string id="gar_hellcar_start_11111">
+		<text>好的，我會幫助你們。</text>
+	</string>
+	<string id="gar_hellcar_start_111111">
+		<text>太好了。</text>
+	</string>
+	<string id="gar_hellcar_start_11112">
+		<text>這跟我無關，我可不想被牽涉進去。</text>
+	</string>
+	<string id="gar_hellcar_start_111121">
+		<text>隨你吧。你這個該死的笨蛋，以後你每次要進入變異區都要負給那些傢伙過路費的。</text>
+	</string>
+	<string id="gar_hellcar_start_11113">
+		<text>我會殺光他們。</text>
+	</string>
+	<string id="gar_hellcar_start_111131">
+		<text>你真是條漢子！不過我會小心一點的。</text>
+	</string>
+	<string id="gar_hellcar_start_21">
+		<text>我們沒甚麼好談的。</text>
+	</string>
+	<string id="gar_hellcar_start_3111">
+		<text>謝了，你真的把我們弄出那裡了。你收現金嗎？這是一點我們小小的謝意。</text>
+	</string>
+	<string id="gar_hellcar_start_31111">
+		<text>當然。</text>
+	</string>
+	<string id="gar_hellcar_start_311111">
+		<text>這裡，這應該可以幫助你回復你的健康狀態。</text>
+	</string>
+	<string id="gar_hellcar_start_3111111">
+		<text>謝謝你。</text>
+	</string>
+	<string id="gar_hellcar_start_31113">
+		<text>告訴我關於你的事情。</text>
+	</string>
+	<string id="gar_hellcar_start_311131">
+		<text>我的名字是貝斯，我在三年前來到這邊。我跟其他來到變異區的人一樣是個逃亡者，之前我因為謀殺兩個人跟重傷害罪而遭到通緝。幾年前我的一個朋友被打的很慘--他們狠狠將他打進了醫院，所以我跟那群傢伙作了一個小小的「會面」。當警察出現時，我開槍打了其中一個，然後從三樓的窗子跳了出來--然後我就來到這裡了。我在這裡過的很好，但我犯的罪也已經過一段時間了。我在這裡對抗無序的事情就跟我之前在外面作的是一樣的。我訓練新人、然後教授他們在變異區生存的技巧。</text>
+	</string>
+	<string id="gar_hellcar_start_3111311">
+		<text>那麼，如果你有這樣的想法，你為什麼不加入紀律團呢？</text>
+	</string>
+	<string id="gar_hellcar_start_31113111">
+		<text>紀律團與變異區對抗，我則是為了人們而戰。此外，他們跟政府和軍隊走的太近了，我可不想有一天在冰冷的牢房中醒來。</text>
+	</string>
+	<string id="gar_hellcar_start_311131111">
+		<text>祝你好運。</text>
+	</string>
+	<string id="gar_hellcar_start_31114">
+		<text>這是哪裡？</text>
+	</string>
+	<string id="gar_hellcar_start_311141">
+		<text>廢棄區，我們就住在這裡。你看到一堆垃圾了嗎？相信我，你不會想去那裡的。一堆充滿了輻射的廢料，輻射劑量錶在那可是會破錶的。那邊是最方便進入變異區的地方，而強盜最近在那邊的活動變頻繁了。他們膽小到不敢進入變異區，直入紀律團的領域，就像個有經驗的潛行者一般。可是這些土狼卻很愛在這邊洗劫菜鳥。那麼，如果沒人在乎這些事，那麼我們就必須站起來自己保衛自己的土地。</text>
+	</string>
+	<string id="gar_hellcar_start_3111411">
+		<text>繼續。</text>
+	</string>
+	<string id="gar_hellcar_start_31114111">
+		<text>到處都是，尤其是這裡，你必須像個人一樣，別像那些被貪婪驅使的野獸。那就是我的生活寫照。</text>
+	</string>
+	<string id="gar_hellcar_start_311141112">
+		<text>在廢棄區中有任何大型的建築物嗎？</text>
+	</string>
+	<string id="gar_hellcar_start_31114111211">
+		<text>謝謝你。</text>
+	</string>
+	<string id="gar_hellcar_start_31115">
+		<text>謝謝你，我不需要任何你的東西。</text>
+	</string>
+	<string id="gar_hellcar_start_3112">
+		<text>我知道不少，我可以跟你分享些訊息。</text>
+	</string>
+	<string id="gar_hellcar_start_41">
+		<text>工作還沒完成，讓我們先解決再來聊聊。</text>
+	</string>
+	<string id="gar_hellcar_start_51">
+		<text>嘿，一號。</text>
+	</string>
+	<string id="gar_seriy_start_11">
+		<text>該死，現在不是聊天的時候！再過幾秒唯一重要的事就只有槍了。幫我打敗他們，我們晚點再聊。</text>
+	</string>
+	<string id="gar_seriy_start_22">
+		<text>謝謝你的幫助，事情可是越來越令人討厭了。你來這邊要作甚麼？</text>
+	</string>
+	<string id="gar_seriy_start_221">
+		<text>我在尋找關於史特列洛克的訊息。狐狸跟我提過你，所以我來跟你談談。</text>
+	</string>
+	<string id="gar_seriy_start_2211">
+		<text>好吧，你幫我解脫，我就會跟你說的。這些傢伙的其中一個人，一個叫"莫爾"的前"挖寶者"在等著我。他一直在挖掘史特列洛克的藏匿物，但我不知道他有沒有找到甚麼東西。這是我跟他會面地點的座標，告訴他是我派你去的，這樣我就可以消失一陣子。這邊還有一些現金會對你有幫助的。</text>
+	</string>
+	<string id="gar_seriy_start_2212">
+		<text>謝謝你的訊息。</text>
+	</string>
+	<string id="gar_seriy_start_222">
+		<text>我正在尋找關於史特列洛克的訊息，或許你知道些甚麼東西？</text>
+	</string>
+	<string id="gar_seriy_start_2221">
+		<text>好吧，你幫我解脫，我就會跟你說的。這些傢伙的其中一個人，一個叫"莫爾"的前"挖寶者"在等著我。他一直在挖掘史特列洛克的藏匿物，找到了文件可以解釋一些事情。因為有一些強盜一直在追著他，所以他把文件藏了起來，不過他還記得藏在甚麼地方。他們現在一直在找我，我得先消失一陣子。這裡是我跟他會面地點的座標，告訴他是我派你去的。我會上傳一些資訊到你的PDA，還有這些現金也會對你有幫助的。</text>
+	</string>
+	<string id="gar_seriy_start_2222">
+		<text>謝謝你的訊息。</text>
+	</string>
+	<string id="gar_seriy_start_33">
+		<text>嘿！我只能說，事情在剛剛變得更糟了。你到這邊來作甚麼？</text>
+	</string>
+	<string id="gar_seriy_start_44">
+		<text>一條安全的通路，潛行者。一條經過怪物和直接通往神器的道路。</text>
+	</string>
+	<string id="gar_seriy_start_441">
+		<text>一個人可以在廢棄區中找到甚麼？</text>
+	</string>
+	<string id="gar_seriy_start_4411">
+		<text>你可以很快的找到一堆麻煩，這可是真的。但既然你是個探險家，那我會跟你說我知道的事情。往東邊有一個小小的森林，沒有甚麼有趣的東西，不過有一大群的狗，所以小心一點。這條鐵路會帶你到一個隧道，那邊會有一大堆怪物，或許是甚麼其它的東西，我不是很清楚的--我從來就沒仔細看過。你或許知道紀律團在北邊有一個檢查點。這些就是我知道的東西。</text>
+	</string>
+	<string id="gar_seriy_start_44112">
+		<text>謝謝你的訊息。</text>
+	</string>
+	<string id="gar_seryi_about_garbage_0">
+		<text>聽著，我可以在廢棄區中找到甚麼東西？</text>
+	</string>
+	<string id="gar_seryi_about_garbage_1">
+		<text>你可以很快的找到一堆麻煩，這可是真的。但既然你是個探險家，那我會跟你說我知道的事情。往東邊有一個小小的森林，沒有甚麼有趣的東西，不過有一大群的狗，所以小心一點。這條鐵路會帶你到一個隧道，那邊會有一大堆怪物，或許是甚麼其它的東西，我不是很清楚的--我從來就沒仔細看過。你或許知道紀律團在北邊有一個檢查點。這些就是我知道的東西。</text>
+	</string>
+	<string id="gar_seryi_about_garbage_11">
+		<text>謝謝你的訊息，我會記下來的。</text>
+	</string>
+	<string id="gar_stalker_about_level_0">
+		<text>你可以跟我說關於這邊的任何事情嗎？</text>
+	</string>
+	<string id="gar_stalker_about_level_1">
+		<text>好吧，聽著，這裡你能看到的東西都是垃圾。在1986年的災難事件之後，他們帶來了一堆輻射廢料、起重機和一些毀壞的機具。基本上，這邊都是沒用的垃圾，而到處都是怪物。你可以找到一些神器，但都不是很特別，所以你在這邊能找到的大概是一群菜鳥。一群菜鳥後面就代表了一群強盜，所以最好不要在附近閒晃。在東方有一堆輻射廢料儲藏器，沒有防護的話你沒辦法到那裡去。往南會通往變異區的邊界。往北你最後會到達羅斯托克工廠，和潛行者酒吧。往東是黑暗山谷，一個陰暗的、神秘的地區。往西是農會的研究機構，我會在你的地圖上標示好安全的通道。</text>
+	</string>
+	<string id="gar_hellcar_start_3111411121">
+		<text>在中央有個大型的機庫，那邊通常都很平靜，大不了你就整晚待在那裡。如果你往西走，往農會的方向，那邊會有個強盜營地，也是不久前我們殺掉一些怪物的地方，我有預感在那邊會有更多怪物。</text>
+	</string>
+</string_table>

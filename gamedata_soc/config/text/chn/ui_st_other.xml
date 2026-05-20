@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="id_mp_money">
+		<text>金錢</text>
+	</string>
+	<string id="mm_mp_pda_hunt">
+		<text>PDA獎勵分數</text>
+	</string>
+	<string id="st_drink">
+		<text>飲料</text>
+	</string>
+	<string id="st_mp_direct_ip">
+		<text>直接的IP</text>
+	</string>
+	<string id="ui_mm_default">
+		<text>預設</text>
+	</string>
+	<string id="ui_mm_detail_density">
+		<text>草地密度</text>
+	</string>
+	<string id="ui_mm_r2_sun">
+		<text>太陽陰影</text>
+	</string>
+	<string id="ui_mm_r2_sun_details">
+		<text>草地陰影</text>
+	</string>
+	<string id="ui_mm_render_2">
+		<text>著色2</text>
+	</string>
+	<string id="ui_pda_details">
+		<text># /細節</text>
+	</string>
+	<string id="ui_st_btn_cancel">
+		<text>取消</text>
+	</string>
+	<string id="ui_st_btn_no">
+		<text>不</text>
+	</string>
+	<string id="ui_st_btn_ok">
+		<text>OK</text>
+	</string>
+	<string id="ui_st_btn_yes">
+		<text>是</text>
+	</string>
+	<string id="ui_st_cant_run_r2">
+		<text>你無法在你的電腦執行著色2</text>
+	</string>
+	<string id="ui_st_conn_invalid_host">
+		<text>連線錯誤：主機不存在</text>
+	</string>
+	<string id="ui_st_conn_invalid_pass">
+		<text>連線錯誤：密碼錯誤</text>
+	</string>
+	<string id="ui_st_conn_rejected_server">
+		<text>連線錯誤：連線被伺服器拒絕</text>
+	</string>
+	<string id="ui_st_conn_sess_full">
+		<text>連線錯誤：區段已滿</text>
+	</string>
+	<string id="ui_st_days">
+		<text>日</text>
+	</string>
+	<string id="ui_st_error">
+		<text>錯誤</text>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>該檔案名稱已存在，你要覆寫嗎？</text>
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<text>檔案名稱是空的</text>
+	</string>
+	<string id="ui_st_hours">
+		<text>小時</text>
+	</string>
+	<string id="ui_st_leave">
+		<text>離開</text>
+	</string>
+	<string id="ui_st_mins">
+		<text>分</text>
+	</string>
+	<string id="ui_st_months">
+		<text>月</text>
+	</string>
+	<string id="ui_st_params">
+		<text>參數</text>
+	</string>
+	<string id="ui_st_secs">
+		<text>秒</text>
+	</string>
+	<string id="ui_st_select_one_map">
+		<text>請選擇至少一個地圖</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>全部拿取</text>
+	</string>
+	<string id="ui_st_time_remains">
+		<text>剩餘</text>
+	</string>
+	<string id="ui_st_trade">
+		<text>交易</text>
+	</string>
+	<string id="ui_st_voting_disabled">
+		<text>投票已取消</text>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<text>你確定要離開遊戲？</text>
+	</string>
+	<string id="ui_st_your_items">
+		<text>你的行動回合</text>
+	</string>
+	<string id="st_game_over_press_jump">
+		<text>按下($$ACTION_JUMP$$)離開回到主選單</text>
+	</string>
+	<string id="st_level">
+		<text>等級</text>
+	</string>
+	<string id="st_opening_stream">
+		<text>開啟串流中</text>
+	</string>
+	<string id="st_loading_cform">
+		<text>讀取光碟中</text>
+	</string>
+	<string id="st_prefetching_objects">
+		<text>預取資料中</text>
+	</string>
+	<string id="st_creating_new_game">
+		<text>創造新遊戲中</text>
+	</string>
+	<string id="st_loading_alife_simulator">
+		<text>伺服器：讀取人供生命模擬器中</text>
+	</string>
+	<string id="st_server_connecting">
+		<text>伺服器：連結中</text>
+	</string>
+	<string id="st_loading_saved_game">
+		<text>讀取遊戲進度</text>
+	</string>
+	<string id="st_validating_cdkey">
+		<text>確認CD碼中</text>
+	</string>
+	<string id="st_loading_ai_objects">
+		<text>讀取AI神器中</text>
+	</string>
+	<string id="st_client_connecting_to">
+		<text>客戶端：連結</text>
+	</string>
+	<string id="st_client_spawning">
+		<text>客戶端：產生中</text>
+	</string>
+	<string id="st_loading_textures">
+		<text>讀取材質中</text>
+	</string>
+	<string id="st_client_synchronising">
+		<text>客戶端：同步中</text>
+	</string>
+	<string id="st_server_starting">
+		<text>伺服器：起始中</text>
+	</string>
+	<string id="st_loading_shaders">
+		<text>讀取著色器中</text>
+	</string>
+	<string id="st_loading_geometry">
+		<text>讀取地形中</text>
+	</string>
+	<string id="st_loading_spatial_db">
+		<text>讀取空間資料中</text>
+	</string>
+	<string id="st_loading_details">
+		<text>讀取細節中</text>
+	</string>
+	<string id="st_loading_sectors_portals">
+		<text>讀取結點和入口中</text>
+	</string>
+	<string id="ui_st_conn_version_differs">
+		<text>連結錯誤：版本不同</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>連結錯誤：無效的CD-Key。</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>連結錯誤：CD-Key已被使用。</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>連結錯誤：你的CD-Key已被註銷，請與客服中心聯絡。</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>全新的更新檔案可以下載。\n 版本： %s\n 位置：: %s\n您想要現在下載嗎？</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>現在有全新的更新檔案。</text>
+	</string>
+	<string id="ui_mm_delete_existing_file_q">
+		<text>您確定要刪除檔案嗎？</text>
+	</string>
+	<string id="st_game_paused">
+		<text>暫停</text>
+	</string>
+	<string id="st_bolt">
+		<text>螺栓</text>
+	</string>
+	<string id="st_items">
+		<text>物品</text>
+	</string>
+	<string id="st_video">
+		<text>影像</text>
+	</string>
+	<string id="st_audio">
+		<text>聲音</text>
+	</string>
+	<string id="st_game">
+		<text>遊戲</text>
+	</string>
+	<string id="st_controll">
+		<text>控制</text>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<text>嘗試連結主伺服器。</text>
+	</string>
+	<string id="mp_only_one_voting">
+		<text>只允許開啟一個投票項目</text>
+	</string>
+	<string id="ui_st_patch_download_success">
+		<text>更新檔下載成功，您要現在安裝嗎？</text>
+	</string>
+	<string id="ui_st_patch_download_error">
+		<text>無法下載更新檔案。</text>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<text>載入遊戲存檔，會使您目前尚未儲存的進度遺失，確定嗎？</text>
+	</string>
+</string_table>

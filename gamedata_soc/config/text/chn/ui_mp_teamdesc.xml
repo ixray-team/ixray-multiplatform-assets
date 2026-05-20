@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="svoboda_outfit_name_m1">
+		<text>Kombez 自由者M2</text>
+	</string>
+	<string id="team_1_desc">
+		<text>變異區中的無政府主義者。他們相信變異區是自由的天堂，那表示所有外面世界的法律、規則和傳統在此都不適用。他們的信條是"依你的想法行事，讓別人也做同樣的事。"他們試著要阻止政府控制變異區，並且與傭兵團對抗。自由團的戰士通常使用蘇俄和蘇聯製的武器。</text>
+	</string>
+	<string id="team_1_name">
+		<text>自由團陣營（自由潛行者）</text>
+	</string>
+	<string id="team_2_desc">
+		<text>來自世界各地的流浪漢和殺手，沒有比他們更糟糕的人了。他們的信念是"Pecunia non olet--無人嫌錢臭。"神器就在這裡，而這就代表了一堆的現金。傭兵團大部分使用西方的武器。</text>
+	</string>
+	<string id="team_2_name">
+		<text>傭兵團陣營（獵頭者）</text>
+	</string>
+</string_table>

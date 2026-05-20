@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="oso_chernobyl_crush_0">
+		<text>86年的爆炸也是你的傑作嗎？</text>
+	</string>
+	<string id="oso_chernobyl_crush_1">
+		<text>不，那跟我們沒有任何關係。在那時我們大多數的人只是專心在科學領域上。在1989年之前，車諾比區域並不是個測試區。</text>
+	</string>
+	<string id="oso_death_truck_0">
+		<text>甚麼是"死亡卡車"？</text>
+	</string>
+	<string id="oso_death_truck_1">
+		<text>那是用來運送我們標記的"幹員"進入變異區的交通工具。他們滲入潛行者的"社群"之中，然後執行我們交付的任務，而不需要明瞭它。不幸的，超過一半的潛行者在運送過程中死去了，變異區非常的不穩定。你是我們派去殺死史特列洛克的一個幹員，而現在我們正試著找出到底發生了甚麼錯誤。</text>
+	</string>
+	<string id="oso_no_0">
+		<text>我將在這個騙局中幫助你。</text>
+	</string>
+	<string id="oso_osoznanie_start_11">
+		<text>哈囉，潛行者，我發現你有很多問題想問我。好吧，問問他們，然後我們就可以決定要對你作甚麼。</text>
+	</string>
+	<string id="oso_osoznanie_start_21">
+		<text>你選吧，史特列洛克。</text>
+	</string>
+	<string id="oso_stalker_0">
+		<text>刺青上的"S.T.A.L.K.E.R"（潛行者）是甚麼意思？</text>
+	</string>
+	<string id="oso_stalker_1">
+		<text>S.T.A.L.K.E.R（潛行者）是一個縮寫，這是我們用來稱呼執行特殊任務的幹員。做為我們的幹員，你的任務是殺掉史特列洛克、和他的組織，他們太接近不該知道的事情了。我們在通往變異區中心的路上，建立了一個神經區域網路來徵召我們需要的幹員，你知道這個區域網路指的就是焦腦器。當一個潛行者為了許願機而進入變異區的中心時，我們就可以控制他的意識，和命令他來執行特別的任務。但有一個錯誤發生了，而你的任務就是殺掉自己。</text>
+	</string>
+	<string id="oso_what_about_me_0">
+		<text>我發生了甚麼事？</text>
+	</string>
+	<string id="oso_what_about_me_1">
+		<text>你還真是在狀況之外。不幸的，我們已經很久沒去注意了。從那時起，變異區就開始形成，許多人想要進入它的中心，但我們不能讓這事情發生。人們還沒有準備好去面對事實，所以我們藉由許願機來吸收潛行者。一旦他們被吸收了，他們就會被派去保護變異區的秘密。</text>
+	</string>
+	<string id="oso_what_is_the_zone_0">
+		<text>甚麼是變異區？它是怎麼來的？</text>
+	</string>
+	<string id="oso_what_is_the_zone_1">
+		<text>你看到的是人類企圖對地球的智慧圈進行不當介入，所造成的結果。人類嘗試著去影響智慧圈，結果帶來了一個原在地的崩潰，而變異區就是這個崩潰的可見形式。事實上我們所沒看見的問題，是遠超過你所能想像的。</text>
+	</string>
+	<string id="oso_what_next_0">
+		<text>接下來呢？</text>
+	</string>
+	<string id="oso_what_next_1">
+		<text>那取決於你。變異區正在擴張，我們試著抑制擴張的成長，但人性卻似乎在阻擾我們的工作。我們的資源有限，而連結著C-意識的軀體終於死去。如果你加入我們，我們就可以阻止變異區的擴張。如果你拒絕我們，那我們就無法對結果作可靠的預測了。</text>
+	</string>
+	<string id="oso_who_are_you_0">
+		<text>你們是誰？</text>
+	</string>
+	<string id="oso_who_are_you_1">
+		<text>我們是一個名為"C-意識計畫"--以創造超意識為目的的實驗結果。七個自願者的意識在實驗中，被連結到一個超意識的主體，也就是我們。我們服從那些引導實驗、並且指派任務給我們的那些人。根據我們的計算，地球被一個特別的資訊區所圍繞著，它又被稱為智慧圈，它包含了這個星球所有居民中具有認知能力的人。我們的主要計畫是對智慧圈進行小幅的調整，讓我們可以去除這個星球上像是憤怒、殘忍、貪婪或是其它負面的因素。個體是無法影響智慧圈的，但是C-意識計畫可以。不幸的我們犯了一個錯誤，我們大範圍的干擾了變異區，在這之後我們就一直試著去抑制這個錯誤。</text>
+	</string>
+	<string id="oso_why_chernobyl_0">
+		<text>為什麼會發生在這裡？</text>
+	</string>
+	<string id="oso_why_chernobyl_1">
+		<text>這裡曾是最棒的地方，在1986年的大爆炸之後只剩下少數的人留下來，那時可以不用怕被人發現我們的工作。再說，這有許多強力的天線，這對我們的認知優化實驗是非常重要的。</text>
+	</string>
+	<string id="oso_yes_0">
+		<text>我同意加入C-意識計畫</text>
+	</string>
+</string_table>

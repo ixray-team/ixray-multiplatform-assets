@@ -1,0 +1,12 @@
+	<string id="rad_barman_spam">
+		<text>一號！？你還活著！？太好了！那麼你打算關閉焦腦器，嗯？每個人都想要經過皮里皮亞特到變異區中心去。沒有人知道那邊…或許有一堆的神器，或是什麼許願機之類的。\n 現在有一群老兵準備往那裡去，如果你動作快一點，你或許可以趕上他們。我會讓他們知道你要過去，這樣他們就會先等你。</text>
+	</string>
+	<string id="tips_bun_komand">
+		<text>第1小隊跟第2小隊：檢查一樓，第3小隊：大廳，第4跟第5小隊：檢查二樓</text>
+	</string>
+	<string id="tips_rad_sos_suicide">
+		<text>…救我，我要死了…</text>
+	</string>
+	<string id="tips_rad_switcher_press">
+		<text>要關掉機器，按下($$ACTION_USE$$)</text>
+	</string>

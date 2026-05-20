@@ -1,0 +1,24 @@
+	<string id="general_ecolog_tip_1">
+		<text>發生了什麼事？他死了嗎？立刻回來！</text>
+	</string>
+	<string id="general_ecolog_tip_2">
+		<text>發生了什麼事？他死了嗎？拿取樣本，然後馬上回來！</text>
+	</string>
+	<string id="storyline_ghost_tip">
+		<text>鬼魂的錄音。</text>
+	</string>
+	<string id="storyline_vasilyev_tip">
+		<text>瓦西里的錄音。</text>
+	</string>
+	<string id="tips_labx16switcher_press">
+		<text>要關掉奇蹟機器按下($$ACTION_USE$$)</text>
+	</string>
+	<string id="yan_saharov_message">
+		<text>好人，一號，你終於做到了。我們在研究室研究這個機器是很重要的事，試著關掉它，那麼我們就可以好好的研究一下。</text>
+	</string>
+	<string id="yan_saharov_message_2">
+		<text>聽著，這件原型裝置沒辦法在那麼強的放射線下，保護你很長的時間。當每次偵測到放射線時，有一個計時器會開始動作。當時限到達時，原型裝置就會失去了保護的能力。小心點，把你的眼睛盯著計時器。</text>
+	</string>
+	<string id="yan_saharov_message_3">
+		<text>幹的好，一號。放射源被關閉了，而你還活著。我得警告你，不管怎樣，我們呼叫了一些軍用直昇機來清掃這個區域裡的殭屍。除非有必要，不然不要到處閒逛。喔，還有，每隔一段時間就進來一下我們的碉堡，可以嗎？</text>
+	</string>

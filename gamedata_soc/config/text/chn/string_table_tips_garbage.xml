@@ -1,0 +1,27 @@
+	<string id="gar_actor_looser">
+		<text>你是廢物，一號，徹底的沒用！別期望感謝：你沒有什麼好讓人感謝的。</text>
+	</string>
+	<string id="gar_actor_normal">
+		<text>不壞，潛行者！你真的自己射倒了一些異種生物，但你拔槍還沒有那麼快，對不對？如果你想通過，你就得付些錢出來。</text>
+	</string>
+	<string id="gar_actor_winner">
+		<text>太好了，一號，你真的幫了我們。我說現在可以讓你通過了，往酒吧去吧。</text>
+	</string>
+	<string id="gar_direction_fire">
+		<text>讓他們靠近一點，這樣就沒有人逃得掉。我先開槍，你跟著我的動作。</text>
+	</string>
+	<string id="gar_dolg_blokpost_warning">
+		<text>你現在在紀律團的勢力範圍中，潛行者。這裡不允許爭鬥。</text>
+	</string>
+	<string id="gar_dolg_monster_rush">
+		<text>注意！這裡是紀律團的檢查哨。有一群來自黑暗山谷的異種生物往酒吧這邊過來了，任何幫助我們阻擋異種的人，都不會後悔的。</text>
+	</string>
+	<string id="gar_dolg_warning">
+		<text>你現在在紀律團的勢力範圍中，潛行者。如果你到處亂晃，會讓這輩子惹上大麻煩的。</text>
+	</string>
+	<string id="gar_hellcar_victory">
+		<text>幹得好，先生們，我們把他們都解決掉了。現在可以休息一下。你，潛行者，過來這裡，讓我們聊一聊。</text>
+	</string>
+	<string id="tips_gar_hellcar_alarm">
+		<text>大家，這是中立陣營的指揮官。我們把盜賊從廢棄的停車場趕出去了，他們可能試著把它奪回來。我們的人數不足，所以如果你要幫助我們，我們會為你留個職位的。</text>
+	</string>

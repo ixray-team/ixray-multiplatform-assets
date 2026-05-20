@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_activate_artefact">
+		<text>活化的神器</text>
+	</string>
+	<string id="st_attach_gl_to_rifle">
+		<text>將榴彈發射器裝在步槍上</text>
+	</string>
+	<string id="st_attach_scope_to_pistol">
+		<text>將瞄準鏡裝在手槍上</text>
+	</string>
+	<string id="st_attach_scope_to_rifle">
+		<text>將瞄準鏡裝在步槍上</text>
+	</string>
+	<string id="st_attach_silencer_to_pistol">
+		<text>將滅音器裝在手槍上</text>
+	</string>
+	<string id="st_attach_silencer_to_rifle">
+		<text>將滅音器裝在步槍上</text>
+	</string>
+	<string id="st_base_cost">
+		<text>價格</text>
+	</string>
+	<string id="st_condition">
+		<text>狀態</text>
+	</string>
+	<string id="st_detach_gl">
+		<text>取下榴彈發射器</text>
+	</string>
+	<string id="st_detach_scope">
+		<text>取下瞄準鏡</text>
+	</string>
+	<string id="st_detach_silencer">
+		<text>取下滅音器</text>
+	</string>
+	<string id="st_dress_outfit">
+		<text>穿上服裝</text>
+	</string>
+	<string id="st_drop">
+		<text>丟棄</text>
+	</string>
+	<string id="st_drop_all">
+		<text>丟棄所有的東西</text>
+	</string>
+	<string id="st_eat">
+		<text>進食</text>
+	</string>
+	<string id="st_move_on_belt">
+		<text>裝在腰帶上</text>
+	</string>
+	<string id="st_move_to_bag">
+		<text>移到背包裡</text>
+	</string>
+	<string id="st_move_to_slot">
+		<text>移到欄位中</text>
+	</string>
+	<string id="st_sell_item">
+		<text>販賣物件</text>
+	</string>
+	<string id="st_undress_outfit">
+		<text>脫掉服裝</text>
+	</string>
+	<string id="st_unload_magazine">
+		<text>上膛</text>
+	</string>
+	<string id="st_use">
+		<text>使用</text>
+	</string>
+	<string id="st_weight">
+		<text>重量</text>
+	</string>
+	<string id="ui_inv_accuracy">
+		<text>正確</text>
+	</string>
+	<string id="ui_inv_bag">
+		<text>背包</text>
+	</string>
+	<string id="ui_inv_belt">
+		<text>腰帶</text>
+	</string>
+	<string id="ui_inv_cancel">
+		<text>取消</text>
+	</string>
+	<string id="ui_inv_clear">
+		<text>清除</text>
+	</string>
+	<string id="ui_inv_damage">
+		<text>傷害</text>
+	</string>
+	<string id="ui_inv_description">
+		<text>說明</text>
+	</string>
+	<string id="ui_inv_drop">
+		<text>取出</text>
+	</string>
+	<string id="ui_inv_equipment">
+		<text>裝備</text>
+	</string>
+	<string id="ui_inv_exit">
+		<text>離開</text>
+	</string>
+	<string id="ui_inv_granades_rifle">
+		<text>為榴彈發射器(E)購買槍榴彈</text>
+	</string>
+	<string id="ui_inv_handling">
+		<text>操作</text>
+	</string>
+	<string id="ui_inv_heavy_weapons">
+		<text>重</text>
+	</string>
+	<string id="ui_inv_items_list">
+		<text>物品列表</text>
+	</string>
+	<string id="ui_inv_money">
+		<text>金錢</text>
+	</string>
+	<string id="ui_inv_ok">
+		<text>OK</text>
+	</string>
+	<string id="ui_inv_outfit_burn_protection">
+		<text>燃燒</text>
+	</string>
+	<string id="ui_inv_outfit_chemical_burn_protection">
+		<text>化學燃燒</text>
+	</string>
+	<string id="ui_inv_outfit_explosion_protection">
+		<text>爆炸</text>
+	</string>
+	<string id="ui_inv_outfit_fire_wound_protection">
+		<text>防彈頭盔</text>
+	</string>
+	<string id="ui_inv_outfit_params">
+		<text>參數</text>
+	</string>
+	<string id="ui_inv_outfit_radiation_protection">
+		<text>輻射</text>
+	</string>
+	<string id="ui_inv_outfit_shock_protection">
+		<text>觸電</text>
+	</string>
+	<string id="ui_inv_outfit_strike_protection">
+		<text>衝擊</text>
+	</string>
+	<string id="ui_inv_outfit_telepatic_protection">
+		<text>心靈感應</text>
+	</string>
+	<string id="ui_inv_outfit_wound_protection">
+		<text>破裂</text>
+	</string>
+	<string id="ui_inv_outfits">
+		<text>服裝</text>
+	</string>
+	<string id="ui_inv_personal">
+		<text>服裝</text>
+	</string>
+	<string id="ui_inv_pistols">
+		<text>手槍</text>
+	</string>
+	<string id="ui_inv_primary_weapons">
+		<text>主要的</text>
+	</string>
+	<string id="ui_inv_rate_of_fire">
+		<text>射擊速率</text>
+	</string>
+	<string id="ui_inv_rest">
+		<text>休息</text>
+	</string>
+	<string id="ui_inv_rifles">
+		<text>步槍</text>
+	</string>
+	<string id="ui_inv_shop">
+		<text>商店</text>
+	</string>
+	<string id="ui_inv_shotguns">
+		<text>散彈槍</text>
+	</string>
+	<string id="ui_inv_sniper_rifles">
+		<text>狙擊手</text>
+	</string>
+	<string id="ui_inv_time">
+		<text>時間</text>
+	</string>
+	<string id="ui_inv_total_money">
+		<text>金錢總數</text>
+	</string>
+	<string id="ui_inv_weight">
+		<text>重量</text>
+	</string>
+	<string id="ui_inv_ammo_pistol">
+		<text>購買手槍用的基本子彈(Q)</text>
+	</string>
+	<string id="ui_inv_ammo_rifle">
+		<text>購買步槍用的字彈(W)</text>
+	</string>
+	<string id="ui_inv_granadelauncher_rifle">
+		<text>購買步槍用的榴彈發射器 (D)</text>
+	</string>
+	<string id="ui_inv_granades">
+		<text>榴彈</text>
+	</string>
+	<string id="ui_inv_scope_rifle">
+		<text>購買步槍(S)用的瞄準鏡</text>
+	</string>
+	<string id="ui_inv_silencer_pistol">
+		<text>購買手槍(A)用的滅音器</text>
+	</string>
+	<string id="ui_inv_silencer_rifle">
+		<text>購買步槍(F)用的滅音器</text>
+	</string>
+	<string id="ui_inv_last_buy">
+		<text>購買上一個組合</text>
+	</string>
+	<string id="ui_inv_sell_items(X)">
+		<text>賣掉背包中的所有物品</text>
+	</string>
+	<string id="ui_st_preset_stored_to">
+		<text>將購買的組合儲存為</text>
+	</string>
+	<string id="ui_inv_preset1(F1)">
+		<text>預設值1(F1)</text>
+	</string>
+	<string id="ui_inv_preset2(F2)">
+		<text>預設值2(F2)</text>
+	</string>
+	<string id="ui_inv_preset3(F3)">
+		<text>預設值3(F3)</text>
+	</string>
+	<string id="ui_inv_last_buy(F4)">
+		<text>預設值4(F4)</text>
+	</string>
+	<string id="ui_inv_default(F5)">
+		<text>預設物品(F5)</text>
+	</string>
+	<string id="ui_st_preset_def">
+		<text>預設物品</text>
+	</string>
+	<string id="ui_inv_reset_items(C)">
+		<text>重設物品©</text>
+	</string>
+	<string id="ui_inv_cant_buy_item">
+		<text>無法購買物品</text>
+	</string>
+	<string id="ui_inv_rank_restr">
+		<text>排名限制</text>
+	</string>
+	<string id="ui_inv_not_enought_money">
+		<text>金錢不足</text>
+	</string>
+	<string id="ui_inv_count_restr">
+		<text>數量限制</text>
+	</string>
+	<string id="ui_inv_has">
+		<text>現在</text>
+	</string>
+	<string id="ui_inv_need">
+		<text>需要</text>
+	</string>
+	<string id="ui_inv_you_already_have">
+		<text>你已經有</text>
+	</string>
+	<string id="ui_st_err_gs_not_available">
+		<text>浩劫殺陣S.T.A.L.K.E.R.的線上服務並未開啟。</text>
+	</string>
+	<string id="ui_st_err_sb_master_server_conn_fail">
+		<text>無法連結主伺服器。</text>
+	</string>
+</string_table>

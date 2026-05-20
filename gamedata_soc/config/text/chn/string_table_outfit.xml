@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="bandit_outfit_description">
+		<text>強盜的傳統服裝——皮夾克和克維拉纖維的製品裝備，這可以在特異區中提供相當程度的保護。</text>
+	</string>
+	<string id="bandit_outfit_description_m">
+		<text>一般的強盜輕型防護裝甲，在背部縫有保護片。每個人都可以自己作一件，不過也不是每個人都那麼有耐心。</text>
+	</string>
+	<string id="bandit_outfit_name">
+		<text>強盜夾克</text>
+	</string>
+	<string id="bandit_outfit_name_m">
+		<text>鎖甲夾克</text>
+	</string>
+	<string id="dolg_outfit_description">
+		<text>基輔防禦研究機構的一項產品，目前被紀律團所採用。它跟標準的PSZ-9一樣的簡單可靠，但因為新材質的關係，它提供了對有害衝擊很好的防護，這包含了槍枝的傷害。這個背心仍然需要一些加強，因為它沒有呼吸防護系統的設計。</text>
+	</string>
+	<string id="dolg_outfit_description_m1">
+		<text>擁有加強防護效果的紀律團裝甲，可以抵抗咬噬和刀割。</text>
+	</string>
+	<string id="dolg_outfit_name">
+		<text>PSZ-9d 紀律團裝甲</text>
+	</string>
+	<string id="dolg_outfit_name_m1">
+		<text>獵人PSZ-9d</text>
+	</string>
+	<string id="dolg_scientific_outfit_description">
+		<text>一件在特異區中使用的防護裝。潛行者都很讚賞它，因為它可以防護特異點跟子彈的攻擊。它包含了PSZ-9d外裝、一個封閉的呼吸系統和一個適用在特異區的完整系統。它擁有高品質防彈跟防碎片的保護能力。</text>
+	</string>
+	<string id="dolg_scientific_outfit_name">
+		<text>PSZ-9Md 通用防護系統</text>
+	</string>
+	<string id="ecolog_outfit_description">
+		<text>SSP-99化學防護裝是特別為隔離區所設計的。它通常用來作科學探察以及給生態潛行者操作使用。它整合了空器過濾和空氣條件系統，抗熱抗電，對於輻射和異種生化污染有很好的防護效果，可以對抗化學污染環境。它不是設計用來作戰，所以它沒有防彈或是防撕咬的功能。</text>
+	</string>
+	<string id="ecolog_outfit_name">
+		<text>生態學者SSP-99</text>
+	</string>
+	<string id="exo_outfit_description">
+		<text>一套軍用強化服的原型裝置，因為花費昂貴和一些設計上的錯誤，讓它從未進入量產，不過它曾在烏克蘭外的工廠非法生產了一小批。這是第三代的強化服，排除了低機動性的缺陷，裝甲也增強了。它擁有低限度的特異點防護功能。</text>
+	</string>
+	<string id="exo_outfit_description_m1">
+		<text>夜視的基本裝置被換成了更先進的版本，擁有一個傳送訊號用的數位過濾器。</text>
+	</string>
+	<string id="exo_outfit_name">
+		<text>強化服</text>
+	</string>
+	<string id="killer_outfit_description">
+		<text>傭兵陣營的潛行者服裝，是根據西方軍隊特殊部隊的服裝所設計的。布料經過特殊處理，在移動時讓裝甲部位有較強的穩定性。它的保護性比PSZ-7軍隊防彈裝還好一些。</text>
+	</string>
+	<string id="killer_outfit_description_m1">
+		<text>它在外套的外面縫有鎖子甲，這提升了對火器和怪物咬噬的防護能力，在這個組合中包含有一個PNV裝備。</text>
+	</string>
+	<string id="killer_outfit_name">
+		<text>傭兵服裝</text>
+	</string>
+	<string id="killer_outfit_name_m1">
+		<text>強化裝</text>
+	</string>
+	<string id="military_outfit_description">
+		<text>這件Skat-9M防彈軍裝是設計在特異區從事突擊活動用的。它包含有PSZ-12p軍用重防彈裝、一體式的設計和Sphere-12M頭盔。它提供了良好的防彈和防破片功能，但不會降低士兵的行動能力，它還有一個平衡系統可以防護特異點的傷害。</text>
+	</string>
+	<string id="military_outfit_name">
+		<text>軍用戰鬥裝</text>
+	</string>
+	<string id="monolit_outfit_description">
+		<text>黑石組的潛行者服裝，製造者不明，它的防護能力比PSZ-9a軍用防彈背心差一些。它的結構跟受中立潛行者歡迎的服裝很像，都具有防彈背心和輻射防護裝。它對子彈的防護力還不錯，但因為缺乏空氣過濾系統，所以對特異點的防護能力很低。</text>
+	</string>
+	<string id="monolit_outfit_name">
+		<text>黑石組服裝</text>
+	</string>
+	<string id="novice_outfit_description_m">
+		<text>他們取走了死在"水果酒"特異點旁的潛行者的外套。他死在那有一段很長的時間了，那件外套擁有加速新陳代謝的能力。</text>
+	</string>
+	<string id="novice_outfit_name_m">
+		<text>剝皮特異點</text>
+	</string>
+	<string id="outfit_soldier_description">
+		<text>一件常見的厚夾克，它具有輕微的防彈防破片能力，但無法防護特異點和其它的作用。</text>
+	</string>
+	<string id="outfit_soldier_name">
+		<text>皮夾克</text>
+	</string>
+	<string id="protection_outfit_description">
+		<text>修正過的高品質SSP-99服裝，它提供了防彈及防碎片的身體防護能力。它設計用來保護從事科學探險活動，提供了對於輻射和生化特異點很好的防護，可以抵禦化學環境侵略和其它對身體的危險影響。</text>
+	</string>
+	<string id="protection_outfit_name">
+		<text>SSP-99M服裝</text>
+	</string>
+	<string id="scientific_outfit_description">
+		<text>這件服裝由基輔防禦研究中心生產，是潛行者手工製服裝的最佳選擇。它包含有防彈背心、封閉式的呼吸循環系統、一體式的特異點防護裝置。因為它使用了極佳的材質，所以會是個很棒的選擇，而它唯一的缺點就是價格太高了。</text>
+	</string>
+	<string id="scientific_outfit_name">
+		<text>SEVA服裝</text>
+	</string>
+	<string id="specnaz_outfit_description_m1">
+		<text>這件服裝的布料塗上了一些藥劑，可以加快傷害痊癒的速度。</text>
+	</string>
+	<string id="specnaz_outfit_name_m1">
+		<text>治癒者Beril</text>
+	</string>
+	<string id="specops_outfit_description">
+		<text>特別為特異區修改過的Berill-5M特殊防護裝，它包含了一件鈹塗裝的PSZ-9a軍用防彈背心和一頂Sphere-08頭盔。它設計用來在高輻射地區進行突擊任務，對特異點的防護能力則比較低。</text>
+	</string>
+	<string id="specops_outfit_name">
+		<text>Berill-5M戰鬥裝</text>
+	</string>
+	<string id="stalker_outfit_description">
+		<text>由"國民工匠"製造的潛行者服裝，它包含了一件輕型軍用防彈背心和上膠布料的外裝。它內裝了克維拉板片來增強防護，對槍砲有輕微的防禦力。在特異區中進行深入打擊跟一些任務時，擁有高度的執行效率。</text>
+	</string>
+	<string id="stalker_outfit_description_m1">
+		<text>謠傳說潛行者鬼魂從不攜帶急救箱，他總是會像狗一樣的自我痊癒。他們說他有一件奇特的服裝，是他從特異點中取得的。</text>
+	</string>
+	<string id="stalker_outfit_description_m2">
+		<text>這個東西的前一個主人是個道地的旅行者，看起來都是在進行在人類體力極限邊緣的旅程。他知道如何正確的分攤他攜帶的重量，而這個東西幫助了他。外套的口袋和正確選擇的背包，讓它的主人可以攜帶較重的裝備。</text>
+	</string>
+	<string id="stalker_outfit_name">
+		<text>潛行者服裝</text>
+	</string>
+	<string id="stalker_outfit_name_m1">
+		<text>鬼魂的服裝</text>
+	</string>
+	<string id="stalker_outfit_name_m2">
+		<text>旅行者的服裝</text>
+	</string>
+	<string id="svoboda_heavy_outfit_description">
+		<text>潛行者強化裝，由自由團的槍匠所製作。它是由中級軍用防彈背心跟強化鋯原件所組成，對步槍子彈和中長距離的碎片提供了很好的防護效果。這個服裝的材質包含了兩層：特別處理的皮革和石綿紗的纖維。這個服裝提供了對輻射良好的防護，同時具有微弱的變異點防護能力。</text>
+	</string>
+	<string id="svoboda_heavy_outfit_name">
+		<text>守護者自由團服裝</text>
+	</string>
+	<string id="svoboda_light_outfit_description">
+		<text>輕型潛行者服裝，由自由團的槍匠所製作。它是由輕型軍用防彈背心跟克維拉護甲所組成的。它可以防護輕型武器，這件服裝的布料有特殊的混合處理，增加了對變異點的防護能力。</text>
+	</string>
+	<string id="svoboda_light_outfit_name">
+		<text>風的自由團服裝</text>
+	</string>
+	<string id="mp_exo_outfit_description">
+		<text>強化服不可思議地提供防了對子彈和破片攻擊的防護，不過它會降低行動能力。對穿甲彈的防護力低。</text>
+	</string>
+	<string id="mp_exo_outfit_name">
+		<text>PNB-4UZ強化服</text>
+	</string>
+	<string id="mp_military_outfit_description">
+		<text>軍用防彈裝，設計用來執行強擊任務，提供對子彈和破片的防護，但不會降低行動能力。對穿甲彈的防護力低。</text>
+	</string>
+	<string id="mp_military_outfit_name">
+		<text>軍用防彈裝</text>
+	</string>
+	<string id="mp_scientific_outfit_description">
+		<text>這套特別的工作服是設計用來執行變異區的研究工作，它有一個封閉式的呼吸系統，和抵禦變異點的能力，讓它可以中和大多數的變異點。它的防護能力很低，所以容易受到傷害。有一個內建的容器可以用來攜帶神器。</text>
+	</string>
+	<string id="mp_scientific_outfit_name">
+		<text>科學工作服</text>
+	</string>
+</string_table>

@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="esc_bridge_soldiers_start_11">
+		<text>這個區域是有限制的，潛行者。</text>
+	</string>
+	<string id="esc_bridge_soldiers_start_12">
+		<text>但我得去那裡。</text>
+	</string>
+	<string id="esc_bridge_soldiers_start_13">
+		<text>你的運氣真差，如果你真的一定得過去，那麼費用是500。</text>
+	</string>
+	<string id="esc_bridge_soldiers_start_14">
+		<text>拿去。</text>
+	</string>
+	<string id="esc_bridge_soldiers_start_15">
+		<text>聽著，我們會假裝這邊除了蚊子跟蝴蝶外甚麼都沒有，這裡發生了甚麼事是你家的事情。</text>
+	</string>
+	<string id="esc_bridge_soldiers_start_21">
+		<text>好吧，別停下來！在我們改變心意之前離開這裡。</text>
+	</string>
+	<string id="esc_bridge_soldiers_start_24">
+		<text>我沒有那種錢可以給你。</text>
+	</string>
+	<string id="esc_bridge_soldiers_start_25">
+		<text>那就滾回去你原來的地方。你別想要偷偷通過我們，聽到了沒？相信我，那不值得的。</text>
+	</string>
+	<string id="esc_lager_no_talk_11">
+		<text>離開這裡，一號。走開或爬開，你自己選擇。</text>
+	</string>
+	<string id="esc_lager_no_talk_111">
+		<text>怎麼了？</text>
+	</string>
+	<string id="esc_lager_no_talk_21">
+		<text>嘿，你需要甚麼？</text>
+	</string>
+	<string id="esc_lager_no_talk_31">
+		<text>我們老闆要見你。但那可不代表你是個受歡迎的人，繼續走。</text>
+	</string>
+	<string id="esc_provodnik_start_11">
+		<text>哈囉，兄弟。</text>
+	</string>
+	<string id="esc_provodnik_start_12">
+		<text>嚮導，我得見博士。</text>
+	</string>
+	<string id="esc_provodnik_start_13">
+		<text>好吧，你看看，你是怎麼知道博士的？</text>
+	</string>
+	<string id="esc_provodnik_start_14">
+		<text>鬼魂派我來的。幫我跟博士見面，這是件緊急的事。</text>
+	</string>
+	<string id="esc_provodnik_start_15">
+		<text>好吧，你為什麼這麼說！博士在史特列洛克的藏匿處。如果你是你說的那個人，就應該知道那是甚麼地方。</text>
+	</string>
+	<string id="esc_provodnik_start_16">
+		<text>謝謝。</text>
+	</string>
+	<string id="esc_provodnik_start_21">
+		<text>哈囉，兄弟。</text>
+	</string>
+	<string id="esc_stalker_talk_level_0">
+		<text>你可以告訴我多一些關於這地方的事情嗎？</text>
+	</string>
+	<string id="esc_stalker_talk_level_1">
+		<text>這是通往變異區的道路。如果我是你，我不會太靠近軍事前哨站或讓那些士兵看見你--他們被命令見到東西就開槍射擊。最近北方那裡有座破橋，但他們也在那邊設了個前哨站。開放區域到處都是野狗，所以那不是適合新手的地方。喔，最近有一群異種生物時常的出現在那邊。</text>
+	</string>
+	<string id="esc_stalker_talk_level_10">
+		<text>那麼在橋那邊的士兵呢？不管怎樣我得通過那裡。</text>
+	</string>
+	<string id="esc_stalker_talk_level_11">
+		<text>好吧，你有兩個選擇：如果庫聶佐夫在那裡，記得他很缺錢。有很好的機會可以讓他放行，但如果你沒錢或是其他人在那的話，那就不一樣了。從橋的左邊前進，沿著鐵路，不過要小心別讓他們看見你了！你會穿越一個通過路堤的小通道。另一件事：在那邊你可能得跟一些殭屍好好的約會的。</text>
+	</string>
+	<string id="esc_stalker_talk_level_2">
+		<text>在軍事前哨站北方更遠的地方有甚麼呢？</text>
+	</string>
+	<string id="esc_stalker_talk_level_21">
+		<text>廢棄區，就是那裡。現在那邊是個蕭條的地方了。到處都是那麼多的污染，在那邊游泳搞不好比走路還輕鬆一些。</text>
+	</string>
+	<string id="escape_factory_assault_start_31">
+		<text>哈囉，沃夫已經交代過你了。你有任何問題嗎？</text>
+	</string>
+	<string id="escape_factory_assault_start_311">
+		<text>是的，有多少強盜在營地裡？</text>
+	</string>
+	<string id="escape_factory_assault_start_3111">
+		<text>七或八個人。兩個在大門，兩個或更多在建築物裡，在右邊靠近火堆的地方。另外兩個在左邊--他們把林伯關在那裡。另一個總是到處在庭院中走來走去。全部就這樣，我們應該先禱告再出發？</text>
+	</string>
+	<string id="escape_factory_assault_start_31111">
+		<text>出發，整隊好你的人。</text>
+	</string>
+	<string id="escape_factory_assault_start_31112">
+		<text>不，我們弄出太多聲音了。我會自己過去的。</text>
+	</string>
+	<string id="escape_factory_assault_start_311121">
+		<text>好吧，如你所願。如果發生了甚麼事記得要大喊…該死，你想當藍波！</text>
+	</string>
+	<string id="escape_factory_assault_start_41">
+		<text>我們去獵捕我們該獵捕的東西，我打賭沃夫會開心的。</text>
+	</string>
+	<string id="escape_factory_assault_start_51">
+		<text>那邊有更多！找出那些混蛋把他們擊斃！</text>
+	</string>
+	<string id="escape_factory_assault_start_61">
+		<text>呼啊，兄弟！這真了不起！你幹掉他們然後甚麼都沒留下。如果不是親眼看見我才不會相信這種事情！那可真把我嚇壞了，兄弟…</text>
+	</string>
+	<string id="escape_factory_assault_start_71">
+		<text>那麼，你殺死的一群敵人在哪裡？你只是靠著一張嘴，然後甚麼都沒有做。滾開！</text>
+	</string>
+	<string id="escape_fox_hello_dialog_2">
+		<text>抱歉，兄弟，但可以去別的地方嗎？我來這邊是要跟某個人會面…</text>
+	</string>
+	<string id="escape_fox_hello_dialog_21">
+		<text>我有一堆問題。</text>
+	</string>
+	<string id="escape_fox_hello_dialog_211">
+		<text>OK，問吧。</text>
+	</string>
+	<string id="escape_fox_hello_dialog_2111">
+		<text>你可以告訴我關於變異區的事情嗎？</text>
+	</string>
+	<string id="escape_fox_hello_dialog_21111">
+		<text>那就是你想知道的事？休息一個禮拜再回來見我。聽著，我的時間很珍貴，而且我現在很忙。這些都是基本的事，其它的你就靠自己了：離這北邊三公里的地方，你會找到廢棄區，那是他們傾倒電廠輻射垃圾的地方。高劑量輻射，到處都充滿了變異點，所以那邊也發現了大量的神器…但都不是很有價值的。小心那些幫派，還有別碰到了紀律團的巡邏隊。在廢棄區西方是前農會研究所。那邊只有一點神器，所以你可以跳過它。在東方是黑暗山谷。誰知道…那是一個非常怪異的地方。那邊看起來似乎很安靜，沒有甚麼匪徒出現在那裡。但我覺得那邊有比眼睛看到還多的東西在裡面。喔，在廢棄區前方是羅斯托克工廠，那是潛行者的領域，你會在那找到一堆同伴，他們會告訴你其他的事情。</text>
+	</string>
+	<string id="escape_fox_hello_dialog_2113">
+		<text>我改變心意了。謝謝。</text>
+	</string>
+	<string id="escape_fox_hello_dialog_3">
+		<text>謝謝，好的，我會小心的聽著。</text>
+	</string>
+	<string id="escape_fox_hello_dialog_31">
+		<text>貿易商人說你可能會知道一關於史特列洛克的事情。</text>
+	</string>
+	<string id="escape_fox_hello_dialog_311">
+		<text>為什麼最近大家都對他產生了興趣？好吧，我不能說我認識他，但我們曾經"聯絡"過：我的手下曾經跟他交火過，沒有人受傷--很明顯的他的隊伍在等某個人，所以我們協議停火，分道揚鑣去做自己的事情。西利，我的兄弟，現在在廢棄區的機棚里--我會把他的座標傳給你，那麼你們兩個就可以聊聊。他知道更多關於史特列洛克的事情。在出口要小心點--有一小群匪徒在那裡駐紮。此外，有一些怪物在追蹤我，看來它們還沒有放棄。你不介意幫我處理掉它們？這就跟在公園散步一樣的簡單。</text>
+	</string>
+	<string id="escape_fox_hello_dialog_3111">
+		<text>謝謝你的訊息，我很感激。</text>
+	</string>
+	<string id="escape_fox_hello_dialog_5">
+		<text>醫藥箱！給我醫藥箱！</text>
+	</string>
+	<string id="escape_fox_hello_dialog_55">
+		<text>拿去。</text>
+	</string>
+	<string id="escape_fox_hello_dialog_56">
+		<text>我沒有，抱歉。</text>
+	</string>
+	<string id="escape_fox_hello_dialog_61">
+		<text>嘿，兄弟，你救了我兩次，我不會忘記的。收下這個…這是我僅有的！</text>
+	</string>
+	<string id="escape_fox_hello_dialog_611">
+		<text>謝謝你。</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_121">
+		<text>我們老闆要見你。但那可不代表你是個受歡迎的人，繼續走。</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_2">
+		<text>等等，一號！現在營地裡沒有人要跟你談話。</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_21">
+		<text>為什麼？</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_212">
+		<text>有那個白癡想跟前"死亡卡車"上的乘客說話？首先，你得證明你是個好相處的人。</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_2121">
+		<text>甚麼"死亡卡車"？你在說甚麼？</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_21211">
+		<text>啊，鬼才知道那是甚麼東西。但不管它是甚麼，它很糟糕…為什麼我要跟你說這些！或許我只是迷信而已，一號，在某些事發生在你身上之前，你該走開的。</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_2122">
+		<text>我要怎樣才會讓人們相信我？</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_21221">
+		<text>先通過貿易商人的測試，如果你還活著--如果你不是個麻煩--你會用你的頭腦--那麼我們就有共識了，你別擔心。</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_22">
+		<text>好吧，就那樣。</text>
+	</string>
+	<string id="escape_lager_guard_start_dialog_3">
+		<text>哈囉，一號。你要甚麼？</text>
+	</string>
+	<string id="escape_lager_leader_hello_11">
+		<text>聽著，一號，你會幫上忙的！我們真的需要些幫助。</text>
+	</string>
+	<string id="escape_lager_leader_hello_111">
+		<text>繼續。</text>
+	</string>
+	<string id="escape_lager_leader_hello_1111">
+		<text>我是狂熱者，自從沃夫離去後我就代替了他的位置。有些傭兵昨天來到這裡…我跟你說，他們是一些難惹的混蛋。他們提出一些嚴重的要求--"你有一天的時間把營地清空，這裡將變成我們的新基地"。今晚他們就要過來了，如你所想像的，他們可不會跟你好好談的。</text>
+	</string>
+	<string id="escape_lager_leader_hello_11111">
+		<text>那麼你打算怎麼作？</text>
+	</string>
+	<string id="escape_lager_leader_hello_111111">
+		<text>我們會設置埋伏，因為直接攻擊可能會要了我們的命。他們有作戰的所有裝備，加上他們的訓練精良超出你的想像。我們在這邊的都是些小男孩，所以我們打算演出空城計。當時機來臨時，我們就攻擊。像你這樣的戰士正是我們現在所需要的。當事情結束後我們會好好的答謝你的。你知道我們很擅長此道！那麼，你說呢，你要幫助我們嗎？</text>
+	</string>
+	<string id="escape_lager_leader_hello_1111111">
+		<text>我會的。</text>
+	</string>
+	<string id="escape_lager_leader_hello_11111111">
+		<text>開始準備作戰吧，計畫是這樣的：我會把那些絕望的菜鳥放在屋子和地下室裡，然後告訴他們不要移動--不然他們會被自己人殺掉。你、我跟一些老手將躲在最有利的位置，觀察環境然後開火，我們讓子彈到處飛舞！他們會從橋那邊過來…我不認為我們會等太久。那麼，找個地方躲起來好好看著，然後等著我的命令。四處看看，但記得你的機會不是很大，你自己決定了。</text>
+	</string>
+	<string id="escape_lager_leader_hello_111111111">
+		<text>好的。</text>
+	</string>
+	<string id="escape_lager_leader_hello_1111112">
+		<text>不，我還沒準備好。</text>
+	</string>
+	<string id="escape_lager_leader_hello_11111121">
+		<text>那真可惜，我們可以用一個像你一樣的戰士。我猜我們需要靠自己了…</text>
+	</string>
+	<string id="escape_lager_leader_hello_21">
+		<text>等著這些童子軍，我有種感覺他們就在角落。</text>
+	</string>
+	<string id="escape_lager_leader_hello_31">
+		<text>你真是個殺手，一號！我絕不會擋住你的路，永遠！</text>
+	</string>
+	<string id="escape_lager_leader_hello_311">
+		<text>是的，就像那樣。</text>
+	</string>
+	<string id="escape_lager_leader_hello_3111">
+		<text>這裡，我希望你永遠不會忘記我們。還有--千萬個感謝你的幫助。我們救了年輕人，一號。</text>
+	</string>
+	<string id="escape_lager_leader_hello_41">
+		<text>嘿，一號，很高興見到你！</text>
+	</string>
+	<string id="escape_lager_leader_hello_411">
+		<text>你也是。</text>
+	</string>
+	<string id="escape_lager_leader_hello_412">
+		<text>對了，沃夫去哪裡了？</text>
+	</string>
+	<string id="escape_lager_leader_hello_4121">
+		<text>喔，他收到了一則來自一個已經死去的潛行者的訊息。他打包好，拿了一箱炸藥就深入變異區了。我還在恢復上次在封鎖線受的傷勢，他要求我照顧這些孩子。</text>
+	</string>
+	<string id="escape_lager_volk_info_0">
+		<text>我有問題。</text>
+	</string>
+	<string id="escape_lager_volk_info_1">
+		<text>繼續，我試著幫幫看。</text>
+	</string>
+	<string id="escape_lager_volk_info_10">
+		<text>謝謝。</text>
+	</string>
+	<string id="escape_lager_volk_info_2">
+		<text>你知道關於變異區的事情嗎？</text>
+	</string>
+	<string id="escape_lager_volk_info_21">
+		<text>我知道很多事情，問清楚一點。</text>
+	</string>
+	<string id="escape_lager_volk_info_211">
+		<text>變異區的中心有甚麼？</text>
+	</string>
+	<string id="escape_lager_volk_info_2111">
+		<text>啊，這才算問題…我尋找這個答案有兩年的時間了！我還沒有找到進入變異區中心的方法，至少我還沒見過活著回來的。我跟我的朋友有幾次試著要進入--好吧，有些人死了，有些還沒…你會問我們為什麼要去那裡，我們在追逐我們的夢想，試著讓它們成真。</text>
+	</string>
+	<string id="escape_lager_volk_info_21111">
+		<text>夢想可以成真嗎？</text>
+	</string>
+	<string id="escape_lager_volk_info_211111">
+		<text>有一個關於許願機的美好故事。據說在變異區中心所有的願望都會實現，不管甚麼樣的願望。但你知道嗎？我知道有一堆人進入了變異區中心，我不在相信任何關於許願機的事了。別冒險，我就不會。</text>
+	</string>
+	<string id="escape_lager_volk_info_212">
+		<text>變異區是怎麼來的？</text>
+	</string>
+	<string id="escape_lager_volk_info_2121">
+		<text>2006年在這裡有另外一次爆炸，那就是變異區發生的原因。我知道這不算個回答，很少人知道整個事實，如果真的有人知道的話。</text>
+	</string>
+	<string id="escape_lager_volk_info_213">
+		<text>你為什麼要來變異區？</text>
+	</string>
+	<string id="escape_lager_volk_info_2131">
+		<text>以前我在礦坑工作，但他們把它給關閉了。我沒錢、沒有希望，接著我聽說在變異區裡藏著一堆財富。我可是有一些經歷的人，所以我想"管它的？"。不能說我變有錢了，但我賺了些現金，那倒是真的。這是個一般的故事，我們大多數人都是這樣來的。</text>
+	</string>
+	<string id="escape_lager_volk_info_214">
+		<text>甚麼是變異區裡最危險的事情？</text>
+	</string>
+	<string id="escape_lager_volk_info_2141">
+		<text>很難說，那邊有太多驚奇和危險了，你沒辦法全躲開它們。對一個人來說它們的確太多了。我有一個腳指被咬掉了，我因為輻射而掉了頭髮，而我的半條腿因為焦腦器…這邊的事情很糟，有些時候我還得跟吸血怪面對面--我不會忘記那次的遭遇。只要你喜歡我們可以一直講，但你永遠都不會有屬於自己的經驗。我可以給你的唯一建議是小心--每個地方、每個時刻。</text>
+	</string>
+	<string id="escape_lager_volk_info_3">
+		<text>你有聽過一個叫做史特列洛克的人嗎？</text>
+	</string>
+	<string id="escape_lager_volk_info_31">
+		<text>我似乎記得他是個漢子，不過從沒見過這個人。好吧，我有段時間沒有接近過變異區中心了，這邊都是些新手。你該找個去深入過變異區的人談談。</text>
+	</string>
+	<string id="escape_lager_volk_info_4">
+		<text>你知道"死亡卡車"嗎？</text>
+	</string>
+	<string id="escape_lager_volk_info_41">
+		<text>我不知道，這樣對我也很好，謝謝你！抱歉，我知道你的處境。太多謎題了，你就算花一個月的時間也沒辦法弄清楚這些事。在卡車上的死人，在輪子後面的死人…他們是誰他們從哪裡來，為什麼？我只希望他們不要從墳墓中爬出來。</text>
+	</string>
+	<string id="escape_lager_volk_talk_11">
+		<text>嗨，你為什麼在這裡？</text>
+	</string>
+	<string id="escape_lager_volk_talk_111">
+		<text>嗨，我需要見林伯。你知道我在哪裡可以找到他嗎？</text>
+	</string>
+	<string id="escape_lager_volk_talk_1111">
+		<text>林伯在幹一些下流的勾當，他的隊伍在離這不遠的地方被一些盜賊攻擊，他所能做的就是向我求救。看來他的同夥都倒下了，我的人告訴我這些混蛋現在在舊停車場，就是穿過路那邊的那一個。</text>
+	</string>
+	<string id="escape_lager_volk_talk_11111">
+		<text>你沒辦法解救你自己的人？這樣可不算是朋友，還是說你沒有能力去救他們呢？</text>
+	</string>
+	<string id="escape_lager_volk_talk_111111">
+		<text>我想去啊，但又怎樣？那可不容易，我的人手太少，而且大部分都是菜鳥，我不能冒這個風險。如果我們失去了這個營地，對所有在這的潛行者來說，事情會變得更糟的。還有你自己呢？你是不是太害怕所以不敢幫忙？那麼，你要幫我對付這些打手嗎？</text>
+	</string>
+	<string id="escape_lager_volk_talk_1111111">
+		<text>我想我可以自己搞定？</text>
+	</string>
+	<string id="escape_lager_volk_talk_11111111">
+		<text>不，你一個人沒有機會的。我的斥候是好軍人，現在他們正在準備對付那些混蛋。一起去你的機會會大一些，怎麼樣？你有膽子嗎？</text>
+	</string>
+	<string id="escape_lager_volk_talk_111111111">
+		<text>我會試試看的。</text>
+	</string>
+	<string id="escape_lager_volk_talk_1111111111">
+		<text>很好！我會給你那些人的座標，我現在就跟他們交代你的事。</text>
+	</string>
+	<string id="escape_lager_volk_talk_111111112">
+		<text>我有膽量，但我不想去。</text>
+	</string>
+	<string id="escape_lager_volk_talk_111111121">
+		<text>耶，這就是你的風格。很好，滾開！</text>
+	</string>
+	<string id="escape_lager_volk_talk_21">
+		<text>那麼，事情如何了？</text>
+	</string>
+	<string id="escape_lager_volk_talk_211">
+		<text>你的人和我把停車場的事給解決了。</text>
+	</string>
+	<string id="escape_lager_volk_talk_2111">
+		<text>那真是驚人，兄弟！這裡，收下吧--那是我個人對你的回報。</text>
+	</string>
+	<string id="escape_lager_volk_talk_212">
+		<text>我們好好的清理了停車場，現在那裡清空了。</text>
+	</string>
+	<string id="escape_lager_volk_talk_2121">
+		<text>哇！我的人告訴我說你給他們徹底的痛擊！這裡，收下這些錢…當作是紀念，別當是我們豐盛的感謝。還有，我有個東西要給你…</text>
+	</string>
+	<string id="escape_lager_volk_talk_21211">
+		<text>嘿。</text>
+	</string>
+	<string id="escape_lager_volk_talk_213">
+		<text>我正在努力。</text>
+	</string>
+	<string id="escape_lager_volk_talk_2131">
+		<text>告訴我最新的消息，好嗎？</text>
+	</string>
+	<string id="escape_lager_volk_talk_31">
+		<text>我沒時間作無意義的閒聊了。走開。</text>
+	</string>
+	<string id="escape_lager_volk_talk_311">
+		<text>我知道了，我不笨。</text>
+	</string>
+	<string id="escape_lager_volk_talk_41">
+		<text>哈囉，一號。有甚麼事嗎？</text>
+	</string>
+	<string id="escape_lager_volk_talk_51">
+		<text>告訴我有甚麼新消息，潛行者。</text>
+	</string>
+	<string id="escape_lager_volk_talk_511">
+		<text>我能跟你說甚麼，在停車場有強盜，所以我們作了些清除工作，就這樣。</text>
+	</string>
+	<string id="escape_lager_volk_talk_5111">
+		<text> 你不是那種會吹牛的人，你不是！聽著，自從你對付那些打手後，我不能那樣讓你離開…</text>
+	</string>
+	<string id="escape_shustryi_start_11">
+		<text>謝了，兄弟！你幫了我們一個大忙！我甚至不知道要怎麼感謝你…</text>
+	</string>
+	<string id="escape_shustryi_start_111">
+		<text>聽著，我需要你跟貿易商人談論的隨身碟。你有嗎？</text>
+	</string>
+	<string id="escape_shustryi_start_1111">
+		<text>耶，我拿到了…這些白癡根本就沒辦法徹底的搜查。好吧，管它的，拿去吧！畢竟，你救了我的命。它藏得很好，這些打手就是找不出來。</text>
+	</string>
+	<string id="escape_shustryi_start_11111">
+		<text>謝了。那麼你把它藏在甚麼地方？搞不好或許就在你手上而已。</text>
+	</string>
+	<string id="escape_shustryi_start_111111">
+		<text>我沒有把它放在那裡，不要擔心，我當貿易商人有段時間了，所以我知道要怎樣安全的藏好資訊！另外，我告訴那些打手關於一大堆神器的小故事，他們派了一個人過去那邊。那個地方真的存在，不過那邊只有一件神器。你要的話我可以把座標給你。</text>
+	</string>
+	<string id="escape_shustryi_start_21">
+		<text>旅途平安，潛行者！</text>
+	</string>
+	<string id="escape_shustryi_start_311">
+		<text>當然，謝啦。</text>
+	</string>
+	<string id="escape_shustryi_start_3111">
+		<text>但別忘了，那邊可有一堆凶猛的動物。此外。他們派的人裝備可是相當精良的，所以小心一點！謝了，兄弟。</text>
+	</string>
+	<string id="escape_shustryi_start_31111">
+		<text>也謝謝你。</text>
+	</string>
+	<string id="escape_shustryi_start_311111">
+		<text>當然，沒問題。祝好運！</text>
+	</string>
+	<string id="escape_trader_done_blockpost_box_0">
+		<text>任務完成，這裡是軍方前哨站的盒子。</text>
+	</string>
+	<string id="escape_trader_done_blockpost_box_2">
+		<text>很好！你幫了個大忙。但，當然只是給你一句"謝謝你"就太吝嗇了。這裡是3…應該說是2000塊，我們銀貨兩訖！此外，士兵們會注意到有東西不見了，所以事情會馬上鬧開來。你最好趕快走，越快越好。</text>
+	</string>
+	<string id="escape_trader_jobs_0">
+		<text>有甚麼要給我的特殊任務嗎？</text>
+	</string>
+	<string id="escape_trader_jobs_1">
+		<text>不，沒有。</text>
+	</string>
+	<string id="escape_trader_jobs_12">
+		<text>特殊任務？你還沒完成上一個任務！</text>
+	</string>
+	<string id="escape_trader_jobs_5">
+		<text>好吧，事情是這樣的…有一個裝著深入變異區北方考察任務報告的箱子，被帶到了軍方前哨站裡面。白天時，它的警備可是非常森嚴，但因為某些理由，在晚上他們就只有兩個警衛在守衛它而已。</text>
+	</string>
+	<string id="escape_trader_jobs_51">
+		<text>繼續。</text>
+	</string>
+	<string id="escape_trader_jobs_511">
+		<text>安靜的潛入前哨站然後"取回"那個箱子。完成後我會付你任何東西…當然是合理的報酬。你接受嗎？</text>
+	</string>
+	<string id="escape_trader_jobs_5111">
+		<text>我會試試看。</text>
+	</string>
+	<string id="escape_trader_jobs_51111">
+		<text>我會把現金準備好--你從沒讓我失望過。還有一件事…保持低調，如果軍方被激怒了，我們會有一堆麻煩的。</text>
+	</string>
+	<string id="escape_trader_jobs_52">
+		<text>不，我現在不想。</text>
+	</string>
+	<string id="escape_trader_jobs_521">
+		<text>來吧，兄弟，它聽起來沒那麼糟。一群甚麼都分不清的醉鬼和非正規的士兵…好吧，OK，但我真的指望著你，一號…</text>
+	</string>
+	<string id="escape_trader_jobs_6">
+		<text>聽著，一號…我做了些事情，而這是我可以給你的…基本上，你最需要的就是就是找到史特列洛克，對吧？</text>
+	</string>
+	<string id="escape_trader_jobs_61">
+		<text>假設我是。</text>
+	</string>
+	<string id="escape_trader_jobs_611">
+		<text>不管怎樣，這裡有件關於史特列洛克的事情。有一個潛行者也叫這個名字，據說他找到了一條路可以通往變異區的北方。那是一個處女地，一個神器的金礦…耶…反正，我可以幫你找到他…不論如何…如你可以想見的，這不會是免費的，你必須為它付出…但長遠來看這對我們兩個都有好處：你可以去找出史特列洛克然後查出你身上發生了甚麼事情…而我可以找到…好吧，我是說…我可以分到我們拿到的東西，嘻嘻…你說呢？成交？</text>
+	</string>
+	<string id="escape_trader_jobs_6111">
+		<text>繼續。</text>
+	</string>
+	<string id="escape_trader_jobs_61111">
+		<text>好吧，聽著…你是認真的，我可以感覺出來…而我…我是說，我們需要像你這樣的人。我們跟其他商人在進行調查，我們想要打開北方的通道，通往變異區的中心，但在那裡有某些人或是某件事在阻擋我們的進度…到底史特列洛克是怎麼過去的，我不清楚…你知道的，只要一接近那個地方腦子就會被煮開了，一個毛骨悚然的地方…不管怎樣，長話短說--有幾個為我工作的人在監視著流言，顯然的就在離這不遠的地方，在農會研究所的人發現了一些東西，一些很重要的東西。我很確定那跟變異區的中心有關。不論如何，不管他們發現了甚麼，這些訊息被鎖在研究所的三樓。我們非常需要它，你知道我的意思吧？</text>
+	</string>
+	<string id="escape_trader_jobs_611111">
+		<text>我瞭解。</text>
+	</string>
+	<string id="escape_trader_jobs_6111111">
+		<text>一旦你拿到了公事包，別帶來這裡。直接將它交給酒保，他經營著一個潛行者酒吧，店名是100輻射。我會把座標跟所有資料都傳到你的PDA去，清楚了嗎？</text>
+	</string>
+	<string id="escape_trader_jobs_61111111">
+		<text>收到。</text>
+	</string>
+	<string id="escape_trader_jobs_611111111">
+		<text>你必須穿過廢棄區通往北方，在經過幾公里後，就會停在農會研究中心前面。小心點，在廢棄區的輻射可是很高的，所以我建議你去弄一些抗輻射劑或是伏特加。好吧，祝好運。</text>
+	</string>
+	<string id="escape_trader_start_dialog_111">
+		<text>有件工作給你，一號…我要你去找一個叫做林伯的潛行者，他帶著很重要的訊息。他在橋的附近失蹤了，找到他，不管生或死--我不在乎，我只需要他身上裝著訊息的隨身碟。在本地營地裡跟沃夫會面，問問他，他知道那傢伙會在甚麼地方。</text>
+	</string>
+	<string id="escape_trader_start_dialog_1111">
+		<text>就是它嗎？</text>
+	</string>
+	<string id="escape_trader_start_dialog_171">
+		<text>嘿，一號，怎麼了？</text>
+	</string>
+	<string id="escape_trader_start_dialog_181">
+		<text>一號，你在這作甚麼？我叫你去找林伯的！</text>
+	</string>
+	<string id="escape_trader_start_dialog_191">
+		<text>那麼，你去過X18實驗室了嗎？拿到文件沒？</text>
+	</string>
+	<string id="escape_trader_start_dialog_1911">
+		<text>耶，在這裡。</text>
+	</string>
+	<string id="escape_trader_start_dialog_19111">
+		<text>好吧，好吧…我知道了..現在有趣了，非常有趣！如果我跟別人說他們一定不會相信我的！嗯…耶…喔！你可不可以看看那個！我沒辦法解釋…它很糟，嗯…好吧，把它們帶走然後交給酒保。喔，還有我會記得你的幫助的。</text>
+	</string>
+	<string id="escape_trader_start_dialog_199">
+		<text>等等，這裡，把手槍和子彈拿去，你沒有武器在變異區裡撐不過兩秒鐘的！此外，當你被帶到這裡時，你身上有一把刀。當你的腦袋還不大清醒時我把它拿走了，你現在看起來很好，所以拿回去吧。</text>
+	</string>
+	<string id="escape_trader_start_dialog_1999">
+		<text>謝謝你。</text>
+	</string>
+	<string id="escape_trader_start_dialog_200">
+		<text>那麼一號，你的異種生意有任何進展嗎？</text>
+	</string>
+	<string id="escape_trader_start_dialog_3">
+		<text>你的選擇。要不是我把你當成菜鳥一樣幫你洗腦，要不就是我把你當成一個真正的潛行者，立刻就把任務交給你。</text>
+	</string>
+	<string id="escape_trader_start_dialog_300">
+		<text>嘿。一號！來得剛好，我有一件小工作要交給你。</text>
+	</string>
+	<string id="escape_trader_start_dialog_31">
+		<text>把我當菜鳥吧，我甚麼都不記得了。</text>
+	</string>
+	<string id="escape_trader_start_dialog_32">
+		<text>把任務交給我？</text>
+	</string>
+	<string id="escape_trader_start_dialog_321">
+		<text>有個任務要交給你，一號…我要你去找一個叫做林伯的潛行者，他帶著很重要的訊息。他在橋的附近失蹤了。找到他，不管生或死--我不在乎，我需他息的隨身碟。在本地營地裡跟沃夫會面，問問他，他知道那傢伙會在甚麼地方。</text>
+	</string>
+	<string id="escape_trader_start_dialog_3211">
+		<text>繼續。</text>
+	</string>
+	<string id="escape_trader_start_dialog_32111">
+		<text>就這樣。把隨身碟交給我，我們會考慮這是不是可以當作我們救你的部分報酬。</text>
+	</string>
+	<string id="escape_trader_start_dialog_321111">
+		<text>好的，我會試試看。</text>
+	</string>
+	<string id="escape_trader_start_dialog_4">
+		<text>嘿，一號，很高興見到你還活著。</text>
+	</string>
+	<string id="escape_trader_start_dialog_5">
+		<text>你好，一號！你幹得如何了？</text>
+	</string>
+	<string id="escape_trader_start_dialog_51">
+		<text>任務完成，神器在這裡。</text>
+	</string>
+	<string id="escape_trader_start_dialog_511">
+		<text>很好，一號，再幫一次忙我們就扯平了。</text>
+	</string>
+	<string id="escape_trader_start_dialog_5111">
+		<text>甚麼忙？</text>
+	</string>
+	<string id="escape_trader_start_dialog_52">
+		<text>情勢越來越明朗了。</text>
+	</string>
+	<string id="escape_trader_start_dialog_52111">
+		<text>裝著訊息的隨身碟在哪裡？</text>
+	</string>
+	<string id="escape_trader_start_dialog_521111">
+		<text>這裡。</text>
+	</string>
+	<string id="escape_trader_start_dialog_5211111">
+		<text>太好了。</text>
+	</string>
+	<string id="escape_trader_start_dialog_521112">
+		<text>我沒拿到。</text>
+	</string>
+	<string id="escape_trader_start_dialog_5211121">
+		<text>那真可惜，一號，非常的可惜。我們不能談生意，直到你把它帶回來給我…</text>
+	</string>
+	<string id="escape_trader_start_dialog_521211">
+		<text>這裡，拿去吧。</text>
+	</string>
+	<string id="escape_trader_start_dialog_5212111">
+		<text>很好…我們會考慮讓你通過測試。我現在建議你別去新兵營了。</text>
+	</string>
+	<string id="escape_trader_start_dialog_56">
+		<text>還沒有。</text>
+	</string>
+	<string id="escape_trader_start_dialog_571">
+		<text>那麼，你把神器帶回來的嗎？</text>
+	</string>
+	<string id="escape_trader_start_dialog_5711">
+		<text>還沒。</text>
+	</string>
+	<string id="escape_trader_start_dialog_57111">
+		<text>好吧，除非你把它帶回來，不然我們沒甚麼好談的，懂嗎？</text>
+	</string>
+	<string id="escape_trader_start_dialog_6">
+		<text>一號，我已經把所有的事都跟你說了。裡開這裡！</text>
+	</string>
+	<string id="escape_trader_start_dialog_661">
+		<text>那麼一號，有甚麼消息嗎？</text>
+	</string>
+	<string id="escape_trader_talk_info_0">
+		<text>我需要一些問題的答案。</text>
+	</string>
+	<string id="escape_trader_talk_info_1">
+		<text>你問吧，但是我不知道所有的事情。當生活在外面的世界繼續時我還是整天坐在這裡，就在變異區裡面。我可以告訴你關於變異區的一些事情，跟附近我自己去過的地方的事。</text>
+	</string>
+	<string id="escape_trader_talk_info_100">
+		<text>告訴我關於變異區的事情。</text>
+	</string>
+	<string id="escape_trader_talk_info_101">
+		<text>問吧。</text>
+	</string>
+	<string id="escape_trader_talk_info_2">
+		<text>軍隊在變異區裡作甚麼？</text>
+	</string>
+	<string id="escape_trader_talk_info_21">
+		<text>他們守衛和保護，還能有甚麼？沒人知道他們要守衛變異區的甚麼東西，還是要保護世界免受變異區的傷害。有時他們派了整個探險隊來尋找某些事物…但我告訴你一些事情：他們並不尊重變異區，而變異區也不喜歡他們，因此他們回去時總是裹著屍袋。還有甚麼？好吧，他們自以為自己是老大，不尊重潛行者的規矩，而且就算你死在他們的眼前他們也不會幫你。他們會很高興的開槍射你，而不會因此受到譴責…我跟他們幾個人接觸過…你知道的，人們總是需要伏特加和…嗯，雜誌，對吧？別惹他們--他們會把你整得甚麼都不是。</text>
+	</string>
+	<string id="escape_trader_talk_info_3">
+		<text>告訴我關於變異區的事情。</text>
+	</string>
+	<string id="escape_trader_talk_info_31">
+		<text>變異區…你知道的。它不只是中心有核電廠、直徑大約幾公里的一個圓形區域而已。它是超乎正常的東西，非常的異常。我打賭所有的人都會直接給你這樣的答案。我覺得變異區甚至不是這個世界的一部份--怪異又危險…但也迷人。你知道為什麼嗎？因為帶著點運氣任何人都可以在這裡致富。你越接近變異區中心，你就可以賺到越多的錢。</text>
+	</string>
+	<string id="escape_trader_talk_info_311">
+		<text>為什麼這個"不同的世界"會這麼危險？</text>
+	</string>
+	<string id="escape_trader_talk_info_3111">
+		<text>嗯…我不知道很多。在這裡你可能馬上就死掉，還不知道是甚麼東西打倒了你。那些笨蛋軍人隨便的到處開槍，他們在這裡設置了一堆軍事基地，不過被槍擊中算是變異區最輕鬆的死法了。變異點--對你來說那才算個東西…死在變異點中的確是一件恐怖的事情，連異種生物都會想辦法避開它們。對了，異種生物，這些"變異區之子"，是另一種麻煩，所以不要空著手就四處亂跑。還有，要學習到其他的危險，就去問問別的潛行者。</text>
+	</string>
+	<string id="escape_trader_talk_info_312">
+		<text>一個人在這裡要怎樣發財？</text>
+	</string>
+	<string id="escape_trader_talk_info_3121">
+		<text>唉呀，朋友，你在想甚麼？你不記得了嗎？！神器--這裡最重要的東西。所有來自變異區的奇怪玩具，在大陸是可以賺一上大筆錢的。神器比黃金、鑽石或是純鈽還值錢。為什麼？因為沒有任何寶石可以像神器一樣給你超自然的力量。想想看：你只要掛上一個小玩意兒在你的腰帶上，就可以讓子彈避過你的身體而不會擊中你！還有甚麼？好吧，即使在這裡你也可以發現一些小東西。但如果你想找到更有價值的東西，那你就得進入靠近中央的地區。</text>
+	</string>
+	<string id="escape_trader_talk_info_313">
+		<text>有人知道變異區中央發生了甚麼事嗎？</text>
+	</string>
+	<string id="escape_trader_talk_info_3131">
+		<text>每次你聽到它都會是不同的傳說。這可是一串的神話故事…我可是不相信這些無聊的空想故事。但我相信的是在變異區的中央有一堆很有價值的神器。只是我還沒見過有任何人去那裡可以活著回來的。</text>
+	</string>
+	<string id="escape_trader_talk_info_4">
+		<text>你知道我發生了甚麼事情嗎？</text>
+	</string>
+	<string id="escape_trader_talk_info_41">
+		<text>這算甚麼問題？你知道的，那是一些見不得光的勾當…他們在"死亡卡車"裡發現你，那是…是某種屍體的運送工具，是吧？這些車子有時會從變異區的中央來到這裡，載滿著屍體。沒有人真正清楚他們要去哪裡。所以，其中一輛不知撞到了甚麼，然後你就在附近被發現了。這真是最神奇的事情，我們以前發現過損毀的屍體運輸車，但卻沒有見過活人。我很抱歉，兄弟，我能幫你的只有這樣了，其它的你必須自己去弄清楚。</text>
+	</string>
+	<string id="escape_trader_talk_info_5">
+		<text>誰是史特列洛克？</text>
+	</string>
+	<string id="escape_trader_talk_info_51">
+		<text>耶，我有聽過一個用那個名字的潛行者。謠傳說他是少數幾個進入變異區中央而活著回來的人。我們一直有這些傳奇英雄的故事在流傳著，但我不能保證任何的事情。至少，我個人從未和他接觸過--看來他有自己的交易管道。不管怎樣，問問在變異區的人，你會知道更多的。</text>
+	</string>
+	<string id="escape_trader_talk_info_6">
+		<text>誰是鬼魂潛行者？</text>
+	</string>
+	<string id="escape_trader_talk_info_61">
+		<text>嘿，那又是另一個當地的傳說了。我們有很久沒聽到他的事情了，我猜他可能死在變異區深處的某個地方了。</text>
+	</string>
+	<string id="escape_trader_talk_info_99">
+		<text>在這附近發生了甚麼事？</text>
+	</string>
+	<string id="escape_trader_talk_info_999">
+		<text>呼！這裡是通往變異區的入口，進入變異區的前廳。我們有隻軍隊把這裡封鎖著，除了有時會有幾個士兵找些樂子狂奔熱舞外，這裡都很安靜。有經驗的潛行者很少會來這裡，會來的大部分都是些菜鳥。有些移民者會在這邊找東西，耶…這邊有條小路可以通往駐紮在農場的新兵營，小心點，當有外力逼近他們可是會開槍的。還有甚麼？你在這撈不到甚麼好處，這點很肯定。在路上有個廢棄的工廠，往北邊，在鐵路路堤後方有個農場廢墟，這裡往南有一個軍方的前哨站。小心點：軍方在地面上留下了些地雷。還有在中央應該有座橋樑，但不曉得怎樣的它倒下了。就這樣啦，真的。</text>
+	</string>
+	<string id="escape_trader_talk_info_9991">
+		<text>告訴我更多關於軍方前哨站的事情。</text>
+	</string>
+	<string id="escape_trader_talk_info_99911">
+		<text>有幾個士兵被命令不管看到了甚麼就開槍射擊，所以你最好從旁邊走，別把你的屁股露出來。如果你把他們惹毛了，他們可使會召喚特殊部隊過來支援，別讓這些傢伙爆發起來，我沒有任何客戶可以跟他們周旋超過一個月的…我知道一些關於指揮官的事：他很喜歡跟人喝上一杯，謝謝他因為這樣我才能在這裡生存。</text>
+	</string>
+	<string id="escape_trader_talk_info_9992">
+		<text>我想知道更多關於塌橋的訊息。</text>
+	</string>
+	<string id="escape_trader_talk_info_99922">
+		<text>從這裡到北方不過幾分鐘的路程--你很快就會看到的。那裡本來在路上有座橋樑，但是在一次爆炸後橋塌了。軍方的傢伙在那邊設了檢查點，而且不讓任何人通過…但如果你賄賂對人，你就可以平安的過去了。一般來說，你不會想出現在那邊，除非你有重要的事一定要去做，不然硬闖可是會遭受到重擊的。</text>
+	</string>
+	<string id="escape_trader_talk_info_9993">
+		<text>還有更多關於工廠的訊息嗎？</text>
+	</string>
+	<string id="escape_trader_talk_info_99933">
+		<text>越過道路你會看到一座磚牆建築--那就是它。所有能偷的都被偷光了，就只剩下這一個盒子。這裡是強盜最愛的地方，我不知道他們現在是不是在那邊，但是要小心一點。你身上是沒甚麼值錢的東西可以被搶的，不過你真的要穿過那邊嗎？</text>
+	</string>
+	<string id="escape_trader_talk_info_9994">
+		<text>告訴我關於農場的事。</text>
+	</string>
+	<string id="escape_trader_talk_info_99944">
+		<text>你越來越無聊了，你知道嗎？它跟其它的農場沒甚麼兩樣的，這地方在民主被破壞之前一直都是很興旺的。</text>
+	</string>
+	<string id="escape_trader_talk_info_9995">
+		<text>謝了，就這樣。</text>
+	</string>
+	<string id="escape_trader_talk_info_9996">
+		<text>我想知道更多。</text>
+	</string>
+	<string id="escape_trader_talk_level_0">
+		<text>告訴我關於這個地方的事情。</text>
+	</string>
+	<string id="escape_trader_talk_level_1">
+		<text>呼！這裡是通往變異區的入口，進入變異區的前廳。我們有隻軍隊把這裡封鎖著，除了有時會有幾個士兵找些樂子狂奔熱舞外，這裡都很安靜。有經驗的潛行者很少會來這裡，會來的大部分都是些菜鳥。有些移民者會在這邊找東西，耶…這邊有條小路可以通往駐紮在農場的新兵營，小心點，當有外力逼近他們可是會開槍的。還有甚麼？你在這撈不到甚麼好處，這點很肯定。在路上有個廢棄的工廠，往北邊，在鐵路路堤後方有個農場廢墟，這裡往南有一個軍方的前哨站。小心點：軍方在地面上留下了些地雷。還有在中央應該有座橋樑，但不曉得怎樣的它倒下了。就這樣啦，真的。</text>
+	</string>
+	<string id="escape_trader_talk_level_10">
+		<text>好的，謝謝。</text>
+	</string>
+	<string id="escape_trader_talk_level_2">
+		<text>告訴我更多關於軍方前哨站的事情。</text>
+	</string>
+	<string id="escape_trader_talk_level_21">
+		<text>有幾個士兵被命令不管看到了甚麼就開槍射擊，所以你最好從旁邊走，別把你的屁股露出來。如果你把他們惹毛了，他們可使會召喚特殊部隊過來支援，別讓這些傢伙爆發起來，我沒有任何客戶可以跟他們周旋超過一個月的…我知道一些關於指揮官的事：他很喜歡跟人喝上一杯，謝謝他因為這樣我才能在這裡生存。</text>
+	</string>
+	<string id="escape_trader_talk_level_3">
+		<text>我想知道更多關於塌橋的訊息。</text>
+	</string>
+	<string id="escape_trader_talk_level_31">
+		<text>從這裡到北方不過幾分鐘的路程--你很快就會看到的。那裡本來在路上有座橋樑，但是在一次爆炸後橋塌了。軍方的傢伙在那邊設了檢查點，而且不讓任何人通過…但如果你賄賂對人，你就可以平安的過去了。一般來說，你不會想出現在那邊，除非你有重要的事一定要去做，不然硬闖可是會遭受到重擊的。</text>
+	</string>
+	<string id="escape_trader_talk_level_4">
+		<text>有關於工廠的訊息嗎？</text>
+	</string>
+	<string id="escape_trader_talk_level_41">
+		<text>穿過道路你會見到一座磚造建築--就是它。所有能偷的東西都被偷光了，只剩下這個盒子留著。這是強盜最愛的地方，我不知道他們現在在不在這邊，反正小心一點就是了。你身上沒啥值錢的東西，但你真的要穿過那邊嗎？</text>
+	</string>
+	<string id="escape_trader_talk_level_5">
+		<text>跟我說關於農場的事情。</text>
+	</string>
+	<string id="escape_trader_talk_level_51">
+		<text>你變得無聊了，你知道嗎？那不過是座平常的農場。在民主崩壞之前那地方可是很繁榮的。</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_1">
+		<text>我沒事…只是全身到處都在流血。給我醫藥箱，好嗎？</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_121">
+		<text>謝了，兄弟！</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_2">
+		<text>拿去吧。</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_21">
+		<text>謝了，朋友。再晚一點我就…我欠你一條命。</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_211">
+		<text>到底發生了甚麼事？</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_2111">
+		<text>我們從巡邏區回來…遇上了一些歹徒。我們的一個人在那邊被殺害了，寧保因為編了個一堆神器的故事，讓他們抓住。我則是裝死保住了小命。</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_21111">
+		<text>我必須見到寧保…我要去追他。要跟我一起嗎？</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_211111">
+		<text>喔，兄弟…現在我可是一個道地的好戰士了。我該回復些體力然後回到營地，讓大家知道你幫了我這麼多！再次的感謝。</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_2111111">
+		<text>好的，你去做吧。祝好運。</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_3">
+		<text>抱歉，朋友，我沒有醫藥箱。</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_31">
+		<text>搜尋屍體…我們的人一定有一些…一定在某個地方。</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_5111">
+		<text>不太好，但我還活著。該死，為什麼我沒存夠錢買件防彈背心，居然帶個笨蛋不穿防彈背心的深入到變異區裡。</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_6">
+		<text>喔，該死，真痛…我要死了…</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_61">
+		<text>你還活著？</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_7">
+		<text>喔…</text>
+	</string>
+	<string id="tutorial_wounded_give_medkit_8">
+		<text>你還好嗎？</text>
+	</string>
+</string_table>

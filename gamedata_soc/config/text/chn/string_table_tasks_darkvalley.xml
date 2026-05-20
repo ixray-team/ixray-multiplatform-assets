@@ -1,0 +1,72 @@
+	<string id="bar_darklab_documents">
+		<text>尋找地下實驗室中的文件</text>
+	</string>
+	<string id="bar_darklab_documents_1">
+		<text>從伯羅夫處取得實驗室的鑰匙</text>
+	</string>
+	<string id="bar_darklab_documents_2">
+		<text>離開強盜基地</text>
+	</string>
+	<string id="bar_darklab_documents_3">
+		<text>尋找實驗室的入口</text>
+	</string>
+	<string id="bar_darklab_documents_4">
+		<text>潛行進入基地</text>
+	</string>
+	<string id="bar_darklab_documents2">
+		<text>在X18實驗室中尋找文件</text>
+	</string>
+	<string id="bar_darklab_documents2_1">
+		<text>尋找文件</text>
+	</string>
+	<string id="bar_darklab_documents2_2">
+		<text>將文件交給酒保</text>
+	</string>
+	<string id="dar_codedoor_1">
+		<text>尋找密碼所著的門</text>
+	</string>
+	<string id="dar_codedoor_1_1">
+		<text>發現開門用的密碼</text>
+	</string>
+	<string id="dar_codedoor_1_2">
+		<text>使用密碼開門</text>
+	</string>
+	<string id="dar_codedoor_2">
+		<text>開啟通往控制中心的門</text>
+	</string>
+	<string id="dar_codedoor_2_1">
+		<text>發現開門用的密碼</text>
+	</string>
+	<string id="dar_codedoor_2_2">
+		<text>使用密碼開門</text>
+	</string>
+	<string id="val_captive_help">
+		<text>解救紀律團的人</text>
+	</string>
+	<string id="val_captive_help_1">
+		<text>跟著彈子來到伏擊點</text>
+	</string>
+	<string id="val_captive_help_2">
+		<text>殺死強盜並且解救紀律團的人</text>
+	</string>
+	<string id="val_come_to_trader">
+		<text>交回給貿易商人</text>
+	</string>
+	<string id="val_come_to_trader_0">
+		<text>交回給貿易商人</text>
+	</string>
+	<string id="val_come_to_trader_1">
+		<text>離開黑暗山谷</text>
+	</string>
+	<string id="val_come_to_trader_2">
+		<text>展示文件給貿易商人</text>
+	</string>
+	<string id="val_prisoner_help">
+		<text>從監獄中解放紀律團成員</text>
+	</string>
+	<string id="val_prisoner_help_0">
+		<text>將紀律團成員從強盜監獄中救出來</text>
+	</string>
+	<string id="val_prisoner_help_main">
+		<text>從強盜的監獄中解放紀律團的成員</text>
+	</string>

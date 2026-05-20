@@ -1,0 +1,174 @@
+	<string id="bandit_experienced">
+		<text>強盜，熟手</text>
+	</string>
+	<string id="bandit_master">
+		<text>強盜，專家</text>
+	</string>
+	<string id="bandit_novice">
+		<text>強盜，新手</text>
+	</string>
+	<string id="bandit_veteran">
+		<text>強盜，高手</text>
+	</string>
+	<string id="bloodsucker_normal">
+		<text>次等吸血怪</text>
+	</string>
+	<string id="bloodsucker_strong">
+		<text>黑暗吸血怪</text>
+	</string>
+	<string id="bloodsucker_weak">
+		<text>吸血怪</text>
+	</string>
+	<string id="boar_normal">
+		<text>長大的野豬</text>
+	</string>
+	<string id="boar_strong">
+		<text>成年的野豬</text>
+	</string>
+	<string id="boar_weak">
+		<text>年輕的野豬</text>
+	</string>
+	<string id="burer_weak">
+		<text>布瑞爾</text>
+	</string>
+	<string id="controller_weak">
+		<text>控制器</text>
+	</string>
+	<string id="dog_normal">
+		<text>獵鼠犬</text>
+	</string>
+	<string id="dog_strong">
+		<text>白化犬</text>
+	</string>
+	<string id="dog_weak">
+		<text>野狗</text>
+	</string>
+	<string id="dolg_experienced">
+		<text>紀律團，熟手</text>
+	</string>
+	<string id="dolg_master">
+		<text>紀律團，專家</text>
+	</string>
+	<string id="dolg_veteran">
+		<text>紀律團，老兵</text>
+	</string>
+	<string id="ecolog_experienced">
+		<text>科學家，專家</text>
+	</string>
+	<string id="ecolog_novice">
+		<text>科學家，助手</text>
+	</string>
+	<string id="flesh_normal">
+		<text>森林區的豚獸</text>
+	</string>
+	<string id="flesh_strong">
+		<text>沼澤區的豚獸</text>
+	</string>
+	<string id="flesh_weak">
+		<text>牧場的豚獸</text>
+	</string>
+	<string id="freedom_experienced">
+		<text>自由團，多產</text>
+	</string>
+	<string id="freedom_master">
+		<text>自由團，王牌</text>
+	</string>
+	<string id="freedom_veteran">
+		<text>自由團，戰犬</text>
+	</string>
+	<string id="killer_experienced">
+		<text>傭兵團，入門者</text>
+	</string>
+	<string id="killer_master">
+		<text>傭兵，老手</text>
+	</string>
+	<string id="killer_veteran">
+		<text>傭兵，老兵</text>
+	</string>
+	<string id="military_experienced">
+		<text>士兵，中士</text>
+	</string>
+	<string id="military_master">
+		<text>士兵，上尉</text>
+	</string>
+	<string id="military_novice">
+		<text>士兵，大兵</text>
+	</string>
+	<string id="military_veteran">
+		<text>士兵，中尉</text>
+	</string>
+	<string id="monolith_experienced">
+		<text>黑石組，高手</text>
+	</string>
+	<string id="monolith_master">
+		<text>黑石組，專家</text>
+	</string>
+	<string id="monolith_novice">
+		<text>黑石組，菜鳥</text>
+	</string>
+	<string id="monolith_veteran">
+		<text>黑石組，老兵</text>
+	</string>
+	<string id="neutral_experienced">
+		<text>潛行者，入門者</text>
+	</string>
+	<string id="neutral_master">
+		<text>潛行者，有經驗的</text>
+	</string>
+	<string id="neutral_novice">
+		<text>潛行者，無力的</text>
+	</string>
+	<string id="neutral_veteran">
+		<text>潛行者，前大師</text>
+	</string>
+	<string id="poltergeist_weak">
+		<text>吵鬧鬼</text>
+	</string>
+	<string id="pseudo_gigant_weak">
+		<text>巨型地獄犬</text>
+	</string>
+	<string id="pseudodog_normal">
+		<text>地獄犬成犬</text>
+	</string>
+	<string id="pseudodog_strong">
+		<text>灰毛地獄犬</text>
+	</string>
+	<string id="pseudodog_weak">
+		<text>地獄犬</text>
+	</string>
+	<string id="psy_dog">
+		<text>灰暗地獄犬</text>
+	</string>
+	<string id="snork_normal">
+		<text>食腐史諾克</text>
+	</string>
+	<string id="snork_strong">
+		<text>吃人史諾克</text>
+	</string>
+	<string id="snork_weak">
+		<text>史諾克</text>
+	</string>
+	<string id="tushkano_weak">
+		<text>老鼠</text>
+	</string>
+	<string id="zombie_normal">
+		<text>殭屍</text>
+	</string>
+	<string id="zombie_strong">
+		<text>殭屍</text>
+	</string>
+	<string id="zombie_weak">
+		<text>殭屍</text>
+	</string>
+	<string id="zombied_experienced">
+		<text>殭屍化的潛行者，有經驗的</text>
+	</string>
+	<string id="zombied_master">
+		<text>殭屍化的潛行者，專家</text>
+	</string>
+	<string id="zombied_novice">
+		<text>殭屍化的潛行者，新手</text>
+	</string>
+	<string id="zombied_veteran">
+		<text>殭屍化的潛行者，老兵</text>
+	</string>

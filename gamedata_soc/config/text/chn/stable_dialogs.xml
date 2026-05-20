@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="actor_break_dialog_0">
+		<text>再見！</text>
+	</string>
+	<string id="actor_help_wounded_0">
+		<text>你沒事吧？</text>
+	</string>
+	<string id="actor_help_wounded_1">
+		<text>該死，我受傷了，你沒看見嗎？我需要醫藥箱，或是繃帶也可以。</text>
+	</string>
+	<string id="actor_help_wounded_11">
+		<text>這裡，把醫藥箱拿去。</text>
+	</string>
+	<string id="actor_help_wounded_111">
+		<text>謝了兄弟，我不會忘記的。</text>
+	</string>
+	<string id="actor_help_wounded_12">
+		<text>這裡，把繃帶拿去。</text>
+	</string>
+	<string id="actor_help_wounded_13">
+		<text>抱歉，我什麼都沒有。</text>
+	</string>
+	<string id="actor_help_wounded_131">
+		<text>那你是怎麼走遍變異區的？難道你不會被感染或是什麼的嗎？你甚至沒辦法治療你自己！</text>
+	</string>
+	<string id="actor_help_wounded_14">
+		<text>抱歉，兄弟。但如果把我的給了你，我自己就什麼都沒有了。</text>
+	</string>
+	<string id="actor_help_wounded_141">
+		<text>那是你的問題，但這對你沒有任何好處。</text>
+	</string>
+	<string id="hello_dialog_2">
+		<text>嘿！</text>
+	</string>
+	<string id="hello_dialog_3">
+		<text>幫我個忙，可以嗎？</text>
+	</string>
+</string_table>

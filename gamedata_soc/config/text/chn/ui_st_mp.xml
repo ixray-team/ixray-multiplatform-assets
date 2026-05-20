@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mp_art_destroyed">
+		<text>神器已經毀滅。</text>
+	</string>
+	<string id="mp_art_spowned">
+		<text>神器產生。將它帶回基地可以得到一分。</text>
+	</string>
+	<string id="mp_artefacts">
+		<text>神器</text>
+	</string>
+	<string id="mp_artefacts_upcase">
+		<text>神器</text>
+	</string>
+	<string id="mp_auto_select">
+		<text>自動選擇</text>
+	</string>
+	<string id="mp_back">
+		<text>退回</text>
+	</string>
+	<string id="mp_ban">
+		<text>禁止</text>
+	</string>
+	<string id="mp_by_anomaly">
+		<text>特異點旁</text>
+	</string>
+	<string id="mp_cancel">
+		<text>取消</text>
+	</string>
+	<string id="mp_change_map">
+		<text>改變地圖</text>
+	</string>
+	<string id="mp_change_weather">
+		<text>改變氣候</text>
+	</string>
+	<string id="mp_chat">
+		<text>交談</text>
+	</string>
+	<string id="mp_connected">
+		<text>連結</text>
+	</string>
+	<string id="mp_deaths">
+		<text>死亡</text>
+	</string>
+	<string id="mp_description">
+		<text>說明</text>
+	</string>
+	<string id="mp_disconnected">
+		<text>斷線</text>
+	</string>
+	<string id="mp_enter_text">
+		<text>輸入文字投票</text>
+	</string>
+	<string id="mp_entered_game">
+		<text>已經進入遊戲</text>
+	</string>
+	<string id="mp_first_eye">
+		<text>（第一人稱視野）</text>
+	</string>
+	<string id="mp_frags">
+		<text>殺敵數量</text>
+	</string>
+	<string id="mp_frags_upcase">
+		<text>殺敵數量</text>
+	</string>
+	<string id="mp_free_fly">
+		<text>（自由--攝影機）</text>
+	</string>
+	<string id="mp_free_look">
+		<text>（第三人稱視野）</text>
+	</string>
+	<string id="mp_from">
+		<text>跟</text>
+	</string>
+	<string id="mp_go">
+		<text>出發！</text>
+	</string>
+	<string id="mp_has_drop_art">
+		<text>丟棄%s神器</text>
+	</string>
+	<string id="mp_has_tak_art">
+		<text>拿取%s神器</text>
+	</string>
+	<string id="mp_headhuntrs">
+		<text>傭兵團</text>
+	</string>
+	<string id="mp_is_now">
+		<text>現在</text>
+	</string>
+	<string id="mp_joined">
+		<text>已經加入</text>
+	</string>
+	<string id="mp_kick">
+		<text>丟棄</text>
+	</string>
+	<string id="mp_look_at">
+		<text>（自由--鎖定）</text>
+	</string>
+	<string id="mp_map_desc">
+		<text>地圖說明</text>
+	</string>
+	<string id="mp_match_started">
+		<text>對決開始！</text>
+	</string>
+	<string id="mp_modes">
+		<text>模式</text>
+	</string>
+	<string id="mp_name">
+		<text>名稱</text>
+	</string>
+	<string id="mp_next">
+		<text>下一個</text>
+	</string>
+	<string id="mp_no_voted">
+		<text>尚未投票</text>
+	</string>
+	<string id="mp_ping">
+		<text>ping</text>
+	</string>
+	<string id="mp_player_wins">
+		<text>玩家%s贏得了對決！</text>
+	</string>
+	<string id="mp_players">
+		<text>玩家</text>
+	</string>
+	<string id="mp_press_fire2spectator">
+		<text>按下發射來切換到觀察員模式</text>
+	</string>
+	<string id="mp_press_jump2pay_spaw">
+		<text>按下跳躍來購買立即重生</text>
+	</string>
+	<string id="mp_press_jump2select_skin">
+		<text>按下跳躍來選擇外觀</text>
+	</string>
+	<string id="mp_press_jump2select_team">
+		<text>按下跳躍來選擇隊伍</text>
+	</string>
+	<string id="mp_press_jump2spawn">
+		<text>按下跳躍來產生</text>
+	</string>
+	<string id="mp_press_jump2start">
+		<text>按下跳躍開始</text>
+	</string>
+	<string id="mp_press_to_buy">
+		<text>按下($$ACTION_BUY_MENU$$)來進入購買選單</text>
+	</string>
+	<string id="mp_press_yes2pay">
+		<text>你有%d$。你可以用%d$來重生。按下確定來付款。</text>
+	</string>
+	<string id="mp_ready">
+		<text>準備…</text>
+	</string>
+	<string id="mp_restart">
+		<text>重新開始</text>
+	</string>
+	<string id="mp_restart_fast">
+		<text>快速重新開始</text>
+	</string>
+	<string id="mp_scores">
+		<text>獲得一分</text>
+	</string>
+	<string id="mp_select_ban">
+		<text>藉由投票來禁止選擇的玩家</text>
+	</string>
+	<string id="mp_select_category">
+		<text>選擇投票內容</text>
+	</string>
+	<string id="mp_select_kick">
+		<text>選擇用投票踢出遊戲的玩家</text>
+	</string>
+	<string id="mp_select_kick_player">
+		<text>選擇用投票踢出遊戲的玩家</text>
+	</string>
+	<string id="mp_select_map">
+		<text>選擇要投票的地圖</text>
+	</string>
+	<string id="mp_skin_selection">
+		<text>外觀選擇</text>
+	</string>
+	<string id="mp_spectator">
+		<text>觀察員</text>
+	</string>
+	<string id="mp_spectators">
+		<text>觀察員</text>
+	</string>
+	<string id="mp_status">
+		<text>狀況</text>
+	</string>
+	<string id="mp_switched_to">
+		<text>已經切換至</text>
+	</string>
+	<string id="mp_team_free_stalkers">
+		<text>自由團</text>
+	</string>
+	<string id="mp_team_selection">
+		<text>隊伍選擇</text>
+	</string>
+	<string id="mp_team_wins">
+		<text>隊伍 %s 勝利！</text>
+	</string>
+	<string id="mp_text">
+		<text>文字</text>
+	</string>
+	<string id="mp_time2respawn">
+		<text>剩餘重生時間</text>
+	</string>
+	<string id="mp_time2start">
+		<text>剩餘開始時間</text>
+	</string>
+	<string id="mp_timeleft">
+		<text>時間尚有：%d:%d; 同意 %.2f</text> 
+	</string>
+	<string id="mp_vote_no">
+		<text>不</text>
+	</string>
+	<string id="mp_vote_yes">
+		<text>是</text>
+	</string>
+	<string id="mp_voted">
+		<text>投票</text>
+	</string>
+	<string id="mp_voted_no">
+		<text>反對</text>
+	</string>
+	<string id="mp_voted_yes">
+		<text>贊成</text>
+	</string>
+	<string id="mp_voting_broken">
+		<text>伺服器取消了投票！</text>
+	</string>
+	<string id="mp_voting_started">
+		<text>投票'%s'已經在%s開始。</text>
+	</string>
+	<string id="mp_voting_started_msg">
+		<text>投票開始！</text>
+	</string>
+	<string id="mp_weather_clear">
+		<text>晴朗</text>
+	</string>
+	<string id="mp_weather_cloudy">
+		<text>多雲</text>
+	</string>
+	<string id="mp_weather_night">
+		<text>夜晚</text>
+	</string>
+	<string id="mp_weather_rain">
+		<text>雨天</text>
+	</string>
+	<string id="mp_with_backstab">
+		<text>偷襲!!!</text>
+	</string>
+	<string id="mp_with_headshot">
+		<text>爆腦!!!</text>
+	</string>
+	<string id="mp_your_rank">
+		<text>你的排名現在是</text>
+	</string>
+	<string id="ui_st_description">
+		<text>說明</text>
+	</string>
+	<string id="ui_st_team1_name">
+		<text>自由團</text>
+	</string>
+	<string id="ui_st_team2_name">
+		<text>傭兵團</text>
+	</string>
+	<string id="af_neutral">
+		<text>神器</text>
+	</string>
+	<string id="self">
+		<text>是你</text>
+	</string>
+	<string id="friend">
+		<text>同盟</text>
+	</string>
+	<string id="team_base_1">
+		<text>自由團基地</text>
+	</string>
+	<string id="team_base_2">
+		<text>傭兵團基地</text>
+	</string>
+	<string id="mp_si_no">
+		<text>不</text>
+	</string>
+	<string id="mp_si_yes">
+		<text>是的</text>
+	</string>
+	<string id="mp_si_min">
+		<text>分鐘</text>
+	</string>
+	<string id="mp_si_sec">
+		<text>秒鐘</text>
+	</string>
+	<string id="mp_si_maprotation">
+		<text>地圖旋轉</text>
+	</string>
+	<string id="mp_si_voting">
+		<text>投票</text>
+	</string>
+	<string id="mp_si_enabled">
+		<text>開啟</text>
+	</string>
+	<string id="mp_si_disabled">
+		<text>關閉</text>
+	</string>
+	<string id="mp_si_spectatormodes">
+		<text>觀察員模式：</text>
+	</string>
+	<string id="mp_si_servername">
+		<text>伺服器名稱：</text>
+	</string>
+	<string id="mp_si_version">
+		<text>版本：</text>
+	</string>
+	<string id="mp_si_free_fly">
+		<text>- 自由飛行</text>
+	</string>
+	<string id="mp_si_first_eye">
+		<text>- 第一人稱</text>
+	</string>
+	<string id="mp_si_look_at">
+		<text>- 第三人稱</text>
+	</string>
+	<string id="mp_si_free_look">
+		<text>- 自由觀看</text>
+	</string>
+	<string id="mp_si_team_only">
+		<text>- 隊伍專用</text>
+	</string>
+	<string id="mp_si_fraglimit">
+		<text>旗幟限制</text>
+	</string>
+	<string id="mp_si_time_limit">
+		<text>時間限制</text>
+	</string>
+	<string id="mp_si_invinsibility_indicators">
+		<text>- 指示器</text>
+	</string>
+	<string id="mp_si_invinsibility_time">
+		<text>- 時間</text>
+	</string>
+	<string id="mp_si_invinsibility">
+		<text>無敵：</text>
+	</string>
+	<string id="mp_si_anomalies">
+		<text>特異點</text>
+	</string>
+	<string id="mp_si_anomalies_period">
+		<text>特異點週期</text>
+	</string>
+	<string id="mp_si_infinite">
+		<text>無限大</text>
+	</string>
+	<string id="mp_si_forcerespawn">
+		<text>勢力重生</text>
+	</string>
+	<string id="mp_si_warmuptime">
+		<text>暖身</text>
+	</string>
+	<string id="mp_si_autoteam_balance">
+		<text>自動隊伍平衡</text>
+	</string>
+	<string id="mp_si_autoteam_swap">
+		<text>自動隊伍交換</text>
+	</string>
+	<string id="mp_si_friendly_indicators">
+		<text>友軍指示器</text>
+	</string>
+	<string id="mp_si_friendly_names">
+		<text>友軍名稱</text>
+	</string>
+	<string id="mp_si_friendly_fire">
+		<text>友軍傷害</text>
+	</string>
+	<string id="mp_si_artefacts">
+		<text>神器</text>
+	</string>
+	<string id="mp_si_afcount">
+		<text>-  總計</text>
+	</string>
+	<string id="mp_si_afstaytime">
+		<text>-  停留時間</text>
+	</string>
+	<string id="mp_si_afrespawntime">
+		<text>-  重生時間</text>
+	</string>
+	<string id="mp_si_players_respawn">
+		<text>重生</text>
+	</string>
+	<string id="mp_si_artefact_captured">
+		<text>捕獲神器</text>
+	</string>
+	<string id="mp_si_any_time">
+		<text>任何時間</text>
+	</string>
+	<string id="mp_si_shielded_bases">
+		<text>防護基地</text>
+	</string>
+	<string id="mp_si_return_players">
+		<text>玩家回到基地</text>
+	</string>
+	<string id="mp_si_afbearer_cant_sprint">
+		<text>無衝刺，攜帶神器</text>
+	</string>
+</string_table>

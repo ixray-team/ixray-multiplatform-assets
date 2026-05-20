@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="agr_secret_0000_descr">
+		<text>現在我們的秘密藏匿物在通道裡。那是一個好地方--沒什麼人知道，而特異點會讓其他人遠離。</text>
+	</string>
+	<string id="agr_secret_0000_name">
+		<text>葛雷的秘密藏匿物</text>
+	</string>
+	<string id="agr_secret_0001_descr">
+		<text>我把它藏在通道旁的殘幹中，那邊有個不錯的洞穴。</text>
+	</string>
+	<string id="agr_secret_0001_name">
+		<text>有洞的殘幹</text>
+	</string>
+	<string id="agr_secret_0002_descr">
+		<text>我把一些好東西埋在灌木叢的十字記號下。</text>
+	</string>
+	<string id="agr_secret_0002_name">
+		<text>十字記號下的標記</text>
+	</string>
+	<string id="agr_secret_0003_descr">
+		<text>把背包丟在在傾倒的樹旁。</text>
+	</string>
+	<string id="agr_secret_0003_name">
+		<text>樹下的背包</text>
+	</string>
+	<string id="agr_secret_0004_descr">
+		<text>把背包塞在工廠中的管子裡，沒人會發現它。</text>
+	</string>
+	<string id="agr_secret_0004_name">
+		<text>煙囪清潔工的背包</text>
+	</string>
+	<string id="agr_secret_0005_descr">
+		<text>把箱子藏在工廠的屋頂下方--那邊沒人會發現的。</text>
+	</string>
+	<string id="agr_secret_0005_name">
+		<text>在屋頂的箱子</text>
+	</string>
+	<string id="agr_secret_0006_descr">
+		<text>他們在開槍射擊，必須將背包放在列車的座椅之下。至少在逃掉之後，還可以回去把它拿回來。</text>
+	</string>
+	<string id="agr_secret_0006_name">
+		<text>酒鬼的背包。</text>
+	</string>
+	<string id="agr_secret_0007_descr">
+		<text>將它藏在十字記號下，位於水槽的後方。挖深一點，別被人給拿走了。</text>
+	</string>
+	<string id="agr_secret_0007_name">
+		<text>在三個水槽旁。</text>
+	</string>
+	<string id="agr_secret_0008_descr">
+		<text>我把背包放在工廠上方，那邊沒有人看得見。問題是，我已經忘記它在哪裡了。</text>
+	</string>
+	<string id="agr_secret_0008_name">
+		<text>在舷窗的背包。</text>
+	</string>
+	<string id="agr_secret_0009_descr">
+		<text>我把我的東西藏在工廠中的箱子裡面</text>
+	</string>
+	<string id="agr_secret_0009_name">
+		<text>放射性的箱子</text>
+	</string>
+	<string id="agr_secret_0010_descr">
+		<text>在階梯下方的箱子裡有秘密藏匿物。</text>
+	</string>
+	<string id="agr_secret_0010_name">
+		<text>階梯裡的箱子</text>
+	</string>
+	<string id="agr_secret_0011_descr">
+		<text>我把它藏在箱子裡，沒有人會發現的。</text>
+	</string>
+	<string id="agr_secret_0011_name">
+		<text>工廠的箱子</text>
+	</string>
+	<string id="agr_secret_0012_descr">
+		<text>把袋子丟出窗外，晚一點再回來拿。</text>
+	</string>
+	<string id="agr_secret_0012_name">
+		<text>袋子在支樑上</text>
+	</string>
+	<string id="agr_secret_0013_descr">
+		<text>科萊恩和我在農業部逛得很愉快。我們發現了一堆垃圾，但裡面有可能藏了一些東西。我們把箱子放在垃圾箱裡面。</text>
+	</string>
+	<string id="agr_secret_0013_name">
+		<text>垃圾箱</text>
+	</string>
+	<string id="agr_secret_0014_descr">
+		<text>我在傾倒的樹下發現了一個保險箱，正要去把所有的東西都藏起來。</text>
+	</string>
+	<string id="agr_secret_0014_name">
+		<text>樹下的保險箱</text>
+	</string>
+	<string id="agr_secret_0015_descr">
+		<text>我把東西丟進管子裡，晚一點再回來拿。我一定得如此，不然我得明顯的帶著它們活動，希望它們不要被弄濕了。</text>
+	</string>
+	<string id="agr_secret_0015_name">
+		<text>在管子裡的東西</text>
+	</string>
+	<string id="agr_secret_0016_descr">
+		<text>東西在老管子裡面，我們必須要跟那些人說。我沒有要爬進那裡面。</text>
+	</string>
+	<string id="agr_secret_0016_name">
+		<text>放射性的管子</text>
+	</string>
+	<string id="agr_secret_0017_descr">
+		<text>從基地逃開，該死！遭遇到了潛行者的攻擊。我把我的東西藏在一堆管子裡，等他們離開後我再回去把它們拿出來。</text>
+	</string>
+	<string id="agr_secret_0017_name">
+		<text>管子</text>
+	</string>
+	<string id="agr_secret_0018_descr">
+		<text>在灌木叢下方有一個半掩埋的保險箱，我在那裡藏了所有的東西。</text>
+	</string>
+	<string id="agr_secret_0018_name">
+		<text>灌木叢下的保險箱</text>
+	</string>
+	<string id="agr_secret_0019_descr">
+		<text>他們在支樑下方發現了箱子，有人把它拖出了科學研究所。讓我們先等直昇機過來再去拿它。</text>
+	</string>
+	<string id="agr_secret_0019_name">
+		<text>文件箱</text>
+	</string>
+	<string id="agr_secret_0020_descr">
+		<text>把我的東西藏進一個鐵盒裡</text>
+	</string>
+	<string id="agr_secret_0020_name">
+		<text>在活板門下方</text>
+	</string>
+	<string id="agr_secret_0021_descr">
+		<text>在灌木叢下方有一個半掩埋的保險箱，我在那裡藏了所有的東西。</text>
+	</string>
+	<string id="agr_secret_0021_name">
+		<text>在牆邊的灌木叢下</text>
+	</string>
+	<string id="agr_secret_0022_descr">
+		<text>用來收集額外垃圾的好箱子</text>
+	</string>
+	<string id="agr_secret_0022_name">
+		<text>來自機構的箱子</text>
+	</string>
+	<string id="agr_secret_0023_descr">
+		<text>我把它藏在保險箱中，但那時士兵過來了，現在我沒辦法拿到物品。</text>
+	</string>
+	<string id="agr_secret_0023_name">
+		<text>農會的保險箱</text>
+	</string>
+	<string id="agr_secret_0024_descr">
+		<text>把我的垃圾丟進管子裡--晚點再回來拿</text>
+	</string>
+	<string id="agr_secret_0024_name">
+		<text>卡車的殘骸</text>
+	</string>
+	<string id="agr_secret_0025_descr">
+		<text>把東西從腐木中拿走</text>
+	</string>
+	<string id="agr_secret_0025_name">
+		<text>腐木</text>
+	</string>
+	<string id="agr_secret_0026_descr">
+		<text>用來收藏額外垃圾的好箱子，研究所的設備清單曾經放在那個地方。</text>
+	</string>
+	<string id="agr_secret_0026_name">
+		<text>薩何茲的箱子</text>
+	</string>
+	<string id="agr_secret_0027_descr">
+		<text>放小東西的好箱子，我把一些金屬製的器具放在箱子裡，就像在家裡一樣。</text>
+	</string>
+	<string id="agr_secret_0027_name">
+		<text>金屬製的器具</text>
+	</string>
+	<string id="agr_u_secret_0000_descr">
+		<text>強盜在管子裡藏了某些東西，得過去檢查一下，很明顯的他們把補給放在那邊。</text>
+	</string>
+	<string id="agr_u_secret_0000_name">
+		<text>強盜們共有的"資金"</text>
+	</string>
+	<string id="agr_u_secret_0001_descr">
+		<text>把背包藏在水泥板後方，讓負擔輕一點。晚點我可能會沒東西吃，但至少還會活著。</text>
+	</string>
+	<string id="agr_u_secret_0001_name">
+		<text>在巷子裡的背包</text>
+	</string>
+	<string id="agr_u_secret_0002_descr">
+		<text>在地底生鏽"桶子"後方的箱子，所有的東西都放在裡面。我沒辦法回去那裡，能幹掉吸血怪可真是個奇蹟。我現在還是記不起來。</text>
+	</string>
+	<string id="agr_u_secret_0002_name">
+		<text>吸血怪的箱子</text>
+	</string>
+	<string id="agr_u_secret_0003_descr">
+		<text>在門後面有些好東西，那我就自己拿了！</text>
+	</string>
+	<string id="agr_u_secret_0003_name">
+		<text>潛行者的好東西</text>
+	</string>
+	<string id="agr_u_secret_0004_descr">
+		<text>我在這邊找到了些好東西，一個安置我的秘密藏匿物的好地點。沒有人可以找到它的。</text>
+	</string>
+	<string id="agr_u_secret_0004_name">
+		<text>人孔</text>
+	</string>
+	<string id="bar_secret_0000_description">
+		<text>我把背包藏在紀律團的基地旁，晚一點再把它拿回來。</text>
+	</string>
+	<string id="bar_secret_0000_name">
+		<text>隱藏的背包</text>
+	</string>
+	<string id="bar_secret_0001_description">
+		<text>有一群狗追在我的後面。如果我不放下我的背包，我一定沒辦法通過大門。</text>
+	</string>
+	<string id="bar_secret_0001_name">
+		<text>被丟下的背包</text>
+	</string>
+	<string id="bar_secret_0002_description">
+		<text>所有的東西都留了下來，它們被埋在十字記號下。</text>
+	</string>
+	<string id="bar_secret_0002_name">
+		<text>在十字記號下的秘密藏匿物。</text>
+	</string>
+	<string id="bar_secret_0003_description">
+		<text>把我的背包丟在這裡----這樣會輕鬆一些。</text>
+	</string>
+	<string id="bar_secret_0003_name">
+		<text>背包</text>
+	</string>
+	<string id="bar_secret_0004_description">
+		<text>紀律團檢查哨的彈藥儲藏在碉堡中，但沒有人注意到那個箱子。</text>
+	</string>
+	<string id="bar_secret_0004_name">
+		<text>碉堡中的補給品</text>
+	</string>
+	<string id="bar_secret_0005_description">
+		<text>我看見一個紀律團的人把某個東西藏進大門附近的管子裡。</text>
+	</string>
+	<string id="bar_secret_0005_name">
+		<text>秘密藏匿物</text>
+	</string>
+	<string id="bar_secret_0006_description">
+		<text>所有的東西都屬於他，可能得留在這兒等時機到來。</text>
+	</string>
+	<string id="bar_secret_0006_name">
+		<text>在十字記號下的秘密藏匿物。</text>
+	</string>
+	<string id="bar_secret_0007_description">
+		<text>我現在要去酒吧，把背包留在機棚裡。</text>
+	</string>
+	<string id="bar_secret_0007_name">
+		<text>背包</text>
+	</string>
+	<string id="bar_secret_0008_description">
+		<text>據說在紀律團領域的配電盤中藏著某些好東西。</text>
+	</string>
+	<string id="bar_secret_0008_name">
+		<text>配電盤中的秘密藏匿物</text>
+	</string>
+	<string id="bar_secret_0009_description">
+		<text>我把箱子藏在紀律團前面的塔上--沒有人會注意到它。</text>
+	</string>
+	<string id="bar_secret_0009_name">
+		<text>在塔上的秘密藏匿物</text>
+	</string>
+	<string id="bar_secret_0010_description">
+		<text>把它藏在階梯下方的管子裡</text>
+	</string>
+	<string id="bar_secret_0010_name">
+		<text>秘密藏匿物</text>
+	</string>
+	<string id="bar_secret_0011_description">
+		<text>把東西藏在酒吧不遠處，就在特異點的後方，沒有人會去那裡。就算他們到了那裡，也不知道要如何打開它。其實很簡單：只要輕輕拉著門，所有的東西都會開啟了。</text>
+	</string>
+	<string id="bar_secret_0011_name">
+		<text>軍人的秘密藏匿物</text>
+	</string>
+	<string id="bar_secret_0012_description">
+		<text>把東西藏在酒吧不遠處</text>
+	</string>
+	<string id="bar_secret_0012_name">
+		<text>秘密藏匿物</text>
+	</string>
+	<string id="bar_secret_0013_description">
+		<text>在酒吧旁，一個箱子裡面</text>
+	</string>
+	<string id="bar_secret_0013_name">
+		<text>箱子</text>
+	</string>
+	<string id="bar_secret_0014_description">
+		<text>把箱子藏在酒吧旁的巷子裡</text>
+	</string>
+	<string id="bar_secret_0014_name">
+		<text>小箱子</text>
+	</string>
+	<string id="bar_secret_0015_description">
+		<text>把它藏在松樹後的十字記號下方</text>
+	</string>
+	<string id="bar_secret_0015_name">
+		<text>秘密藏匿物</text>
+	</string>
+	<string id="bar_secret_0016_description">
+		<text>十字記號下方，在通往黑暗區域通路的不遠處</text>
+	</string>
+	<string id="bar_secret_0016_name">
+		<text>秘密藏匿物</text>
+	</string>
+	<string id="bar_secret_0017_description">
+		<text>把塗著抗輻射劑的箱子放在競技場的管子裡</text>
+	</string>
+	<string id="bar_secret_0017_name">
+		<text>小箱子</text>
+	</string>
+	<string id="bar_secret_0018_description">
+		<text>把我的垃圾放進塔下的管子裡</text>
+	</string>
+	<string id="bar_secret_0018_name">
+		<text>秘密藏匿物</text>
+	</string>
+	<string id="bar_secret_0019_description">
+		<text>在十字記號下方有一個秘密藏匿物</text>
+	</string>
+	<string id="bar_secret_0019_name">
+		<text>秘密藏匿物</text>
+	</string>
+	<string id="esc_secret_0000_descr">
+		<text>在重組時我把一些軍需用品藏在一個列車裡，別忘了。</text>
+	</string>
+	<string id="esc_secret_0000_name">
+		<text>橋上的火車車廂</text>
+	</string>
+	<string id="esc_secret_0001_descr">
+		<text>我看見一個被特異點擊倒的潛行者，就在進入樹林中的火車隧道的下方。看來他身上有些不錯的東西。</text>
+	</string>
+	<string id="esc_secret_0001_name">
+		<text>屬於被特異點殺害的人的東西。</text>
+	</string>
+	<string id="esc_secret_0002_descr">
+		<text>我把酒壺藏在強盜營地旁的十字記號下方</text>
+	</string>
+	<string id="esc_secret_0002_name">
+		<text>強盜營地旁的十字記號</text>
+	</string>
+	<string id="esc_secret_0003_descr">
+		<text>被強盜偷走的箱子在中央建築的地窖中被發現了，我們需要組一個特遣隊去拿回來。</text>
+	</string>
+	<string id="esc_secret_0003_name">
+		<text>強盜的貨倉</text>
+	</string>
+	<string id="esc_secret_0004_descr">
+		<text>當我跟同事擊退了那些穿著制服的狗，我把一些東西藏在橋底下，現在先把東西放在那邊。</text>
+	</string>
+	<string id="esc_secret_0004_name">
+		<text>十字記號之下</text>
+	</string>
+	<string id="esc_secret_0005_descr">
+		<text>我把背包放在地窖裡，晚點我會回來的，現在還沒辦法去那邊。</text>
+	</string>
+	<string id="esc_secret_0005_name">
+		<text>地窖中的遮蔽物</text>
+	</string>
+	<string id="esc_secret_0006_descr">
+		<text>我在農場發現了一個半埋藏的保險箱，我會把東西送到那裡。</text>
+	</string>
+	<string id="esc_secret_0006_name">
+		<text>農場的保險箱</text>
+	</string>
+	<string id="esc_secret_0007_descr">
+		<text>有隻小鳥告訴我某個人在牆上的列車藏了些東西，我們再回去時需要去查一下。我在納悶是誰…</text>
+	</string>
+	<string id="esc_secret_0007_name">
+		<text>列車中的容器</text>
+	</string>
+	<string id="esc_secret_0008_descr">
+		<text>把東西藏在橋邊小房子的屋頂下。</text>
+	</string>
+	<string id="esc_secret_0008_name">
+		<text>射手的東西</text>
+	</string>
+	<string id="esc_secret_0009_descr">
+		<text>我把一些垃圾放在其中一個箱子中，放在離這不遠的橋那邊。我要放棄一切離開變異區，再見了，兄弟！我永遠不會忘記祖國的。</text>
+	</string>
+	<string id="esc_secret_0009_name">
+		<text>在橋那邊的東西</text>
+	</string>
+	<string id="esc_secret_0010_descr">
+		<text>有個潛行者在新兵營死了，去檢查一下他的東西。</text>
+	</string>
+	<string id="esc_secret_0010_name">
+		<text>背包靠近在村莊的位置</text>
+	</string>
+	<string id="esc_secret_0011_descr">
+		<text>找出里何已在地窖中的秘密藏匿物。他說的太多，為了安全，我們已經讓他閉嘴了。</text>
+	</string>
+	<string id="esc_secret_0011_name">
+		<text>在村莊裡的地窖</text>
+	</string>
+	<string id="esc_secret_0012_descr">
+		<text>在地窖中找個好的藏匿處，我會等著有人把東西放進去。</text>
+	</string>
+	<string id="esc_secret_0012_name">
+		<text>一個好地方</text>
+	</string>
+	<string id="esc_secret_0013_descr">
+		<text>找出在瓦波爾地窖的秘密藏匿物，我們的人正在那個區域進行巡邏考察。讓我們去把它找出來。</text>
+	</string>
+	<string id="esc_secret_0013_name">
+		<text>瓦波爾的秘密藏匿物</text>
+	</string>
+	<string id="esc_secret_0014_descr">
+		<text>謠傳指揮官在他的辦公室有個難搞定的箱子，裡面放著一堆貴重的物品。</text>
+	</string>
+	<string id="esc_secret_0014_name">
+		<text>指揮官的貴重物品</text>
+	</string>
+	<string id="esc_secret_0015_descr">
+		<text>某個潛行者在新兵營不遠的地方出事了，我們該去看看他身上有什麼東西。誰讓他們來這裡的？</text>
+	</string>
+	<string id="esc_secret_0015_name">
+		<text>在鄉村路旁</text>
+	</string>
+	<string id="esc_secret_0016_descr">
+		<text>東西藏在強盜的地窖裡。強盜之前並不在那邊，所以讓我們等個好時機把東西全給拿回來。</text>
+	</string>
+	<string id="esc_secret_0016_name">
+		<text>強盜的地窖</text>
+	</string>
+	<string id="esc_secret_0017_descr">
+		<text>在農場不遠的地方，找出管子裡的物品。一旦沒有了守衛之後，我一定會回去的。</text>
+	</string>
+	<string id="esc_secret_0017_name">
+		<text>瓦斯管</text>
+	</string>
+	<string id="esc_secret_0018_descr">
+		<text>在我崗哨不遠的地方扔掉了我的背包，在指揮官將我們調到新地點之前，要趕快去把它拿回來。</text>
+	</string>
+	<string id="esc_secret_0018_name">
+		<text>隱藏的東西</text>
+	</string>
+	<string id="esc_secret_0019_descr">
+		<text>我現在把箱子留在塔裡，當我可以時我會把它拿走。</text>
+	</string>
+	<string id="esc_secret_0019_name">
+		<text>位於檢查點的塔</text>
+	</string>
+	<string id="gar_secret_0000_descr">
+		<text>我看到一個強盜把他的東西藏進了機棚裡。我要如何安靜的把它偷走？</text>
+	</string>
+	<string id="gar_secret_0000_name">
+		<text>強盜的儲藏物</text>
+	</string>
+	<string id="gar_secret_0001_descr">
+		<text>瓦西亞和我過去檢查，突然間有個子彈擊中他，而我什麼都不能做，都是那該死的子彈。我把東西藏在管子裡面。</text>
+	</string>
+	<string id="gar_secret_0001_name">
+		<text>老舊的吊車</text>
+	</string>
+	<string id="gar_secret_0002_descr">
+		<text>葛里利說他所有的東西都放在廢棄區，在柴油車後面的火車隧道中。可憐的葛里利。</text>
+	</string>
+	<string id="gar_secret_0002_name">
+		<text>葛里利的東西</text>
+	</string>
+	<string id="gar_secret_0003_descr">
+		<text>將東西儲藏在廢棄區的管子裡。</text>
+	</string>
+	<string id="gar_secret_0003_name">
+		<text>北方建築物的管子</text>
+	</string>
+	<string id="gar_secret_0004_descr">
+		<text>那些東西在廢棄區的其中一個管子裡。如果你不知道正確的位置，你就找不到它們。</text>
+	</string>
+	<string id="gar_secret_0004_name">
+		<text>在廢金屬中的額外現金</text>
+	</string>
+	<string id="gar_secret_0005_descr">
+		<text>我把東西藏在鄰近兩個蓄水池的鐵管中。我該去把它拿回來，但我沒有時間。</text>
+	</string>
+	<string id="gar_secret_0005_name">
+		<text>在蓄水池旁的鐵爐子。</text>
+	</string>
+	<string id="gar_secret_0006_descr">
+		<text>在輻射廢料中藏了一些有用的東西，那附近沒有什麼人。</text>
+	</string>
+	<string id="gar_secret_0006_name">
+		<text>東邊管路的管子</text>
+	</string>
+	<string id="gar_secret_0007_descr">
+		<text>某個人的背包被丟棄在山谷中，附近都是變異點。你要如何接近它？</text>
+	</string>
+	<string id="gar_secret_0007_name">
+		<text>無人的背包</text>
+	</string>
+	<string id="gar_secret_0008_descr">
+		<text>沼澤中的叛徒被幹掉了…我們把他埋在那邊，他的東西則埋在十字記號下。我們還有別的事情要擔心。</text>
+	</string>
+	<string id="gar_secret_0008_name">
+		<text>被殺死的人的遺物</text>
+	</string>
+	<string id="gar_secret_0009_descr">
+		<text>在陰影中有一個秘密藏匿物，真是個藏東西的好地方。</text>
+	</string>
+	<string id="gar_secret_0009_name">
+		<text>腐爛的殘幹</text>
+	</string>
+	<string id="gar_secret_0010_descr">
+		<text>在森林裡有一段原木，上面有一個洞。洞裡面有一些寶藏，現在是把它拿回來的時候了</text>
+	</string>
+	<string id="gar_secret_0010_name">
+		<text>森林中的原木</text>
+	</string>
+	<string id="gar_secret_0011_descr">
+		<text>彼得連科想要傳送史特列洛克陣營在廢棄區的秘密藏匿物的訊息。在谷底有一個人孔，他解釋了打開人孔的一些方法。當一切都平靜下來後，我們就過去那裡看看。</text>
+	</string>
+	<string id="gar_secret_0011_name">
+		<text>史特列洛克陣營的貯藏物。</text>
+	</string>
+	<string id="gar_secret_0012_descr">
+		<text>將它藏在車子裡，長人說那是個好地方。</text>
+	</string>
+	<string id="gar_secret_0012_name">
+		<text>車子中的秘密藏匿物</text>
+	</string>
+	<string id="gar_secret_0013_descr">
+		<text>把背包放進巴士裡，看起來不會被注意到。</text>
+	</string>
+	<string id="gar_secret_0013_name">
+		<text>巴士中的潛行者背包</text>
+	</string>
+	<string id="gar_secret_0014_descr">
+		<text>我把補給放進箱子裡，箱子就在老房子的角落旁。現在還是不曉得那棟建築是做什麼用的。</text>
+	</string>
+	<string id="gar_secret_0014_name">
+		<text>各式各樣的補給</text>
+	</string>
+	<string id="gar_secret_0015_descr">
+		<text>在垃圾堆中有一個半掩埋的保險箱。所有的東西都在保險箱裡，最好別忘了裡面有什麼東西。</text>
+	</string>
+	<string id="gar_secret_0015_name">
+		<text>在南方廢棄場中的保險箱</text>
+	</string>
+	<string id="gar_secret_0016_descr">
+		<text>把東西放進南方廢棄場的管線中</text>
+	</string>
+	<string id="gar_secret_0016_name">
+		<text>在廢鐵廠中的儲藏庫。</text>
+	</string>
+	<string id="gar_secret_0017_descr">
+		<text>無線電通訊傳送了一段訊息給我們：撤退，我發現了一個箱子，把我有的東西都丟進去了，空著雙手撤退。</text>
+	</string>
+	<string id="gar_secret_0017_name">
+		<text>放在箱子裡的補給</text>
+	</string>
+	<string id="gar_secret_0018_descr">
+		<text>我把酒壺放在廢棄區的管子裡，它在那藏不久的。</text>
+	</string>
+	<string id="gar_secret_0018_name">
+		<text>巴士旁的管線</text>
+	</string>
+	<string id="gar_secret_0019_descr">
+		<text>很容易將背包藏進廢墟中。只要盜賊不出現的話，我希望它不會很難拿回來。</text>
+	</string>
+	<string id="gar_secret_0019_name">
+		<text>在廢墟中的背包</text>
+	</string>
+	<string id="gar_secret_0020_descr">
+		<text>當紀律團的傢伙射擊時，我把酒壺藏在列車裡。不管怎樣我得去拿回來，真是感謝紀律團了。</text>
+	</string>
+	<string id="gar_secret_0020_name">
+		<text>放在重兵防衛的軍事檢查點的箱子</text>
+	</string>
+	<string id="gar_secret_0021_descr">
+		<text>據說懦夫在廢棄區出事了，得順便去查看一下東西，不然會有一堆人去把東西拿走的。</text>
+	</string>
+	<string id="gar_secret_0021_name">
+		<text>懦夫的背包</text>
+	</string>
+	<string id="gar_secret_0022_descr">
+		<text>現在我要把東西藏在壺穴中，或許沒有人會找到他們。</text>
+	</string>
+	<string id="gar_secret_0022_name">
+		<text>在壺穴中的束包</text>
+	</string>
+	<string id="gar_secret_0023_descr">
+		<text>在電扶梯旁的變異點逮住了某個人，他的背包在可見之處，但是很難拿到它。</text>
+	</string>
+	<string id="gar_secret_0023_name">
+		<text>在杓子下方</text>
+	</string>
+	<string id="gar_secret_0024_descr">
+		<text>很難把它弄到橫樑下，但至少背包會藏的很好，沒有人會爬到那裡去。</text>
+	</string>
+	<string id="gar_secret_0024_name">
+		<text>在水泥磚下額外的現金</text>
+	</string>
+	<string id="mil_secret_0000_description">
+		<text>將東西藏在原木中，沒有人會發現它們。</text>
+	</string>
+	<string id="mil_secret_0000_name">
+		<text>記錄中的秘密藏匿物</text>
+	</string>
+	<string id="mil_secret_0001_description">
+		<text>把垃圾藏在火爐中。</text>
+	</string>
+	<string id="mil_secret_0001_name">
+		<text>火爐中的秘密藏匿物</text>
+	</string>
+	<string id="mil_secret_0002_description">
+		<text>將那些垃圾藏在卡馬茲的辦公室裡</text>
+	</string>
+	<string id="mil_secret_0002_name">
+		<text>在卡馬茲的秘密藏匿物</text>
+	</string>
+	<string id="mil_secret_0003_description">
+		<text>把一些東西埋在村莊旁的十字記號下方。</text>
+	</string>
+	<string id="mil_secret_0003_name">
+		<text>在十字記號下方的寶藏</text>
+	</string>
+	<string id="mil_secret_0004_description">
+		<text>將我的東西塞進管子裡，晚一點再回來拿。</text>
+	</string>
+	<string id="mil_secret_0004_name">
+		<text>在管子裡的秘密藏匿物</text>
+	</string>
+	<string id="mil_secret_0005_description">
+		<text>水塔裡的箱子中的秘密藏匿物</text>
+	</string>
+	<string id="mil_secret_0005_name">
+		<text>塔裡的寶藏</text>
+	</string>
+	<string id="mil_secret_0006_description">
+		<text>將我的背包塞入火爐裡，晚一點再回來拿。</text>
+	</string>
+	<string id="mil_secret_0006_name">
+		<text>火爐中的秘密藏匿物</text>
+	</string>
+	<string id="mil_secret_0007_description">
+		<text>把東西藏在廢棄村莊的車子裡。</text>
+	</string>
+	<string id="mil_secret_0007_name">
+		<text>自動-秘密藏匿物</text>
+	</string>
+	<string id="mil_secret_0008_description">
+		<text>將背包留在輻射廢墟中，我曾經很害怕在那裡出現。</text>
+	</string>
+	<string id="mil_secret_0008_name">
+		<text>危險的秘密</text>
+	</string>
+	<string id="mil_secret_0009_description">
+		<text>把東西藏在一個隱密處的十字記號下方。</text>
+	</string>
+	<string id="mil_secret_0009_name">
+		<text>潛行者的藏匿物</text>
+	</string>
+	<string id="mil_secret_0010_description">
+		<text>將背包和裝備藏在舒適的地方。</text>
+	</string>
+	<string id="mil_secret_0010_name">
+		<text>裝著裝備的背包</text>
+	</string>
+	<string id="mil_secret_0011_description">
+		<text>把我的一堆破東西藏在山丘上的車子裡</text>
+	</string>
+	<string id="mil_secret_0011_name">
+		<text>山丘上的秘密藏匿物</text>
+	</string>
+	<string id="mil_secret_0012_description">
+		<text>有一台直昇機墜毀在遺棄的軍事基地旁，箱子就在那裡，在直昇機的下方。問題是：那裡到處都是輻射和怪物。</text>
+	</string>
+	<string id="mil_secret_0012_name">
+		<text>來自直昇機的箱子</text>
+	</string>
+	<string id="mil_secret_0013_description">
+		<text>將物品埋在山丘，在十字記號下方</text>
+	</string>
+	<string id="mil_secret_0013_name">
+		<text>墓碑裡的秘密</text>
+	</string>
+	<string id="mil_secret_0014_description">
+		<text>在殘幹中有個秘密藏匿物，真是個好地方</text>
+	</string>
+	<string id="mil_secret_0014_name">
+		<text>秘密殘幹</text>
+	</string>
+	<string id="mil_secret_0015_description">
+		<text>將背包留在吊車的車艙中，晚一點再回來拿</text>
+	</string>
+	<string id="mil_secret_0015_name">
+		<text>高地工作者的秘密藏匿物</text>
+	</string>
+	<string id="mil_secret_0016_description">
+		<text>所有的東西都在箱子裡，在基地不遠處的火車車廂中。那是我們計畫的，而現在要做的事情就是等待。</text>
+	</string>
+	<string id="mil_secret_0016_name">
+		<text>秘密約定的藏匿物</text>
+	</string>
+	<string id="mil_secret_0017_description">
+		<text>將東西藏進原木中，他們不會發現任何東西</text>
+	</string>
+	<string id="mil_secret_0017_name">
+		<text>原木中的寶藏</text>
+	</string>
+	<string id="mil_secret_0018_description">
+		<text>將東西塞進湖邊管子</text>
+	</string>
+	<string id="mil_secret_0018_name">
+		<text>管子裡的物品</text>
+	</string>
+	<string id="mil_secret_0019_description">
+		<text>把我的東西藏進鐵盒中</text>
+	</string>
+	<string id="mil_secret_0019_name">
+		<text>潛行者的秘密藏匿物</text>
+	</string>
+	<string id="mil_secret_0020_description">
+		<text>把東西塞進原木裡，他們不會發現的。</text>
+	</string>
+	<string id="mil_secret_0020_name">
+		<text>原木裡的物品</text>
+	</string>
+	<string id="mil_secret_0021_description">
+		<text>用來放額外垃圾的好箱子</text>
+	</string>
+	<string id="mil_secret_0021_name">
+		<text>好的補給箱</text>
+	</string>
+	<string id="mil_secret_0022_description">
+		<text>把裝著東西的背包藏進通裡中</text>
+	</string>
+	<string id="mil_secret_0022_name">
+		<text>在通裡中的背包</text>
+	</string>
+	<string id="mil_secret_0023_description">
+		<text>一個可以放額外垃圾的好箱子</text>
+	</string>
+	<string id="mil_secret_0023_name">
+		<text>裝著東西的箱子</text>
+	</string>
+	<string id="mil_secret_0024_description">
+		<text>將東西塞進原木中，沒有人會發現它。</text>
+	</string>
+	<string id="mil_secret_0024_name">
+		<text>原木中的秘密藏匿物</text>
+	</string>
+	<string id="mil_secret_0025_description">
+		<text>將東西丟進箱子裡，晚一點再回來拿</text>
+	</string>
+	<string id="mil_secret_0025_name">
+		<text>暫時的秘密藏匿物</text>
+	</string>
+	<string id="mil_secret_0026_description">
+		<text>把東西藏進人孔裡，它們有一天會有用的。</text>
+	</string>
+	<string id="mil_secret_0026_name">
+		<text>鋼製的秘密藏匿物</text>
+	</string>
+	<string id="mil_secret_0027_description">
+		<text>把東西放進箱子裡，晚一點再回來拿</text>
+	</string>
+	<string id="mil_secret_0027_name">
+		<text>裝著好東西的箱子</text>
+	</string>
+	<string id="mil_secret_0028_description">
+		<text>把東西藏在自由團眼下的車子裡，沒時間找更好的地方了。</text>
+	</string>
+	<string id="mil_secret_0028_name">
+		<text>車子裡的秘密藏匿物</text>
+	</string>
+	<string id="pri_secret_0000_description">
+		<text>據說一些有名的潛行者在這裡歸天了，但沒有人撿到過他們的遺物。</text>
+	</string>
+	<string id="pri_secret_0000_name">
+		<text>死亡潛行者的遺物</text>
+	</string>
+	<string id="pri_secret_0001_description">
+		<text>據說在廢棄區有一個箱子，裡面裝了一堆好東西。</text>
+	</string>
+	<string id="pri_secret_0001_name">
+		<text>廢棄區的寶藏</text>
+	</string>
+	<string id="pri_secret_0002_description">
+		<text>據說在幼稚園有一個箱子，裡面裝了一堆好東西。</text>
+	</string>
+	<string id="pri_secret_0002_name">
+		<text>古老的秘密藏匿物</text>
+	</string>
+	<string id="pri_secret_0003_description">
+		<text>他們在皮里皮亞特的紀念碑下埋葬了方，把他的東西跟他一起埋葬；從死者身上奪取物品是不敬的事情。</text>
+	</string>
+	<string id="pri_secret_0003_name">
+		<text>方的遺物</text>
+	</string>
+	<string id="pri_secret_0004_description">
+		<text>他們聽過他最後的一件事，就是他是焦腦器下的唯一生還者。他把所有的東西都留在某個老舊的超級市場裡，然後繼續前進。所有的事情都出乎意料之外，而這人就是我們自由團有史以來最佳的首領。</text>
+	</string>
+	<string id="pri_secret_0004_name">
+		<text>自由團首領的補給物。</text>
+	</string>
+	<string id="rad_secret_0000_description">
+		<text>十字記號就在前往焦腦器的路上，別走遠了，把所有的東西都藏在它下面。</text>
+	</string>
+	<string id="rad_secret_0000_name">
+		<text>莫克的寶藏</text>
+	</string>
+	<string id="rad_secret_0001_description">
+		<text>某個潛行者死在這裡，他的東西還在附近，沒有人接近過它們。</text>
+	</string>
+	<string id="rad_secret_0001_name">
+		<text>死亡潛行者的遺物。</text>
+	</string>
+	<string id="rad_secret_0002_description">
+		<text>據說在森林裡有個半掩埋的保險箱，裡面有一堆的好東西。</text>
+	</string>
+	<string id="rad_secret_0002_name">
+		<text>保險箱裡的好東西。</text>
+	</string>
+	<string id="rad_secret_0003_description">
+		<text>他們說不要飛越焦腦器上方，看看發生了什麼事？他們墜落在森林之中，看起來不像有人生還。我們打算去拿取他們的東西。</text>
+	</string>
+	<string id="rad_secret_0003_name">
+		<text>給紀律團的包裹</text>
+	</string>
+	<string id="rad_secret_0004_description">
+		<text>據說補給隊曾嘗試著進入變異區中央，但焦腦器一直在產生輻射。他們沒有人回來，而補給仍然在那裡，等著某個人去把它們拿回來。</text>
+	</string>
+	<string id="rad_secret_0004_name">
+		<text>魯莽隊伍的補給品</text>
+	</string>
+	<string id="rad_secret_0005_description">
+		<text>據說有某個前陣營的首領死在這裡，他身上可是帶了一堆好東西。</text>
+	</string>
+	<string id="rad_secret_0005_name">
+		<text>前陣營首領的遺物</text>
+	</string>
+	<string id="ros_secret_0000_description">
+		<text>將背包藏在鐵板後方</text>
+	</string>
+	<string id="ros_secret_0000_name">
+		<text>隱藏的背包</text>
+	</string>
+	<string id="ros_secret_0001_description">
+		<text>藏在十字架後方的好東西</text>
+	</string>
+	<string id="ros_secret_0001_name">
+		<text>在十字架下方的秘密藏匿物</text>
+	</string>
+	<string id="ros_secret_0002_description">
+		<text>在房子下方的箱子裡藏一些小東西，別把它給遺忘了。</text>
+	</string>
+	<string id="ros_secret_0002_name">
+		<text>在小房子下方的箱子</text>
+	</string>
+	<string id="ros_secret_0003_description">
+		<text>當那些混蛋出現時，我把背包塞在階梯下方。兄弟，我要怎麼拿回來？</text>
+	</string>
+	<string id="ros_secret_0003_name">
+		<text>潛行者的背包</text>
+	</string>
+	<string id="ros_secret_0004_description">
+		<text>在樹的後方有一個半掩埋的保險箱，我所有的垃圾都裝在裡面。</text>
+	</string>
+	<string id="ros_secret_0004_name">
+		<text>在樹後面的秘密藏匿物</text>
+	</string>
+	<string id="ros_secret_0005_description">
+		<text>他們把所有在雨中奪來的東西，全部藏在車庫的一個箱子裡。</text>
+	</string>
+	<string id="ros_secret_0005_name">
+		<text>修理廠內的秘密藏匿物</text>
+	</string>
+	<string id="ros_secret_0006_description">
+		<text>把一些東西藏在電話亭後方的箱子裡</text>
+	</string>
+	<string id="ros_secret_0006_name">
+		<text>隱藏的箱子</text>
+	</string>
+	<string id="ros_secret_0007_description">
+		<text>將背包塞入一個洞裡，從上面來看似乎不會被人注意到。</text>
+	</string>
+	<string id="ros_secret_0007_name">
+		<text>在秘密藏匿處的背包</text>
+	</string>
+	<string id="ros_secret_0008_description">
+		<text>將小箱子藏在安全的地方</text>
+	</string>
+	<string id="ros_secret_0008_name">
+		<text>一個在安全處的箱子</text>
+	</string>
+	<string id="ros_secret_0009_description">
+		<text>我的背包就放在屋頂的下方，那邊可是下雨天。</text>
+	</string>
+	<string id="ros_secret_0009_name">
+		<text>潛行者的秘密藏匿物</text>
+	</string>
+	<string id="ros_secret_0010_description">
+		<text>據說在那個小房子裡有一個保險箱，裡面有些東西。</text>
+	</string>
+	<string id="ros_secret_0010_name">
+		<text>屋子裡的保險箱</text>
+	</string>
+	<string id="ros_secret_0011_description">
+		<text>我把它藏在屋子的管子裡。小心，那邊每件事都不大對勁。</text>
+	</string>
+	<string id="ros_secret_0011_name">
+		<text>管子裡的秘密藏匿物</text>
+	</string>
+	<string id="ros_secret_0012_description">
+		<text>從箱子中取走我們談論的東西，那邊通常沒有人注意。</text>
+	</string>
+	<string id="ros_secret_0012_name">
+		<text>隱藏的箱子</text>
+	</string>
+	<string id="ros_secret_0013_description">
+		<text>把它藏在小巷子裡的十字記號下方</text>
+	</string>
+	<string id="ros_secret_0013_name">
+		<text>在十字記號下方的秘密藏匿物</text>
+	</string>
+	<string id="ros_secret_0014_description">
+		<text>他們把額外的補給埋藏在建築工地的混凝土下方。</text>
+	</string>
+	<string id="ros_secret_0014_name">
+		<text>在混凝土下方的秘密藏匿物</text>
+	</string>
+	<string id="ros_secret_0015_description">
+		<text>如果我們需要趕快脫身的話，我們得將酒壺放在建築工地的箱子裡。</text>
+	</string>
+	<string id="ros_secret_0015_name">
+		<text>幸運者的秘密藏匿物</text>
+	</string>
+	<string id="ros_secret_0016_description">
+		<text>將它藏在建築工地的一個巷子裡</text>
+	</string>
+	<string id="ros_secret_0016_name">
+		<text>尼基卡</text>
+	</string>
+	<string id="ros_secret_0017_description">
+		<text>把所有的東西塞進管子裡，晚點再回來拿</text>
+	</string>
+	<string id="ros_secret_0017_name">
+		<text>管子裡的秘密藏匿物</text>
+	</string>
+	<string id="ros_secret_0018_description">
+		<text>把藥物藏在建築工地不遠處的箱子裡</text>
+	</string>
+	<string id="ros_secret_0018_name">
+		<text>放著藥物的箱子</text>
+	</string>
+	<string id="ros_secret_0019_description">
+		<text>把箱子拖進吊車的車廂裡</text>
+	</string>
+	<string id="ros_secret_0019_name">
+		<text>吊車裡的箱子</text>
+	</string>
+	<string id="ros_secret_0020_description">
+		<text>把我的好東西藏在角落的人孔裡</text>
+	</string>
+	<string id="ros_secret_0020_name">
+		<text>人孔裡的秘密藏匿物</text>
+	</string>
+	<string id="ros_secret_0021_description">
+		<text>在神器和進入特異點之後，我幾乎沒辦法行動，把背包丟棄在角落裡。</text>
+	</string>
+	<string id="ros_secret_0021_name">
+		<text>被丟棄的背包</text>
+	</string>
+	<string id="ros_secret_0022_description">
+		<text>將箱子塞在塔旁的天花板下方，這樣就沒有人會注意到。</text>
+	</string>
+	<string id="ros_secret_0022_name">
+		<text>天花板下方的小箱子</text>
+	</string>
+	<string id="ros_secret_0023_description">
+		<text>我們把找到的東西藏在建築工地不遠處的管子裡。</text>
+	</string>
+	<string id="ros_secret_0023_name">
+		<text>管子裡的秘密藏匿物</text>
+	</string>
+	<string id="ros_secret_0024_description">
+		<text>將所有的好東西塞進原木裡面，他們不會發現的。</text>
+	</string>
+	<string id="ros_secret_0024_name">
+		<text>秘密藏匿物</text>
+	</string>
+	<string id="ros_secret_0025_description">
+		<text>將背包丟在吊車旁</text>
+	</string>
+	<string id="ros_secret_0025_name">
+		<text>背包</text>
+	</string>
+	<string id="val_secret_0000_description">
+		<text>把好東西藏在山旁邊的十字記號下</text>
+	</string>
+	<string id="val_secret_0000_name">
+		<text>在十字記號下的秘密藏匿物</text>
+	</string>
+	<string id="val_secret_0001_description">
+		<text>將東西塞進原木中，沒有人會發現它。</text>
+	</string>
+	<string id="val_secret_0001_name">
+		<text>原木中的秘密藏匿物</text>
+	</string>
+	<string id="val_secret_0002_description">
+		<text>將背包藏在橋下，現在把它放在那裡。</text>
+	</string>
+	<string id="val_secret_0002_name">
+		<text>橋下的背包</text>
+	</string>
+	<string id="val_secret_0003_description">
+		<text>把箱子放在沼澤旁的車子裡</text>
+	</string>
+	<string id="val_secret_0003_name">
+		<text>車子裡的秘密藏匿物</text>
+	</string>
+	<string id="val_secret_0004_description">
+		<text>在殘幹中有個秘密藏匿物，真是個好地方</text>
+	</string>
+	<string id="val_secret_0004_name">
+		<text>在殘幹中的秘密藏匿物</text>
+	</string>
+	<string id="val_secret_0005_description">
+		<text>找到農場中的超棒箱子，我現在先把補給留在那邊。</text>
+	</string>
+	<string id="val_secret_0005_name">
+		<text>箱子中的補給</text>
+	</string>
+	<string id="val_secret_0006_description">
+		<text>把我的東西丟進管子裡，晚一點再回來拿。</text>
+	</string>
+	<string id="val_secret_0006_name">
+		<text>管子裡的秘密藏匿物</text>
+	</string>
+	<string id="val_secret_0007_description">
+		<text>把背包藏在松樹下</text>
+	</string>
+	<string id="val_secret_0007_name">
+		<text>松樹下的秘密藏匿物</text>
+	</string>
+	<string id="val_secret_0008_description">
+		<text>新手從盜賊那裡偷取了箱子，他把它放在一部毀壞的尼瓦汽車裡。他說那個東西看起來是政府的箱子，我們會武裝好，然後把它拿回來。</text>
+	</string>
+	<string id="val_secret_0008_name">
+		<text>政府的箱子</text>
+	</string>
+	<string id="val_secret_0009_description">
+		<text>到處都是強盜，他們甚至連自己人都偷…但他們永遠拿不到我的箱子</text>
+	</string>
+	<string id="val_secret_0009_name">
+		<text>箱子</text>
+	</string>
+	<string id="val_secret_0010_description">
+		<text>把我的東西藏在人孔裡，或許它們有一天會派上用場。</text>
+	</string>
+	<string id="val_secret_0010_name">
+		<text>人孔中的秘密藏匿物</text>
+	</string>
+	<string id="val_secret_0011_description">
+		<text>將背包丟在樹下，不然，我沒辦法從強盜的手中逃脫。</text>
+	</string>
+	<string id="val_secret_0011_name">
+		<text>史特列洛克的背包</text>
+	</string>
+	<string id="val_secret_0012_description">
+		<text>把我的垃圾丟進管子裡，晚點再回來拿</text>
+	</string>
+	<string id="val_secret_0012_name">
+		<text>秘密藏匿物</text>
+	</string>
+	<string id="val_secret_0013_description">
+		<text>我把所有從伯羅夫那裡偷來的東西都放在松樹下的保險箱裡。現在我必須等他們平靜下來。</text>
+	</string>
+	<string id="val_secret_0013_name">
+		<text>隱藏的保險箱</text>
+	</string>
+	<string id="val_secret_0014_description">
+		<text>臨時總部位於火車中，裡面有裝著補給的箱子</text>
+	</string>
+	<string id="val_secret_0014_name">
+		<text>火車裡的倉庫</text>
+	</string>
+	<string id="val_secret_0015_description">
+		<text>勉強塞入路下的管子裡，現在我有地方來藏我的背包了</text>
+	</string>
+	<string id="val_secret_0015_name">
+		<text>管子裡的秘密場所</text>
+	</string>
+	<string id="val_secret_0016_description">
+		<text>把東西丟進箱子裡，晚一點再過來拿</text>
+	</string>
+	<string id="val_secret_0016_name">
+		<text>裝著東西的箱子</text>
+	</string>
+	<string id="val_secret_0017_description">
+		<text>我把東西藏在管子後方，那裡很難過去，但至少他們不會發現它</text>
+	</string>
+	<string id="val_secret_0017_name">
+		<text>管子後方的秘密藏匿物</text>
+	</string>
+	<string id="val_secret_0018_description">
+		<text>在電力室中找到一些卡帶</text>
+	</string>
+	<string id="val_secret_0018_name">
+		<text>在電力室中的秘密藏匿物</text>
+	</string>
+	<string id="val_secret_0019_description">
+		<text>我們留下了所有在箱子裡發現的東西，等我們回來後再來拿取</text>
+	</string>
+	<string id="val_secret_0019_name">
+		<text>箱子的秘密藏匿物</text>
+	</string>
+	<string id="val_secret_0020_description">
+		<text>藏匿新手的背包，他永遠不會找到它</text>
+	</string>
+	<string id="val_secret_0020_name">
+		<text>藏匿的背包</text>
+	</string>
+	<string id="val_secret_0021_description">
+		<text>箱子留在小貨車裡，需要把它取回來</text>
+	</string>
+	<string id="val_secret_0021_name">
+		<text>遺忘的箱子</text>
+	</string>
+	<string id="val_secret_0022_description">
+		<text>在加油站發現了一個保險箱，並且把我的東西放在裡面，看起來似乎沒有人去過那裡。</text>
+	</string>
+	<string id="val_secret_0022_name">
+		<text>加油站的保險箱</text>
+	</string>
+	<string id="val_secret_0023_description">
+		<text>拖曳在水槽上的箱子</text>
+	</string>
+	<string id="val_secret_0023_name">
+		<text>箱子</text>
+	</string>
+	<string id="val_secret_0024_description">
+		<text>將補給藏在加油站的保險箱裡</text>
+	</string>
+	<string id="val_secret_0024_name">
+		<text>加油站的保險箱</text>
+	</string>
+	<string id="val_secret_0025_description">
+		<text>在強盜營地的車子裡有些箱子，我們必須溜進去檢查看看，我覺得裡面會有些東西</text>
+	</string>
+	<string id="val_secret_0025_name">
+		<text>車子裡的箱子</text>
+	</string>
+	<string id="val_secret_0026_description">
+		<text>將箱子放進秘密藏匿物中，那是個可信賴的地方</text>
+	</string>
+	<string id="val_secret_0026_name">
+		<text>秘密藏匿物處的箱子</text>
+	</string>
+	<string id="val_secret_0027_description">
+		<text>將背包遺留在遺棄的建築物裡。很好，附近沒有什麼人。</text>
+	</string>
+	<string id="val_secret_0027_name">
+		<text>被留下的背包</text>
+	</string>
+	<string id="val_secret_0028_description">
+		<text>我們要把東西放在一個隱密安全地方的保險箱裡。如果士兵今天沒有過來，那麼他們明天就會過來。他們不會停留很久，所以那些好東西都會變成是我的。</text>
+	</string>
+	<string id="val_secret_0028_name">
+		<text>伯羅夫的秘密藏匿物</text>
+	</string>
+	<string id="val_secret_0029_description">
+		<text>建築物旁被藏起來的背包</text>
+	</string>
+	<string id="val_secret_0029_name">
+		<text>在一個秘密場所的背包</text>
+	</string>
+	<string id="val_secret_0030_description">
+		<text>將東西放在一個隱密的箱子裡，晚一點再過來拿</text>
+	</string>
+	<string id="val_secret_0030_name">
+		<text>隱密的箱子</text>
+	</string>
+	<string id="val_secret_0031_description">
+		<text>把背包藏在車子下方，沒有人會看到那裡</text>
+	</string>
+	<string id="val_secret_0031_name">
+		<text>隱藏的背包</text>
+	</string>
+	<string id="val_secret_0032_description">
+		<text>把東西藏在強盜附近的車子裡，沒時間找更好的地方了</text>
+	</string>
+	<string id="val_secret_0032_name">
+		<text>車子裡的秘密藏匿物</text>
+	</string>
+	<string id="x16_secret_0000_description">
+		<text>謠傳有一個潛行者進入了實驗室，把他的好東西藏在升降機通風井的電路通道口。當時間到的時候，他會去把它拿回去的。</text>
+	</string>
+	<string id="x16_secret_0000_name">
+		<text>在電路通道口的好東西</text>
+	</string>
+	<string id="x16_secret_0001_description">
+		<text>據說有個潛行者滲透進入了這個實驗室，他在他們進行實驗的地方倒下了，還有他身上所有的東西。</text>
+	</string>
+	<string id="x16_secret_0001_name">
+		<text>斥候的背包</text>
+	</string>
+	<string id="x18_secret_0000_description">
+		<text>煙槍把每個東西都放進地下實驗室的保險箱裡。不壞的地方，沒有人有鑰匙可以進入實驗室。唯一的問題是，有時候那裡會突然有石頭到處飛舞，據說有人因此而喪命。</text>
+	</string>
+	<string id="x18_secret_0000_name">
+		<text>煙槍的秘密藏匿物</text>
+	</string>
+	<string id="x18_secret_0001_description">
+		<text>必須留下背包</text>
+	</string>
+	<string id="x18_secret_0001_name">
+		<text>被留下的背包</text>
+	</string>
+	<string id="yan_secret_0000_description">
+		<text>十字記號在山丘上，背包就在它下面</text>
+	</string>
+	<string id="yan_secret_0000_name">
+		<text>十字記號下的秘密藏匿物</text>
+	</string>
+	<string id="yan_secret_0001_description">
+		<text>據說在沼澤中的小島有個半掩埋的保險箱，需要得到關於它的訊息。</text>
+	</string>
+	<string id="yan_secret_0001_name">
+		<text>老舊的保險箱</text>
+	</string>
+	<string id="yan_secret_0002_description">
+		<text>將東西塞進營地的管子裡</text>
+	</string>
+	<string id="yan_secret_0002_name">
+		<text>管子裡的物品</text>
+	</string>
+	<string id="yan_secret_0003_description">
+		<text>將東西藏匿在在軍營後方</text>
+	</string>
+	<string id="yan_secret_0003_name">
+		<text>在軍營後方的背包</text>
+	</string>
+	<string id="yan_secret_0004_description">
+		<text>將背包藏在廢鐵料後方的電話亭裡</text>
+	</string>
+	<string id="yan_secret_0004_name">
+		<text>裝滿戰利品的背包</text>
+	</string>
+	<string id="yan_secret_0005_description">
+		<text>將箱子放在巴士裡，看起來不會被注意到</text>
+	</string>
+	<string id="yan_secret_0005_name">
+		<text>巴士中的秘密藏匿物</text>
+	</string>
+	<string id="yan_secret_0006_description">
+		<text>那些好東西被藏在離作用區不遠處的車子裡，那邊的輻射不會很高。</text>
+	</string>
+	<string id="yan_secret_0006_name">
+		<text>在車子裡的戰利品</text>
+	</string>
+	<string id="yan_secret_0007_description">
+		<text>據說那邊有某人的好東西，但因為輻射的關係所以沒有辦法去拿。</text>
+	</string>
+	<string id="yan_secret_0007_name">
+		<text>舊背包</text>
+	</string>
+	<string id="yan_secret_0008_description">
+		<text>據說這裡有某個組織的秘密藏匿物。我只是好奇他們是怎麼抵禦輻射線過來這裡的？</text>
+	</string>
+	<string id="yan_secret_0008_name">
+		<text>組織的秘密藏匿物</text>
+	</string>
+	<string id="yan_secret_0009_description">
+		<text>另一個志願潛行者死了，因為另一件原型裝置並沒有在輻射線下保護到他。他只撐到了中間，就倒在那裡了。薩哈洛夫想要拿到更精確的數據，但我不想去，除非我想死在那裡，離作用區不遠的地方。</text>
+	</string>
+	<string id="yan_secret_0009_name">
+		<text>測試員的背包</text>
+	</string>
+	<string id="yan_secret_0010_description">
+		<text>據說那邊有某人的酒瓶，但因為輻射的關係，沒有人可以靠近。</text>
+	</string>
+	<string id="yan_secret_0010_name">
+		<text>老舊的秘密藏匿物</text>
+	</string>
+	<string id="yan_secret_0011_description">
+		<text>該走了，薩哈羅夫和克魯格羅夫都是徹底的瘋子：他們要我跟一些潛行者進入輻射的中心。去他們的，只要我收集完所有在人孔的補給，我就要離開了。</text>
+	</string>
+	<string id="yan_secret_0011_name">
+		<text>科學家的秘密藏匿物</text>
+	</string>
+	<string id="yan_secret_0012_description">
+		<text>將東西塞進原木裡，沒有人會發現它。</text>
+	</string>
+	<string id="yan_secret_0012_name">
+		<text>在原木中的寶藏</text>
+	</string>
+	<string id="yan_secret_0013_description">
+		<text>據說那裡有某個人的保險箱，但因為輻射的關係，沒有人可以靠近。</text>
+	</string>
+	<string id="yan_secret_0013_name">
+		<text>裝著好東西的箱子</text>
+	</string>
+	<string id="st_found_new_treasure">
+		<text>關於藏匿物的訊息</text>
+	</string>
+</string_table>

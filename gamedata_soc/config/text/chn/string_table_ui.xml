@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="cant_walk">
+		<text>你因精力耗盡而無法繼續行走</text>
+	</string>
+	<string id="cant_walk_weight">
+		<text>你因負重而過多無法繼續</text>
+	</string>
+	<string id="dar_poltergeist_hold_the_door">
+		<text>有人正拉著門。</text>
+	</string>
+	<string id="Global Map">
+		<text>全球地圖</text>
+	</string>
+	<string id="gun_jammed">
+		<text>武器卡膛了，你需要重新上膛。</text>
+	</string>
+	<string id="inventory_box_use">
+		<text>搜尋箱子($$ACTION_USE$$)</text>
+	</string>
+	<string id="Local Map">
+		<text>本地地圖</text>
+	</string>
+	<string id="st_game_saved">
+		<text>遊戲儲存</text>
+	</string>
+	<string id="tip_car_locked">
+		<text>封閉</text>
+	</string>
+	<string id="tip_car_use">
+		<text>開門($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_door_close">
+		<text>按下來($$ACTION_USE$$)關門</text>
+	</string>
+	<string id="tip_door_coded">
+		<text>這扇門被密碼鎖著</text>
+	</string>
+	<string id="tip_door_decode">
+		<text>按下($$ACTION_USE$$)來為門解碼</text>
+	</string>
+	<string id="tip_door_decoding">
+		<text>解碼中</text>
+	</string>
+	<string id="tip_door_locked">
+		<text>門是鎖上的</text>
+	</string>
+	<string id="tip_door_open">
+		<text>按下($$ACTION_USE$$)來開啟大門</text>
+	</string>
+	<string id="tip_gate_close">
+		<text>按下來($$ACTION_USE$$)來關閉大門</text>
+	</string>
+	<string id="tip_gate_locked">
+		<text>大門被封閉了</text>
+	</string>
+	<string id="tip_gate_open">
+		<text>按下($$ACTION_USE$$)來開啟大門</text>
+	</string>
+	<string id="tip_monolith">
+		<text>許下一個神秘的願望($$ACTION_USE$$)</text>
+	</string>
+</string_table>

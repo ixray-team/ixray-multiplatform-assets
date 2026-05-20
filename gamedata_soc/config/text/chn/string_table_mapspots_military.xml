@@ -1,0 +1,60 @@
+	<string id="mil_cap_hint">
+		<text>與通關口指揮官交談。</text>
+	</string>
+	<string id="mil_courier_hint1">
+		<text>跟著告密者</text>
+	</string>
+	<string id="mil_courier_hint2">
+		<text>等待告密者呼叫幹員</text>
+	</string>
+	<string id="mil_courier_hint3">
+		<text>殺死告密者</text>
+	</string>
+	<string id="mil_courier_hint4">
+		<text>殺死密報者</text>
+	</string>
+	<string id="mil_crazy_hint">
+		<text>拿走瘋狂潛行者身上的隨身碟</text>
+	</string>
+	<string id="mil_dolg_khutor">
+		<text>紀律團農莊</text>
+	</string>
+	<string id="mil_freedom_sniper">
+		<text>殺死狙擊手</text>
+	</string>
+	<string id="mil_hunters_hint1">
+		<text>與莫克交談</text>
+	</string>
+	<string id="mil_hunters_hint2">
+		<text>回到吝嗇鬼處</text>
+	</string>
+	<string id="mil_kill_dolg_hint">
+		<text>摧毀紀律團小隊</text>
+	</string>
+	<string id="mil_kill_lukash_hint">
+		<text>殺死盧卡許</text>
+	</string>
+	<string id="mil_miser_hint">
+		<text>吝嗇鬼</text>
+	</string>
+	<string id="mil_report_to_max_hint">
+		<text>向麥斯回報</text>
+	</string>
+	<string id="mil_return_to_lukash_hint">
+		<text>向盧卡許回報</text>
+	</string>
+	<string id="mil_return_to_max_hint">
+		<text>把隨身碟交給麥斯</text>
+	</string>
+	<string id="mil_rg6_hint1">
+		<text>尋找在自由團基地的廚子</text>
+	</string>
+	<string id="mil_rg6_hint2">
+		<text>與大廚交談</text>
+	</string>
+	<string id="mil_rg6_hint3">
+		<text>從村莊的藏匿物中拿取Bulldog 6</text>
+	</string>
+	<string id="mil_watertower_hint">
+		<text>水塔</text>
+	</string>

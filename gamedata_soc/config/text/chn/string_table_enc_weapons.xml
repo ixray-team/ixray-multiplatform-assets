@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Ammo">
+		<text>彈藥</text>
+	</string>
+	<string id="ammo-11.43x23-fmj">
+		<text>.45ACP子彈</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_s">
+		<text>.45ACP</text>
+	</string>
+	<string id="ammo-11.43x23-hydro">
+		<text>.45ACP Hydro-Shock 空心彈</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_s">
+		<text>0.45Hydro</text>
+	</string>
+	<string id="ammo-12x70-buck">
+		<text>12х70 散彈鎗彈</text>
+	</string>
+	<string id="ammo-12x70-buck_s">
+		<text>12х70 散彈鎗</text>
+	</string>
+	<string id="ammo-12x76-dart">
+		<text>12x76 彈鏢彈</text>
+	</string>
+	<string id="ammo-12x76-dart_s">
+		<text>12x76 彈鏢槍</text>
+	</string>
+	<string id="ammo-12x76-zhekan">
+		<text>12x76 重彈散彈槍彈</text>
+	</string>
+	<string id="ammo-12x76-zhekan_s">
+		<text>12x76 重彈散彈槍</text>
+	</string>
+	<string id="ammo-5.45x39-ap">
+		<text>5.45x39 mm BP彈</text>
+	</string>
+	<string id="ammo-5.45x39-ap_s">
+		<text>5.45x39 mm BP</text>
+	</string>
+	<string id="ammo-5.45x39-fmj">
+		<text>5.45x39 mm彈</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_s">
+		<text>5.45x39</text>
+	</string>
+	<string id="ammo-5.56x45-ap">
+		<text>5.56x45 mm AP穿甲槍彈</text>
+	</string>
+	<string id="ammo-5.56x45-ap_s">
+		<text>5.56 AP穿甲槍</text>
+	</string>
+	<string id="ammo-5.56x45-ss190">
+		<text>5.56x45 mm SS109彈</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_s">
+		<text>5.56 SS</text>
+	</string>
+	<string id="ammo-7.62x54-7h1">
+		<text>7.62x54 mm 7N1彈</text>
+	</string>
+	<string id="ammo-7.62x54-7h1_s">
+		<text>7,62 7N1</text>
+	</string>
+	<string id="ammo-7.62x54-7h14">
+		<text>7.62x54R 7N14彈</text>
+	</string>
+	<string id="ammo-7.62x54-7h14_s">
+		<text>7.62 7N14</text>
+	</string>
+	<string id="ammo-7.62x54-ap">
+		<text>7.62x54 mm BP彈</text>
+	</string>
+	<string id="ammo-7.62x54-ap_s">
+		<text>7.62 BP</text>
+	</string>
+	<string id="ammo-9x18-fmj">
+		<text>9х18 mm彈</text>
+	</string>
+	<string id="ammo-9x18-fmj_s">
+		<text>9х18</text>
+	</string>
+	<string id="ammo-9x18-pmm">
+		<text>9х18 mm +P+彈</text>
+	</string>
+	<string id="ammo-9x18-pmm_s">
+		<text>9х18 +P+</text>
+	</string>
+	<string id="ammo-9x19-fmj">
+		<text>9х19mm FMJ</text>
+	</string>
+	<string id="ammo-9x19-fmj_s">
+		<text>9х19 FMJ</text>
+	</string>
+	<string id="ammo-9x19-pbp">
+		<text>9x19mm PB1s彈</text>
+	</string>
+	<string id="ammo-9x19-pbp_s">
+		<text>9x19 PB1s</text>
+	</string>
+	<string id="ammo-9x39-ap">
+		<text>9x39 mm SP-6彈</text>
+	</string>
+	<string id="ammo-9x39-ap_s">
+		<text>9x39 SP-6</text>
+	</string>
+	<string id="ammo-9x39-pab9">
+		<text>9х39 mm PAB-9彈</text>
+	</string>
+	<string id="ammo-9x39-pab9_s">
+		<text>9х39 PAB9</text>
+	</string>
+	<string id="ammo-9x39-sp5">
+		<text>9х39 mm SP-5彈</text>
+	</string>
+	<string id="ammo-9x39-sp5_s">
+		<text>9х39 SP-5</text>
+	</string>
+	<string id="ammo-gauss">
+		<text>電磁彈</text>
+	</string>
+	<string id="ammo-gauss_s">
+		<text>電磁槍</text>
+	</string>
+	<string id="ammo-m209">
+		<text>M209手榴彈</text>
+	</string>
+	<string id="ammo-m209_s">
+		<text>M209</text>
+	</string>
+	<string id="ammo-og-7b">
+		<text>OG-7V手榴彈</text>
+	</string>
+	<string id="ammo-og-7b_s">
+		<text>OG-7V</text>
+	</string>
+	<string id="ammo-vog-25">
+		<text>VOG-25手榴彈</text>
+	</string>
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+	<string id="ammo-vog-25p">
+		<text>VOG-25R手榴彈</text>
+	</string>
+	<string id="ammo-vog-25p_s">
+		<text>VOG-25R</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-11.43x23-fmj">
+		<text>給Kora-919跟SIP-t M200手槍用的標準子彈，它擁有標準的核心和全包覆的彈頭設計。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-11.43x23-hydro">
+		<text>給Kora-919跟SIP-t M200手槍用的改良過獨特的水力沖壓彈，它是一種空頭彈，擁有良好的阻礙效果。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x70-buck">
+		<text>標準12發的6mm散彈匣，在近距離有強大的殺傷力，專門設計給BM 17、Chaser 13跟SPSA14散彈鎗使用。它的有效距離通常低於30公尺。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x76-dart">
+		<text>一個帶鰭的子彈，在飛行時非常穩定，可以提升準確度，專門設計給TOS 34、BM 17、Chaser 13跟SPSA14散彈鎗使用。它有穿甲能力和增強射距的效果。它的有效距離超過150公尺。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x76-zhekan">
+		<text>一種裸彈，通常用於大型獵捕，也可以做為其他用途。它的重子彈沒有穿刺能力，但可以因為自身的力道來穿破防彈背心，專門設計給TOS 34、BM 17、Chaser 13跟SPSA14散彈槍使用。它的有效距離超過100公尺。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.45x39-ap">
+		<text>設計給Akm 74/2、Akm 74/2U、ON-94步槍用的穿甲彈。它擁有改進的穿甲能力，但是阻礙效果較差。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.45x39-fmj">
+		<text>設計給Akm 74/2、Akm 74/2U和Obokan步槍用的標準子彈，它擁有標準的核心和全包覆的彈頭設計。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.56x45-ap">
+		<text>設計給IL 86、TRs 301、SGI 5k、GP 37和FT 2000步槍用的穿甲彈。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.56x45-ss190">
+		<text>標準的NATO規格子彈，符合聞名的比利時 SS109 index規定，使用在IL 86、TRs 301、SGI 5k、GP 37和FT 200M步槍之上。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-7h1">
+		<text>一個經過簡單校正的子彈，適用於SVDm 2、SVUmk2狙擊槍。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-7h14">
+		<text>用於SVDm 2、SVUmk2狙擊槍的狙擊彈，加強了準度和射距。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-ap">
+		<text>用於SVDm 2、SVUmk2狙擊槍的穿甲彈。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x18-fmj">
+		<text>用於PMm、PB1s、Fort-12Mк2手槍的子彈，它擁有標準的核心和全包覆的彈頭設計，和輕微的穿甲能力。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x18-pmm">
+		<text>用於PMm、PB1s、Fort-12Mк2手槍，改良過彈道特性的子彈。因為該子彈的高初速特性，它的效應比一般子彈來得強，擁有較佳的穿甲能力。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x19-fmj">
+		<text>用於Walker P9m跟Viper 5機關槍的標準子彈，它擁有全包覆的彈頭設計，和輕微的穿甲能力。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x19-pbp">
+		<text>用於Walker P9m跟Viper 5機關槍的改良子彈。配有高爆藥的中空彈，擁有穿甲彈心。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x39-ap">
+		<text>用於Tunder S14、VLA步槍和Vintar特殊狙擊槍的穿甲彈。它是次音速子彈，它的特別設計可以穿透400公尺外大部分的防彈背心。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x39-pab9">
+		<text>用於Tunder S14、VLA步槍和Vintar特殊狙擊槍的子彈。屬於較後期和簡單校正的穿甲彈。它是次音速子彈，它的特別設計可以穿透300公尺外大部分的防彈背心。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x39-sp5">
+		<text>用於Tunder S14、VLA步槍和Vintar特殊狙擊槍的狙擊彈。它是次音速子彈，因為它的重量和特別設計，讓它可以穿透400公尺外大部分的防彈背心。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-gauss">
+		<text>能源槽已經充滿致命元素的高斯槍彈匣。它的能源來源是一個閃光神器的封裝物件。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-m209">
+		<text>M203榴彈發射器（可以裝備在TRs 301、 GP 37、SGI 5k、IL 86）以及FT 200M榴彈發射器用的榴彈，</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-og-7b">
+		<text>給RPG-7u使用的高爆性榴彈。它可以用來對付一群軍隊和小型的裝甲車輛。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-vog-25">
+		<text>給GP-25 Kostyer榴彈發射器、Tunder一體式榴彈發射器、和Bulldog 6轉輪式榴彈發射器用的榴彈。</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-vog-25p">
+		<text>給GP-25 Kostyer榴彈發射器、Tunder S14榴彈發射器、和Bulldog 6轉輪式榴彈發射器用的榴彈。榴彈會在目標一米前炸開以提高它的殺傷力。</text>
+	</string>
+	<string id="enc_weapons1_grenade-f1">
+		<text>一個防禦型的手榴彈，擁有大範圍的碎片殺傷力。建議在投擲時最好躲在掩體後面。</text>
+	</string>
+	<string id="enc_weapons1_grenade-gd05">
+		<text>煙霧彈，用來製造煙霧幕，持續時間約10秒鐘。</text>
+	</string>
+	<string id="enc_weapons1_grenade-rgd5">
+		<text>一個攻擊型的手榴彈，擁有小範圍的碎片殺傷力。</text>
+	</string>
+	<string id="enc_weapons1_wpn-abakan">
+		<text>俄羅斯菁英部隊用的武器。它設計用來取代過時的Akm 74/2。它不只擁有Obokan的內部機心結構，它的彈槽跟進彈器是可以活動的，這個設計降低了槍枝的彈跳，提升了射擊的準確度。\n 彈藥：\n 標準5.45x39 mm子彈。\n 5.45x39 mm BP穿甲彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-abakan_m1">
+		<text>機關槍提供了一個瞄準裝置來瞄準射擊。這個裝置嵌入槍身之中，比起一般型號擁有更高的解析度。</text>
+	</string>
+	<string id="enc_weapons1_wpn-abakan_m2">
+		<text>特定的機關槍在槍管下方擁有一體式的榴彈發射器，這讓它變成一個更多用途的武器。</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-grenade-launcher">
+		<text>給Akm 74/2、km 74/2U用的榴彈發射器。\n 彈藥：VOG-25槍榴彈。\n 以及VOG-25R槍榴彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-grenade-launcher-m203">
+		<text>給SGI 5k、TRs 301、GP 37以及IL 86用的榴彈發射器。\n 彈藥：M209槍榴彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope">
+		<text>一個被廣泛使用的蘇聯瞄準鏡。瞄準鏡可以使用華沙公約規格的鏡橋接在槍上使用。</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope-susat">
+		<text>符合NATO規格的4-X瞄準鏡。它可以接在標準NATO規格的滑軌上，同時也被稱為皮卡汀尼導軌。</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-silencer">
+		<text>由特異區槍匠打造的高效率滅音器。這個組合包含了一個適用於任何武器的接環。</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74">
+		<text>擁有折疊托的衝鋒槍，1974形式，使用5.45x39 mm子彈。它是簡單又可靠的武器，但是廉價的製造品質影響了它的工作和準度。在特異區中，它是軍隊潛行者跟許多個人戰士的武器。\n 彈藥：\n 標準5.45x39 mm子彈。\n 5.45x39 mm BP穿甲彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74_m1">
+		<text>改良過的閉鎖系統可以增進射速。</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74u">
+		<text>Akm 74/2U的重量和尺寸跟那些衝鋒槍很接近，但它的操作模式和使用的彈藥卻很像步槍。它的優點是在城市戰或是叢林戰時，它體積小而方便，但仍擁有較高的穿透力。它主要的缺點是準確射距有限和槍管容易過熱。\n 彈藥：\n 標準5.45x39 mm子彈。\n 5.45x39 mm BP穿甲彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74u_m1">
+		<text>加強機關槍，裝備有無法更換的消音器。</text>
+	</string>
+	<string id="enc_weapons1_wpn-beretta">
+		<text>由美國陸軍和警察所使用，同時也被世界上許多軍警單位使用。因為它的高爆藥彈藥跟高彈量的彈匣設計，讓它也受到了罪犯的青睞。\n 彈藥：\n 標準9x19 mm FMJ子彈。\n 改良9x19 mm PB1s子彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-bm16">
+		<text>一個鋸短槍管的BM 17來福槍。跟原始的雙管版本相比，它比較輕也比較好攜帶，但有效射距只有很短的距離。這個武器通常被初學者廣泛使用。\n 彈藥：\n 12x70 散彈。\n 12x76 重彈頭。\n 12x76彈鏢。</text>
+	</string>
+	<string id="enc_weapons1_wpn-colt_m1">
+		<text>受雇殺手的的武器。值得信賴的老式kora槍，裝備有不可替換的滅音器。</text>
+	</string>
+	<string id="enc_weapons1_wpn-colt1911">
+		<text>一把好槍，出現在20世紀所有的衝突場景中，然後帶著榮耀和自信進入新的時代。雖然它使用的是小容量彈匣，但配有高爆性的子彈來作補強。\n 彈藥：\n 改良過的.45 ACP水力沖壓彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-desert-eagle">
+		<text>一把屬於真正英雄的好槍。它很大、很重、很具破壞力。因為它的尺寸和價錢讓它在特異區中不是很受歡迎。畢竟，你不是每天都需要獵殺大象的！\n 標準.45ACP子彈。\n 改良過的.45 ACP水力沖壓彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-eagle_m1">
+		<text>一把原本就威力十足的槍，改裝後使用步槍子彈，在近距離戰中的確是一個殺人利器。</text>
+	</string>
+	<string id="enc_weapons1_wpn-fn2000">
+		<text>一把裝有榴彈發射器的步槍，它裝備有電子射控模組和一個40-mm的榴彈發射器。\n 彈藥：標準5.56x45 mm SS109子彈。\n 5.56x45 mm АР穿甲彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-fort">
+		<text>烏克蘭警用手槍，用來取代PMm。跟其它的手槍相比，它改進了準度、人體工學和大型的彈匣，但它少了點可靠性。\n 彈藥：\n 標準9x18 mm子彈。\n 改良過的9x18 mm +P+子彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-fort_m1">
+		<text>實驗性要塞槍的原型。</text>
+	</string>
+	<string id="enc_weapons1_wpn-g36">
+		<text>一把德國步槍。它是現代武器一年級生的樣本：它很輕、可信賴、並且符合人體工學設計。\n 彈藥：\n 標準5.56x45 mm SS109子彈。\n 5.56x45 mm АР穿甲彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-gauss">
+		<text>由特異區科學家所製造的神準武器。它近乎無聲，因為使用了神器的能量來取代原本子彈火藥推進的設計。儘管高斯槍的火力強大，它的後座力卻非常微小。準度和這把槍的火力遠遠超越其它小型槍枝。\n 彈藥：\n 2-mm高斯彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-groza">
+		<text>裝備有榴彈發射器的步槍，這是一把非常合適特異區狀況使用的步槍：它很容易攜帶、很可靠、多用途但火力強大。Tunder S14是軍隊潛行者最喜歡的一把步槍。\n 彈藥：\n 標準x39 mm PAB-9子彈。\n  9x39 mm SP-6穿甲彈。\n 9x39 mm SP-5狙擊彈。\n 用於榴彈發射器的 VOG-25、VOG-25R槍榴彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-groza_m1">
+		<text>特製的槍管是潛行者工匠優異設計中的其中一項，這讓步槍可以使用更多種不同的5.45 mm子彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-hpsa">
+		<text>這把手槍可以說是20世紀最棒的手槍了。它可以信賴、威力強大並且擁有很好的彈著點。它的彈匣最多可以裝13發子彈。\n 彈藥：\n 標準9x19 mm FMJ子彈。\n 改良的9х19 mm PB1s子彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-knife">
+		<text>獵刀</text>
+	</string>
+	<string id="enc_weapons1_wpn-l85">
+		<text>當英國陸軍把步槍改成德國製的GP 37後，它就開始大量的出現在黑市。然後流入特異區中。IL 86的主要優勢是一個標準的4-x瞄準鏡和初射的超準確率。在連發模式，它的準確率會逐漸降低，它的主機械結構並不是那麼的值得信賴。\n 彈藥：\n 標準5.56x45 mm SS109子彈。\n 5.56x45 mm АР穿甲彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-l85_m1">
+		<text>經過幾次調整槍管的噴火效應降低了。</text>
+	</string>
+	<string id="enc_weapons1_wpn-l85_m2">
+		<text>裝備有一體式滅音器的武器。許多地方都改裝了比較輕的部件，讓這把武器明顯的變輕了。</text>
+	</string>
+	<string id="enc_weapons1_wpn-lr300">
+		<text>一把有效射距超過300公尺的輕型步槍。藉由它特殊輕扣扳機的力道、人體工學和輕量的設計，讓這把武器有很高的準確度。不過它對塵土很敏感，並且不適用於惡劣的環境。\n 彈藥：\n 標準5.56x45 mm SS109子彈。\n 5.56x45 mm АР穿甲彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-lr300_m1">
+		<text>調整風暴武器將其改為單發射擊，這是將設定改為狙擊步槍的簡單操作。</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5">
+		<text>衝鋒槍中的最佳武器。在20世紀的最後十年，它被世界各地許多國家軍、警、特殊部隊所採用。當它被更新型的武器取代後，就出現在黑市之中，接著流入了特異區。\n 彈藥：\n 標準9x19 mm FMJ子彈。\n 改良過的9x19 mm PB1s子彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5_m1">
+		<text>這把機關槍輕量、同時攜帶方便，現在還有根據不同口徑進行調整的設計，是初學者的最佳選擇。</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5_m2">
+		<text>基本型式的變化版，加上一個不可以拆卸的滅音器。</text>
+	</string>
+	<string id="enc_weapons1_wpn-pb">
+		<text>裝配有一體式滅音器的手槍，曾被蘇聯特殊部隊使用。它現在已經過時了，但在吝嗇鬼的手中，仍然是非常有效的。\n 彈藥：\n 標準9x18 mm子彈。\n 改良過的9x18 mm +P+子彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-pm">
+		<text>在特異區中使用最多的手槍，它是蘇聯時期的傳奇。它簡單又可靠，低彈量的彈匣、低火力，不過彈著點較不集中。它是潛行者新手的主要武器。\n 彈藥：\n 標準9x18 mm子彈。\n 改良過的9x18 mm +P+子彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-rg-6">
+		<text>一個轉輪式的榴彈發射器。在面對大量的異種生物時，它是不可或缺的武器。它很適合用來攻擊防禦良好的固定目標，或是對抗特別強悍的生物。\n 彈藥：\n VOG-25槍榴彈。\n VOG-25R槍榴彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-rg6_m1">
+		<text>一個變化版的轉輪式榴彈發射器，這個型式是特別用來配合西方規格的槍榴彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-rpg7">
+		<text>一個1960年代發展的榴彈發射器。像這樣的榴彈發射器在陸軍倉庫中都有大量的存貨，有人就從那邊偷運到了特異區中。對潛行者來說這是個稀有的武器：大體積和高重量使它不受歡迎，不過在某些任務中它是不可或缺的。\n 彈藥：\n OG-7V槍榴彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig_m1">
+		<text>這個武器是為了城市戰所製造的。為了降低重量，一些部件被拿掉或是更換，因此，它無法加裝瞄準鏡或是榴彈發射器。但至少它的重量比起以前減輕了一半以上。</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig_m2">
+		<text>它被修改成狙擊槍，配置一個無法拆卸的光學瞄準鏡來提昇瞄準能力。</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig220">
+		<text>它發展於1975年，但現在仍然遍及全世界。它的彈匣裝彈數低，但機械結構相當穩定。它的第二個優勢是高爆性Kora子彈。\n 彈藥：\n 標準.45 ACP子彈。\n .45 ACP水力沖壓彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig550">
+		<text>一把較新式的步槍，使用 5.56x45 mm SS109子彈。這個武器因為它的準確度、輕後座力跟高信賴度而非常受歡迎。\n 彈藥：\n 標準5.56x45 mm SS109子彈。\n 5.56x45 mm AP穿甲彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-spas12">
+		<text>SPSA14滑膛來福槍發展於1970年代末期，這把武器好用又值得信賴。不過它比較大一點、貴了點，還有它的機械結構也稍為複雜。它可能是特異區中最佳的近距離武器了。\n 彈藥：\n 12x70散彈。\n 12x76 重彈頭。\n 12x76彈鏢。</text>
+	</string>
+	<string id="enc_weapons1_wpn-spas12_m1">
+		<text>獨特的武器。這把散彈槍擁有步槍的槍膛，當它在射擊重彈或是彈鏢時，準確性提高很多。不管怎樣，使用散彈槍射擊是很不容易的。\n 彈藥：\n 12x70散彈。\n 12x76 重彈頭。\n 12x76彈鏢。</text>
+	</string>
+	<string id="enc_weapons1_wpn-svd">
+		<text>這把步槍在1960年後，在蘇聯和蘇俄軍隊中廣泛的使用。它是一把特別值得信賴和攜帶方便的武器。特異區中紀律團有經驗的潛行者喜歡用這把槍來獵殺異種生物。\n 彈藥：\n 標準7.62x54 mm 7N1子彈。\n 7.62x54 mm BP穿甲彈。\n 7.62x54 mm 7N14狙擊彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-svd_m1">
+		<text>改良後，光學效果和影像解析度提昇了。這把武器的平衡度提高了，同時它的後座力也變輕了。</text>
+	</string>
+	<string id="enc_weapons1_wpn-svu">
+		<text>一把改良很多的狙擊槍，採用輕便的犢牛式設計，非常適合在特異區長途使用。\n 彈藥：\n 標準7.62x54 mm 7N1子彈。\n 7.62x54 mm BP穿甲彈。\n 7.62x54 mm 7N14狙擊彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-toz34">
+		<text>這是把受歡迎的獵槍，但沒有什麼特別值得注意的地方。\n 彈藥：\n 12x70散彈。\n 12x76 重彈頭。\n 12x76彈鏢。</text>
+	</string>
+	<string id="enc_weapons1_wpn-usp">
+		<text>一把值得信賴的武器。作為一把高品質方便攜帶的近距離武器，它很受到特異區中老兵的歡迎。\n 彈藥：\n 標準.45 ACP子彈。\n改良過的.45 ACP水力衝壓彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-val">
+		<text>這把武器是依據Vintar無聲狙擊槍的設計，但它有一個折疊托，可以用來連射和使用更大的彈匣。它原本是因應特殊部隊的無聲和無火光的要求而設計的。\n 彈藥：\n 標準9x39 mm PAB-9子彈。\n 9x39 mm SP-6穿甲彈。\n 9x39 mm SP-5狙擊彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-val_m1">
+		<text>跟基本的形式相比，多了光學瞄準鏡PSO-1。</text>
+	</string>
+	<string id="enc_weapons1_wpn-vintorez">
+		<text>一把裝備著不可拆卸的滅音管的特殊狙擊槍，設計成無聲無火光的特性。它可以在400米外射穿任何防彈背心。對所有的潛行者來說，它是很有價值的一把武器。\n 彈藥：\n 標準9x39 mm PAB-9子彈。\n 9x39 mm SP-6穿甲彈。\n 9x39 mm SP-5狙擊彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-walther">
+		<text>一把完美的手槍。具高度信賴性，使用高容量的彈匣，具有很好的準確性，特別是這個形式設計使用了9 mm FMJ子彈。\n 彈藥：\n 標準9x19 mm FMJ子彈。\n 改良過的9х19 mm PB1s子彈。 </text>
+	</string>
+	<string id="enc_weapons1_wpn-walther_m1">
+		<text>這把槍改裝過，可以使用9x18mm calibre子彈。</text>
+	</string>
+	<string id="enc_weapons1_wpn-wincheaster1300">
+		<text>一把適用於危險環境下的壓動式槍機散彈槍，它非常的值得信賴。它的表面塗佈了防鏽蝕的塗料。\n 彈藥：\n 12x70散彈。\n 12x76 重彈頭。\n 12x76彈鏢。</text>
+	</string>
+	<string id="grenade-f1">
+		<text>F1榴彈</text>
+	</string>
+	<string id="grenade-gd05">
+		<text>GD-05</text>
+	</string>
+	<string id="grenade-rgd5">
+		<text>RGD-5榴彈</text>
+	</string>
+	<string id="Weapons1">
+		<text>武器</text>
+	</string>
+	<string id="wp_desert_eagle">
+		<text>黑鳶</text>
+	</string>
+	<string id="wpn_hpsa">
+		<text>HPSS-1m</text>
+	</string>
+	<string id="wpn_usp">
+		<text>UDP Compact</text>
+	</string>
+	<string id="wpn-abakan">
+		<text>Obokan</text>
+	</string>
+	<string id="wpn-abakan_m1">
+		<text>Obokan狙擊槍</text>
+	</string>
+	<string id="wpn-abakan_m2">
+		<text>風暴Obokan</text>
+	</string>
+	<string id="wpn-addon-grenade-launcher">
+		<text>GP-25 科司特耶</text>
+	</string>
+	<string id="wpn-addon-grenade-launcher-m203">
+		<text>M203</text>
+	</string>
+	<string id="wpn-addon-scope">
+		<text>PSO-1瞄準鏡</text>
+	</string>
+	<string id="wpn-addon-scope-susat">
+		<text>SUSAT瞄準鏡</text>
+	</string>
+	<string id="wpn-addon-silencer">
+		<text>滅音器</text>
+	</string>
+	<string id="wpn-ak74">
+		<text>Akm 74/2</text>
+	</string>
+	<string id="wpn-ak74_m1">
+		<text>快速射擊版Akm 74/2</text>
+	</string>
+	<string id="wpn-ak74u">
+		<text>Akm 74/2U</text>
+	</string>
+	<string id="wpn-ak74u_m1">
+		<text>特別版Akm 74/2</text>
+	</string>
+	<string id="wpn-beretta">
+		<text>瑪莎</text>
+	</string>
+	<string id="wpn-bm16">
+		<text>短管dbl散彈槍</text>
+	</string>
+	<string id="wpn-colt_m1">
+		<text>kora滅音槍</text>
+	</string>
+	<string id="wpn-colt1911">
+		<text>Kora-919</text>
+	</string>
+	<string id="wpn-eagle_m1">
+		<text>大笨鐘</text>
+	</string>
+	<string id="wpn-fn2000">
+		<text>FT 200M</text>
+	</string>
+	<string id="wpn-fort">
+		<text>Fort-12Mк2</text>
+	</string>
+	<string id="wpn-fort_m">
+		<text>Fort-15</text>
+	</string>
+	<string id="wpn-g36">
+		<text>GP 37</text>
+	</string>
+	<string id="wpn-gauss">
+		<text>高斯槍</text>
+	</string>
+	<string id="wpn-groza">
+		<text>旱天雷S14</text>
+	</string>
+	<string id="wpn-groza_m1">
+		<text>"旱天雷"5.45</text>
+	</string>
+	<string id="wpn-l85">
+		<text>IL 86</text>
+	</string>
+	<string id="wpn-l85_m1">
+		<text>天秤IL 86</text>
+	</string>
+	<string id="wpn-l85_m2">
+		<text>閃電IL 86</text>
+	</string>
+	<string id="wpn-lr300">
+		<text>TRs 301</text>
+	</string>
+	<string id="wpn-lr300_m1">
+		<text>TRs 301狙擊槍</text>
+	</string>
+	<string id="wpn-mp5">
+		<text>Viper5</text>
+	</string>
+	<string id="wpn-mp5_m1">
+		<text>Viper5 9x18</text>
+	</string>
+	<string id="wpn-mp5_m2">
+		<text>Viper滅音槍</text>
+	</string>
+	<string id="wpn-pb">
+		<text>滅音槍(PB1s)</text>
+	</string>
+	<string id="wpn-pm">
+		<text>PMm</text>
+	</string>
+	<string id="wpn-rg-6">
+		<text>Bulldog 6</text>
+	</string>
+	<string id="wpn-rg6_m1">
+		<text>Bulldog-6 m209</text>
+	</string>
+	<string id="wpn-rpg7">
+		<text>RPG-7u</text>
+	</string>
+	<string id="wpn-sig_m1">
+		<text>強擊SIP</text>
+	</string>
+	<string id="wpn-sig_m2">
+		<text>SGI狙擊槍</text>
+	</string>
+	<string id="wpn-sig220">
+		<text>SIP-t M200</text>
+	</string>
+	<string id="wpn-sig550">
+		<text>SGI 5k</text>
+	</string>
+	<string id="wpn-spas12">
+		<text>SPSA14</text>
+	</string>
+	<string id="wpn-spas12_m1">
+		<text>螺紋SPSA-14</text>
+	</string>
+	<string id="wpn-svd">
+		<text>狙擊槍(SVDm 2)</text>
+	</string>
+	<string id="wpn-svd_m1">
+		<text>"神射手" SVDm 2</text>
+	</string>
+	<string id="wpn-svu">
+		<text>SVUmk2</text>
+	</string>
+	<string id="wpn-toz34">
+		<text>TOS 34</text>
+	</string>
+	<string id="wpn-val">
+		<text>VLA特殊衝鋒槍</text>
+	</string>
+	<string id="wpn-val_m1">
+		<text>VLA狙擊槍</text>
+	</string>
+	<string id="wpn-vintorez">
+		<text>Vintar BC</text>
+	</string>
+	<string id="wpn-walther">
+		<text>Walker P9m</text>
+	</string>
+	<string id="wpn-walther_m1">
+		<text>Walker 9x18</text>
+	</string>
+	<string id="wpn-wincheaster1300">
+		<text>Chaser 13</text>
+	</string>
+</string_table>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Antirad">
+		<text>抗輻射藥</text>
+	</string>
+	<string id="Arm-heavy">
+		<text>重型潛行者裝備</text>
+	</string>
+	<string id="Arm-light">
+		<text>輕型潛行者裝備</text>
+	</string>
+	<string id="Arm-medium">
+		<text>中型潛行者裝備</text>
+	</string>
+	<string id="bandage">
+		<text>繃帶</text>
+	</string>
+	<string id="Binocul">
+		<text>雙筒望遠鏡</text>
+	</string>
+	<string id="Bread">
+		<text>麵包</text>
+	</string>
+	<string id="cit_deadcity_maps_desc">
+		<text>一張死城的詳細地圖，包含了傭兵的位置。</text>
+	</string>
+	<string id="cit_deadcity_maps_name">
+		<text>死城的地圖。</text>
+	</string>
+	<string id="cit_doctors_key_desc">
+		<text>博士的鑰匙，可以開啟皮里皮亞特的秘密藏匿物</text>
+	</string>
+	<string id="cit_doctors_key_short_desc">
+		<text>博士的鑰匙</text>
+	</string>
+	<string id="Conserva">
+		<text>觀光聖地</text>
+	</string>
+	<string id="Detect1">
+		<text>特異點偵測器（DA-2）</text>
+	</string>
+	<string id="Devic">
+		<text>儀器和裝備</text>
+	</string>
+	<string id="device-PDA">
+		<text>PDA</text>
+	</string>
+	<string id="device-torch">
+		<text>手電筒</text>
+	</string>
+	<string id="enc_equipment_armors_arm-heavy">
+		<text>防護裝。重量：18公斤。內容：防護軟膠、燒絨和大部分特異點的威脅，以及實體傷害，在軀幹和背部的位置內建有生化金屬墊片。這個防護裝裝備有氣密功能、強化塑膠頭盔和兩個氧氣瓶。附記：在經過長時間的使用後防護裝會破裂，功能也會逐漸變差。</text>
+	</string>
+	<string id="enc_equipment_armors_arm-light">
+		<text>防護裝。重量：8公斤。內容：防護較微弱的特異點威脅跟實體傷害。裝備有一個氧氣面罩。附記：在經過長時間的使用後防護裝會破裂，功能也會逐漸變差。</text>
+	</string>
+	<string id="enc_equipment_armors_arm-medium">
+		<text>防護裝。重量：8公斤。內容：防護軟膠、燒絨等大部分特異點的威脅，以及實體傷害。裝備有氣密式頭盔和一個氧氣瓶。附記：在經過長時間的使用後防護裝會破裂，功能也會逐漸變差。</text>
+	</string>
+	<string id="enc_equipment_armors_sci2">
+		<text>一套紅色的S.C.A.P.E防護裝和一頂氣密式的頭盔。說明：防護火、酸、有毒瓦斯、數種特異點、燒絨和實體傷害。裝備有兩個氧氣瓶。附記：在經過長時間的使用後防護裝會破裂，功能也會逐漸變差。</text>
+	</string>
+	<string id="enc_equipment_devic_binocul1">
+		<text>軍用野戰望遠鏡</text>
+	</string>
+	<string id="enc_equipment_devic_detect1">
+		<text>用來偵察特異點和干擾的裝置，當發現異常時會發出聲音來警告。它需要安裝在皮帶上面，並且打開開關才能正常工作。</text>
+	</string>
+	<string id="enc_equipment_devic_device-PDA1">
+		<text>個人數位助理，是特異區中不可或缺的裝備。</text>
+	</string>
+	<string id="enc_equipment_devic_device-torch1">
+		<text>一支強力的手電筒，在光源不足的地方特別的有用。</text>
+	</string>
+	<string id="enc_equipment_devic_device-torch1_m1">
+		<text>一支強力的手電筒，拜現代變壓器之賜，電池充電的時間已經被縮短了。</text>
+	</string>
+	<string id="enc_equipment_energydrink">
+		<text>這是一個包含有咖啡因、牛磺酸以及恢復精神用維他命的超棒精力飲料。這是張可以幫助你在太累時重新上路的車票！</text>
+	</string>
+	<string id="enc_equipment_food_bread1">
+		<text>很難說出是誰在特異區中烤這些麵包，但這些麵包沒有受到污染，而且可以食用。好吧，至少沒有潛行者在抱怨。</text>
+	</string>
+	<string id="enc_equipment_food_conserva1">
+		<text>潛行者從軍方倉庫搶來的罐頭食物，都還沒有過保存期限。</text>
+	</string>
+	<string id="enc_equipment_food_kolbasa1">
+		<text>由雞肉和大豆混製而成，是一種常見的"瘦身"香腸，在沒有什麼選擇的情況之下，通常是潛行者的早餐、午餐跟晚餐。</text>
+	</string>
+	<string id="enc_equipment_food_vodka1">
+		<text>由GSC公司製造的伏特加。入口順暢，可以明顯的降低輻射的影響。不過人所皆知，飲酒請不要過量。</text>
+	</string>
+	<string id="enc_equipment_medi_antirad1">
+		<text>降低輻射的影響。</text>
+	</string>
+	<string id="enc_equipment_medi_bandage1">
+		<text>幫助，幫助止血。</text>
+	</string>
+	<string id="enc_equipment_medi_medkit1">
+		<text>一個全方位用途的醫藥箱，用來治療數種不同類型的嚴重傷害：創傷、燒傷、中毒等等。</text>
+	</string>
+	<string id="enc_equipment_medi_medkit2">
+		<text>一個專門的醫藥組合，用來對抗實體傷害和失血。在裡面包含有止血用具、抗生素、免疫素還有止痛劑。</text>
+	</string>
+	<string id="enc_equipment_medi_medkit3">
+		<text>醫藥組合，特別設計在特異區中使用。這個組合包含了治療實體傷害和消除人體中的輻射，先期預防電波疾病和降低輻射的累積。</text>
+	</string>
+	<string id="energy_drink_name">
+		<text>精力飲料</text>
+	</string>
+	<string id="energy_drink_short_name">
+		<text>精力飲料</text>
+	</string>
+	<string id="Equipment">
+		<text>裝備和食物</text>
+	</string>
+	<string id="Food">
+		<text>食物</text>
+	</string>
+	<string id="Kolbasa">
+		<text>營養的香腸</text>
+	</string>
+	<string id="Medi">
+		<text>藥劑</text>
+	</string>
+	<string id="Medkit">
+		<text>醫藥箱</text>
+	</string>
+	<string id="Medkit_army">
+		<text>軍用急救箱</text>
+	</string>
+	<string id="Medkit_scientific">
+		<text>科學家用急救箱</text>
+	</string>
+	<string id="Sci2">
+		<text>科學用的EXP-4</text>
+	</string>
+	<string id="Vodka">
+		<text>哥薩克伏特加</text>
+	</string>
+	<string id="st_detector">
+		<text>特異點探測器</text>
+	</string>
+	<string id="st_detector_descr">
+		<text>作為特異點和輻射污染的區域的偵測之用。</text>
+	</string>
+	<string id="st_grenade_gd5">
+		<text>煙霧彈</text>
+	</string>
+</string_table>

@@ -1,0 +1,48 @@
+	<string id="sar_monolith">
+		<text>許願機</text>
+	</string>
+	<string id="sar_monolith_0">
+		<text>抵達黑石處</text>
+	</string>
+	<string id="sar_monolith_1">
+		<text>偷溜進入石棺</text>
+	</string>
+	<string id="sar_monolith_2">
+		<text>發現"許願機"</text>
+	</string>
+	<string id="sar_monolith_destroy">
+		<text>黑石的秘密。</text>
+	</string>
+	<string id="sar_monolith_destroy_0">
+		<text>滲透進入秘密實驗室。</text>
+	</string>
+	<string id="sar_monolith_destroy_1">
+		<text>解出黑石的秘密</text>
+	</string>
+	<string id="sar_monolith_destroy_2">
+		<text>摧毀黑石的能源產生器。</text>
+	</string>
+	<string id="sar_perception">
+		<text>特異區的秘密。</text>
+	</string>
+	<string id="sar_perception_1">
+		<text>會見藏匿在黑石之後的那個人。</text>
+	</string>
+	<string id="sar_perception_2">
+		<text>找出秘密實驗室，與"幕後主使者"見面。</text>
+	</string>
+	<string id="sar_secret_lab">
+		<text>秘密實驗室</text>
+	</string>
+	<string id="sar_secret_lab_0">
+		<text>進入秘密碉堡。</text>
+	</string>
+	<string id="sar_secret_lab_1">
+		<text>尋找隱藏的門</text>
+	</string>
+	<string id="sar_secret_lab_2">
+		<text>使用解碼器開啟。</text>
+	</string>
+	<string id="sar_secret_lab_3">
+		<text>找出門後面的東西。</text>
+	</string>

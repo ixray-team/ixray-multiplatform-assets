@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="agr_factory_krot_start_0">
+		<text>謝謝你的幫助，潛行者！如果你沒出現，我現在就是一個死人了。</text>
+	</string>
+	<string id="agr_factory_krot_start_10001">
+		<text>我在尋找史特列洛克的訊息，或許你知道些東西？</text>
+	</string>
+	<string id="agr_factory_krot_start_10002">
+		<text>我要如何進入地下室？</text>
+	</string>
+	<string id="agr_factory_krot_start_15001">
+		<text>史特列洛克的秘密藏匿物？</text>
+	</string>
+	<string id="agr_factory_krot_start_15002">
+		<text>謝謝你的訊息。</text>
+	</string>
+	<string id="agr_factory_krot_start_1501">
+		<text>是的，我有聽說過。據說甚至他曾經在這裡"工作"，以及史特列洛克的藏匿物就在這地下室裡面。謠傳說他組織的基地也在這裡。</text>
+	</string>
+	<string id="agr_factory_krot_start_1502">
+		<text>這個出入口可以讓你進入互相連接的地下室裡。一旦進去了那裡，就要靠你自己了。我沒有地圖，而地下室連接的網絡又大又複雜。</text>
+	</string>
+	<string id="agr_factory_krot_start_2">
+		<text>我在尋找史特列洛克的訊息，西利告訴我你知道他的一些事情。</text>
+	</string>
+	<string id="agr_factory_krot_start_30001">
+		<text>謝謝你。</text>
+	</string>
+	<string id="agr_factory_krot_start_3001">
+		<text>對，我們也在找它，但都找不到。我會給你一些關於它的訊息。那是我們在藏匿物中找到的所有東西了。</text>
+	</string>
+	<string id="agr_factory_stalker_about_0">
+		<text>這裡發生了什麼事？</text>
+	</string>
+	<string id="agr_factory_stalker_about_1">
+		<text>我們在戰鬥，更準確的說，我們在等著被攻擊。如果你想知道更多的話就跟莫爾談談，他是我們的首領。</text>
+	</string>
+	<string id="agr_factory_stalker_start_0">
+		<text>兄弟，那不過是一場或半場的戰鬥，你不該在你可怕的敵人身上，期待那樣的事情。這些阿兵哥兄弟變得太過輕敵了！</text>
+	</string>
+	<string id="agr_krot_about_agroprom_0">
+		<text>農會研究機構在哪裡呢？</text>
+	</string>
+	<string id="agr_krot_about_agroprom_10">
+		<text>離這裡不遠。跟著那條路往西方走，你就會來到機構的大門口。</text>
+	</string>
+	<string id="agr_krot_about_agroprom_100">
+		<text>據說軍方在這裡設置了一個基地，是嗎？</text>
+	</string>
+	<string id="agr_krot_about_agroprom_120">
+		<text>謝謝你的訊息。</text>
+	</string>
+	<string id="agr_krot_about_agroprom_20">
+		<text>對，那邊有一座軍事基地。我不確定他們有多少人，至少有一個排。他們的裝備精良，你毫無機會可以通過：在你說出"哈囉，夥伴"之前，他們已經把你射倒在地了。想要接近的話，只有在晚上，因為他們的基地白天警衛森嚴：到處都設了檢查哨，不過我聽說他們有個逃兵躲在沼澤裡。如果你可以找到他，我確定你可以從他身上套出不少有用的資訊。</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_0">
+		<text>發生了什麼事情？</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_100">
+		<text>我跟我的手下發現了一個美好的小地方，有一堆神器，但那些軍方的混帳因為某些原因攻擊了我們。我不知道他們想從我們這裡得到什麼東西…</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_200">
+		<text>對，我有聽說過他。我想他曾經在這個區域"討生活"；這真是個好地方。他離開很久了，我不曉得確切的時間，也不知道任何他往何處去的線索。那就是我能告訴你的所有東西。</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_2000">
+		<text>你不會無緣無故在這裡等著的，不是嗎？不然為什麼俄羅斯特種部隊出現在這裡？</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_250">
+		<text>OK，我知道一些關於史特列洛克的事情。</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_2500">
+		<text>哦？我真的想知道！</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_3500">
+		<text>如果你對我說謊，我會找到你，然後完成那些軍人沒做完的事！</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_400">
+		<text>我沒有說謊。我知道這裡沒有人會相信別人，所以你別無選擇。</text>
+	</string>
+	<string id="agr_krot_actor_met_seriy_100">
+		<text>西利？好吧，O.K.，聽著，據說史特列洛克曾經出沒在這裡。因此，他的藏匿物就在這裡某個地方的地底下。我聽說他的組織甚至在這裡有個基地。我們也在尋找藏匿物，但找到的都是一些垃圾。我會給你藏匿物的訊息，或許你比較好運。這是我們所有的消息了。</text>
+	</string>
+	<string id="agr_krot_actor_met_seriy_2000">
+		<text>你還知道些什麼？</text>
+	</string>
+	<string id="agr_krot_actor_met_seriy_250">
+		<text>我什麼都不知道。我把所有的事都告訴你了，現在你要靠你自己了。祝你好運。</text>
+	</string>
+	<string id="agr_krot_help_0">
+		<text>救救我，潛行者！！！</text>
+	</string>
+	<string id="agr_krot_help_10">
+		<text>OK。</text>
+	</string>
+	<string id="agr_ratcatcher_start_0">
+		<text>別開槍，兄弟！</text>
+	</string>
+	<string id="agr_stalker_esc_0">
+		<text>你在做什麼？</text>
+	</string>
+	<string id="agr_stalker_esc_20">
+		<text>離我從工廠回來路上有點遠的地方，我不知道軍隊是怎麼發現我們的。我沒有等他們出現就趕快離開了。希望我的人能離開那裡，不然他們就會活不久了，你是見識過那些屠夫的。</text>
+	</string>
+	<string id="agr_stalker_esc_300">
+		<text>我知道了，謝謝。</text>
+	</string>
+	<string id="agr_stalker_esc_400">
+		<text>我知道了，謝謝。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_0">
+		<text>我有一堆問題。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_10">
+		<text>你想知道什麼？</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_1000">
+		<text>這個區域有什麼新鮮事情？</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_120">
+		<text>你需要多少？</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_130">
+		<text>這裡，把錢收下。現在告訴我它在哪裡。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_131">
+		<text>滾開！</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_140">
+		<text>謝謝你。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_20">
+		<text>對，有一些，但你得付出一些代價的，兄弟。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_21">
+		<text>這裡通常很平靜，但現在軍隊變得很興奮，到處在攻擊別人。他們最近趕走了強盜，我聽說有些人逃進了地下墓穴。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_30">
+		<text>30，成交？</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_40">
+		<text>火車隧道的出口就在附近，在底端可不太安全，不過至少沒有人在睡覺時被吃掉…目前還沒有。還有，在工廠的西北方你會發現一個沼澤，裡面有輛貨車。但小心點，那附近有一堆輻射污染，所以最好從西方靠近。喔，還有一件事情：有一個軍人在那邊被盯上了，他好像是從設施裡的軍事基地跑出來的。那個可憐的傢伙近乎瘋狂了，他在那邊有好幾天了，我賭他一個人在那是活不久的。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_9999">
+		<text>再見！</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_0">
+		<text>這裡有發生什麼新鮮事嗎？</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_1">
+		<text>你知道關於捕鼠者的訊息嗎？這個消息可以讓你賺30。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_11">
+		<text>成交。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_111">
+		<text>我們這裡有個叫做捕鼠者的英雄，他生活在沼澤裡。那個人在回收處理系統裡繁殖了一堆老鼠，牠們很快的就會吃掉那些軍方的混蛋。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_1111">
+		<text>太好了，謝謝。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_1112">
+		<text>告訴我更多關於回收處理系統的事情。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_11121">
+		<text>回收處理系統是一個臭得要死的排水管，它從設施中收取廢料，然後將它倒入最近的水池裡。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_111211">
+		<text>太好了，再見、自己小心點。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_12">
+		<text>我已經知道了，謝謝。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_121">
+		<text>我沒有什麼可以告訴你的。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_13">
+		<text>我沒有足夠的錢。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_14">
+		<text>我沒有興趣。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_3">
+		<text>這邊有什麼有趣的事情嗎？</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_31">
+		<text>沒事，真的沒事。</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_311">
+		<text>我知道了，再見！</text>
+	</string>
+	<string id="agr_stalker_talk_level_0">
+		<text>告訴我關於這地方的事情。</text>
+	</string>
+	<string id="agr_stalker_talk_level_1">
+		<text>這是農會研究所施附近的區域。研究所的位置在西南方。負責生產研究所技術設施的工廠，則位於南端。這些建築物已經荒廢了很長的時間，但軍隊最近又開始在那邊開始進行搜尋的行動了。</text>
+	</string>
+	<string id="agr_stalker_talk_level_2">
+		<text>告訴我更多關於研究所的事情。</text>
+	</string>
+	<string id="agr_stalker_talk_level_21">
+		<text>關於研究說的傳說有一堆。在1986年的災難事件之前，這裡只有作物遺傳學的研究所，工廠以前是用來種植實驗作物的區域。在災難發生後，他們關閉研究所、燒掉田地。接著他們又想起了這個地方，他們重新粉刷牆壁，在周圍建了籬笆，並且蓋了些軍營。我不知道他們在研究所裡幹了些什麼，但他們從來不缺物資，這可是很確定的事情。</text>
+	</string>
+	<string id="agr_stalker_talk_level_3">
+		<text>告訴我更多關於工廠的事情。</text>
+	</string>
+	<string id="agr_stalker_talk_level_31">
+		<text>工廠建立於80年代末期，據說那裡用來製作和測試可以去除土壤輻射污染的機器。據我所知，沒人見過那個工廠製造出任何機器。它現在已經完全荒廢了，變成潛行者最喜歡的地方。我聽說只要你避開黑暗的角落，那地方可是相當安全的。</text>
+	</string>
+	<string id="agr_stalker_talk_level_4">
+		<text>謝謝你。</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_0">
+		<text>你在做什麼？</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_10">
+		<text>我躲藏在這裡，不想惹任何麻煩。</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_100">
+		<text>你在躲避什麼？</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_120">
+		<text>地下墓穴？</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_130">
+		<text>你知道他們把文件放在研究所的哪個地方？</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_140">
+		<text>你現在要做什麼？</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_141">
+		<text>你現在要做什麼？</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_20">
+		<text>我來自軍事部隊，他們派我進入地下墓穴來看看基地下方發生了什麼。那可真是地獄，我告訴你。我是唯一逃出那裡的人…現在所有人可能都死了。我不想回到基地。那些混蛋總是利用我們來填補這個該死變異區裡所有的破洞。</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_30">
+		<text>地底通道，它們圍繞著研究所區域。我會告訴你入口的位置，我自己並沒有地下墓穴的地圖。</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_40">
+		<text>在總部，它位於研究所的三樓，那是他們收藏那些該死的文件的地方。但那邊有一個任務在進行著，在白天那個區域有隊伍在巡邏，但晚上就沒那麼密集。我免費告訴你這件事：你想進去裡面？你必須從地下墓穴進去。別想從大門，那是完全沒有一點機會的。</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_50">
+		<text>嗯，我不知道。我是軍方的逃兵，我也需要逃出變異區。當我們剛來這裡時，在垃圾中有一部Zaporozhets汽車，它幾乎可以使用。我花了半個小時把它修好，但該死的上尉把它據為己有，宣稱根據規定這部車是屬於他的。他把它開到路上，並且在雨中把它丟棄在大門邊。如果我可以拿到這部車，至少開著車逃亡比較安全一些。</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0">
+		<text>哈囉。</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_01">
+		<text>怎麼了？</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_011">
+		<text>告訴我關於回收處理系統的事情。我要如何進入？出口跟入口在哪裡？</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0111">
+		<text>進入回收處理系統裡是很危險。那邊有六個入口，有兩個在研究所的周圍，軍隊在那附近設置了基地。那個區域有人在巡邏，上尉把巡邏時間表放在他的軍械室中。</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_01111">
+		<text>你是怎麼知道這些事情的？</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_011111">
+		<text>老鼠告訴我的。</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0111111">
+		<text>我知道了，再見！祝你好運。</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_012">
+		<text>沒事。再見。</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_013">
+		<text>你是誰？</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0134">
+		<text>我住在這裡，如果你認為這裡算能住人的話。我在回收處理系統裡繁殖老鼠，用來激怒研究設施的軍人。</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0135">
+		<text>我是捕鼠者。</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_01351">
+		<text>你在這個沼澤做什麼？</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_123">
+		<text>喔…我懂了…好吧，我是來自另一個故事，哈--哈--哈…</text>
+	</string>
+</string_table>

@@ -1,0 +1,150 @@
+	<string id="mil_blockpost_job">
+		<text>自由團通關口的幫助。</text>
+	</string>
+	<string id="mil_courier">
+		<text>告密者。</text>
+	</string>
+	<string id="mil_courier_job">
+		<text>解決告密者。</text>
+	</string>
+	<string id="mil_courier_phase1">
+		<text>前往農莊。</text>
+	</string>
+	<string id="mil_courier_phase2">
+		<text>等待叛徒帶出他的接頭者。</text>
+	</string>
+	<string id="mil_courier_phase3">
+		<text>幹掉叛徒者。</text>
+	</string>
+	<string id="mil_courier_phase4">
+		<text>幹掉接頭者</text>
+	</string>
+	<string id="mil_courier_phase5">
+		<text>回報盧卡許關於任務的訊息。</text>
+	</string>
+	<string id="mil_crazy">
+		<text>瘋狂潛行者。</text>
+	</string>
+	<string id="mil_dolg">
+		<text>紀律團陣營</text>
+	</string>
+	<string id="mil_dolg_assault_freedom">
+		<text>幫助紀律團幹掉盧卡許</text>
+	</string>
+	<string id="mil_kill_lukash">
+		<text>殺死盧卡許</text>
+	</string>
+	<string id="mil_dolg_assault_support">
+		<text>幹掉狙擊手</text>
+	</string>
+	<string id="mil_dolg_return_to_khutor">
+		<text>回到紀律團的農莊，收取我的回報。</text>
+	</string>
+	<string id="mil_dolg_return_to_skull">
+		<text>向骷髏回報</text>
+	</string>
+	<string id="mil_fblockpost_commander">
+		<text>前哨站指揮官凱普</text>
+	</string>
+	<string id="mil_fblockpost_phase2">
+		<text>幫助摧毀黑石組的打擊小隊</text>
+	</string>
+	<string id="mil_fblockpost_phase3">
+		<text>與通關口的指揮官交談</text>
+	</string>
+	<string id="mil_find_cook">
+		<text>尋找自由團基地的廚子</text>
+	</string>
+	<string id="mil_freedom_rg6_task">
+		<text>從自由團處獲取Bulldog 6榴彈發射器。</text>
+	</string>
+	<string id="mil_go_max">
+		<text>向麥斯回報。</text>
+	</string>
+	<string id="mil_go_to_miser_task">
+		<text>去自由團的基地見吝嗇鬼，然後拿取你的酬勞。</text>
+	</string>
+	<string id="mil_go_to_miser_task_main">
+		<text>接收摧毀吸血怪的酬勞</text>
+	</string>
+	<string id="mil_hunters_phase1">
+		<text>在村莊裡尋找莫克</text>
+	</string>
+	<string id="mil_hunters_phase2">
+		<text>殺死吸血怪</text>
+	</string>
+	<string id="mil_hunters_phase3">
+		<text>將神器交給吝嗇鬼</text>
+	</string>
+	<string id="mil_hunters_task">
+		<text>殺死在村莊的吸血怪</text>
+	</string>
+	<string id="mil_kill_controller">
+		<text>殺死吸血怪</text>
+	</string>
+	<string id="mil_kill_controller_main">
+		<text>殺死吸血怪</text>
+	</string>
+	<string id="mil_kill_dolg">
+		<text>摧毀紀律團小隊。</text>
+	</string>
+	<string id="mil_lukash">
+		<text>盧卡許。</text>
+	</string>
+	<string id="mil_max">
+		<text>麥斯。</text>
+	</string>
+	<string id="mil_put_flash_to_max">
+		<text>把隨身碟交給麥斯。</text>
+	</string>
+	<string id="mil_kill_sniper">
+		<text>殺死塔上的狙擊手</text>
+	</string>
+	<string id="mil_quest_report_dolg">
+		<text>回報任務狀況給紀律團小隊</text>
+	</string>
+	<string id="mil_return_lukash">
+		<text>回到盧卡許處。</text>
+	</string>
+	<string id="mil_return_to_ugrumy">
+		<text>向莫克報告任務狀況</text>
+	</string>
+	<string id="mil_return_to_voronin">
+		<text>將Bulldog 6交給沃洛寧將軍</text>
+	</string>
+	<string id="mil_rg6">
+		<text>尋找Bulldog 6</text>
+	</string>
+	<string id="mil_secret">
+		<text>強盜藏匿處</text>
+	</string>
+	<string id="mil_sniper">
+		<text>狙擊手。</text>
+	</string>
+	<string id="mil_mad_job">
+		<text>從瘋狂狙擊手處拿取隨身碟。</text>
+	</string>
+	<string id="mil_talk_cook">
+		<text>與大廚交談</text>
+	</string>
+	<string id="mil_talk_with_cap">
+		<text>與凱普交談，他是自由團前哨站的指揮官。</text>
+	</string>
+	<string id="mil_test_task_phase1">
+		<text>進入限制區1</text>
+	</string>
+	<string id="mil_test_task_phase2">
+		<text>進入限制區2</text>
+	</string>
+	<string id="mil_test_task_phase3">
+		<text>任務完成後，在空中舉起Bulldog 6榴彈發射器，如果失敗就舉起TRs 301。</text>
+	</string>
+	<string id="mil_test_task_title">
+		<text>測試任務</text>
+	</string>
+	<string id="mil_ugrumy">
+		<text>莫克。</text>
+	</string>
+	<string id="mil_lukash_job">
+		<text>摧毀紀律團陣營</text>
+	</string>

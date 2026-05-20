@@ -1,0 +1,72 @@
+	<string id="yan_find_ghost">
+		<text>拿取來自鬼魂的文件</text>
+	</string>
+	<string id="yan_find_ghost_task">
+		<text>拿取文件</text>
+	</string>
+	<string id="yan_find_vasilyev_task">
+		<text>進入實驗室</text>
+	</string>
+	<string id="yan_find_labX16">
+		<text>進入X16實驗室</text>
+	</string>
+	<string id="yan_find_scientist">
+		<text>拿取輻射測量器。</text>
+	</string>
+	<string id="yan_find_vasilyev">
+		<text>搜尋瓦西里的屍體</text>
+	</string>
+	<string id="yan_kill_brain">
+		<text>關掉神經輻射</text>
+	</string>
+	<string id="yan_kill_brain_task">
+		<text>關閉機械裝置</text>
+	</string>
+	<string id="yan_kill_brain_task_2">
+		<text>離開實驗室</text>
+	</string>
+	<string id="yan_provodnik_about_doctor">
+		<text>與嚮導交談</text>
+	</string>
+	<string id="yan_provodnik_task">
+		<text>會見嚮導</text>
+	</string>
+	<string id="yan_psi_zone_find">
+		<text>護衛克魯格洛夫到測量地</text>
+	</string>
+	<string id="yan_psi_zone_find_semenov">
+		<text>護衛謝米諾夫到測量地</text>
+	</string>
+	<string id="yan_return_to_bunker">
+		<text>把結果交給薩哈羅夫</text>
+	</string>
+	<string id="yan_scientist_return">
+		<text>與薩哈羅夫交談</text>
+	</string>
+	<string id="yan_scientist_return_task">
+		<text>與薩哈羅夫交談</text>
+	</string>
+	<string id="yan_secret_tonnel">
+		<text>離開秘密通道</text>
+	</string>
+	<string id="yan_switcher_off_1">
+		<text>關閉第1控制模組</text>
+	</string>
+	<string id="yan_switcher_off_2">
+		<text>關閉第2控制模組</text>
+	</string>
+	<string id="yan_switcher_off_3">
+		<text>關閉第3控制模組</text>
+	</string>
+	<string id="yan_talk_to_kruglov">
+		<text>與克魯格洛夫交談</text>
+	</string>
+	<string id="yan_talk_to_semenov">
+		<text>與謝米諾夫交談</text>
+	</string>
+	<string id="yan_vasilyev_pda">
+		<text>瓦西里的PDA</text>
+	</string>
+	<string id="yan_zombie_zone">
+		<text>推測X16實驗室的位置</text>
+	</string>

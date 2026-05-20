@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="binoc_tutorial">
+		<text>要使用望遠鏡，選擇物品($$ACTION_wpn_5$$)然後按下射擊鍵來放大。</text>
+	</string>
+	<string id="binocular">
+		<text>望遠鏡</text>
+	</string>
+	<string id="crouch">
+		<text>蹲下</text>
+	</string>
+	<string id="crouch_down_tutorial">
+		<text>想要蹲低一點時，按下($$ACTION_crouch$$) + (Shift)</text>
+	</string>
+	<string id="crouch_tutorial">
+		<text>想要蹲下時，按下($$ACTION_crouch$$)。想要蹲的更低時，按下($$ACTION_crouch$$) + ($$ACTION_accel$$)</text>
+	</string>
+	<string id="hide_weapon">
+		<text>選擇武器</text>
+	</string>
+	<string id="hide_weapon_tutorial">
+		<text>如果你把槍指著他們的臉，有些潛行者將不願意交談。要收好你的武器，你需要選擇一個欄位。 ($$ACTION_wpn_6$$)</text>
+	</string>
+	<string id="jump">
+		<text>跳躍</text>
+	</string>
+	<string id="jump_tutorial">
+		<text>跳躍可以幫助你爬到障礙物的上方。要跳躍，按下($$ACTION_jump$$)</text>
+	</string>
+	<string id="move_tutorial">
+		<text>移動形式。</text>
+	</string>
+	<string id="overload">
+		<text>超載</text>
+	</string>
+	<string id="overload_tutorial">
+		<text>你又不是騾子，所以你能攜帶的東西有限。當重量超出你的限制時，你很快的就會失去能量。你可以監看目前你的裝備重量，以及你裝備欄的最大負重數。</text>
+	</string>
+	<string id="radiation">
+		<text>輻射</text>
+	</string>
+	<string id="radiation_tutorial">
+		<text>如果有人攜帶了高輻射的神器，或是進入了高輻射污染區域，他會開始失去健康，而且出現輻射傷害。輻射影響可以用抗輻射藥物或是伏特加來中和。</text>
+	</string>
+	<string id="relation">
+		<text>態度</text>
+	</string>
+	<string id="relation_tutorial">
+		<text>藉由幫助其他人，你可以改變他們對你的態度，如同是你的聲望一般。較好的態度和較高的名聲可以幫助你跟你會面的人的互動。如果你是他們眼中的好人，他們會樂於給你更多的訊息和較低的購物價格。反過來說，如果你與某個人交火，他們對你的態度很快地會變成負面，他們的朋友也是，會跟著開始攻擊你。</text>
+	</string>
+	<string id="sleep_tutorial">
+		<text>這是一個睡覺的好地方。在這裡你可以好好的睡上一晚，等待天亮，或是殺些時間。想要睡覺，打開物品欄，設定你要休息的時間，然後按下"休息"按鍵。你的角色將會在設定的時間醒來，他會有個好夢的。</text>
+	</string>
+	<string id="sprint">
+		<text>加速</text>
+	</string>
+	<string id="sprint_tutorial">
+		<text>有時你必須跑得比平時還快。要這樣做，在跑步時按下($$ACTION_sprint_toggle$$)。一個衝刺的角色跑得更快，跳得也更高，但更容易累，也無法射擊。</text>
+	</string>
+	<string id="starvation_tutorial">
+		<text>如果角色有段時間沒有進食，他就會變得飢餓。除非找些東西來吃，不然他會失去健康。要防止飢餓，角色必須定期進食。一塊麵包，罐頭食物或是一條香腸都可以簡單的解決這個問題，至少可以撐一段時間。</text>
+	</string>
+	<string id="tutorial">
+		<text>訓練</text>
+	</string>
+	<string id="weakness">
+		<text>疲勞</text>
+	</string>
+	<string id="weakness_tutorial">
+		<text>長時間奔跑會引起疲勞。當角色變得精疲力竭時，將會無法跑步，然後變成步行前進。角色背的東西越多，就越容易累。停下來站個幾秒鐘可以獲得足夠的休息。</text>
+	</string>
+	<string id="weapon">
+		<text>武器狀態</text>
+	</string>
+	<string id="weapon_tutorial">
+		<text>所有的武器都有它的耐用參數。武器的耐用度越低，就越容易卡膛。要排除故障，按下$$ACTION_wpn_reload$$來重新裝填武器。武器的耐用度會隨著使用時間而降低。武器如果被子彈擊中，將會失去效用。</text>
+	</string>
+	<string id="wound">
+		<text>開放性傷害</text>
+	</string>
+	<string id="wound_tutorial">
+		<text>當角色被擊中，他可能會開始流血。流血會導致角色不斷的失去健康。出血越嚴重（綠色圖示表示輕微出血，紅色圖示表示嚴重出血），失去健康的速度就會變快。流血會隨著時間停止，但即使是嚴重的出血，也可以使用繃帶立刻止血。</text>
+	</string>
+	<string id="pda_diary_tutorial">
+		<text>在死亡潛行者的PDA中，你發現了他在隧道中對怪物的觀察，這證明他發現了其中的規律性。你可以在你的PDA中的"日記"選項中閱讀這些資訊。</text>
+	</string>
+</string_table>

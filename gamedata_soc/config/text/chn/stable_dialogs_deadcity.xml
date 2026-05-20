@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="cit_doctor_escape_dialog_0">
+		<text>我需要一堆問題的答案。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1">
+		<text>說吧，我會試著幫忙的。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_11">
+		<text>我的東西在哪裡？</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_111">
+		<text>領頭的人通常負責保存所有搶到的東西。他的房間在頂樓，我被搶走的東西被他們放在那個地方。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1111">
+		<text>謝謝！</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_12">
+		<text>我要怎麼離開這裡？</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_121">
+		<text>當他們帶著我的時候，我發現在一樓的樓梯下方有一個排水孔…如果你想打開牢房，那麼利用排水道或許可以逃出這個地方…最好向西走，這樣你就可以利用通道前往自由團了。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1211">
+		<text>謝謝你的訊息。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_14">
+		<text>誰抓住了我們？</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_141">
+		<text>我們被傭兵團抓住了。沒人知道他們是誰，但據說他們為外國的情報機關工作。這個基地的地點是個最高機密--沒有人知道要如何進入死亡城市。許多人都對這個訊息感到興趣，特別是自由團和紀律團。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1411">
+		<text>繼續。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_14111">
+		<text>如果你拿到死亡城市的地圖，突襲就有可能成功了。傭兵團或是強盜可能會有一張地圖，你該試試看。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_141111">
+		<text>謝謝你的訊息。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_15">
+		<text>你知道關於這地方的事情嗎？</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_151">
+		<text>這個成城市成了兩個部分，我們在傭兵團這邊，南方廣場的前方則是強盜的地盤，他們佔據了城市西南方的一所學校。在這些基地之間，有一個傾倒的五樓建築物、和一些完整的建築。那邊同時有一些修理廠，和一些小房子圍繞在四周。那邊有一些五層樓的建築物，在強盜那邊也有一些修理廠。前市政廳建築在廣場的另外一邊。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1511">
+		<text>謝謝你的訊息。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_16">
+		<text>誰負責這裡？</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_161">
+		<text>一個叫做達胥曼的噁心男人。我看過幾次他帶著一個放了一些文件的檔案夾，我想裡面應該有些有趣的東西。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_1611">
+		<text>謝謝你的訊息。</text>
+	</string>
+	<string id="cit_doctor_escape_dialog_17">
+		<text>不，沒甚麼。</text>
+	</string>
+	<string id="cit_doctor_hello_dialog_11">
+		<text>史特列洛克！你到底到哪去了？？？自從上次長征後我就沒見過你了！我很擔心！</text>
+	</string>
+	<string id="cit_doctor_hello_dialog_21">
+		<text>你有沒有好一點？你的思緒清楚嗎？</text>
+	</string>
+	<string id="cit_doctor_main_dialog_0">
+		<text>史特列洛克？？？</text>
+	</string>
+	<string id="cit_doctor_main_dialog_1">
+		<text>耶，你是史特列洛克！不然你還會是誰？我是博士啊，你不認得我了嗎？你發生了甚麼事情，朋友？你看來不太好。我們兩年前一起進入變異區，</text>
+	</string>
+	<string id="cit_doctor_main_dialog_11">
+		<text>不，不是我。</text>
+	</string>
+	<string id="cit_doctor_main_dialog_2">
+		<text>不是你？？？史特列洛克，到底…？你不是在開玩笑吧，是嗎？兄弟…其他人呢，我們的人？方跟鬼魂呢？你還記得他們，對吧？</text>
+	</string>
+	<string id="cit_doctor_main_dialog_21">
+		<text>我不記得方，鬼魂已經死了--我在揚塔發現了他的屍體。</text>
+	</string>
+	<string id="cit_doctor_main_dialog_3">
+		<text>鬼魂？！？！死了？？！！該死，那怎麼發生的？！他們…他們都是最棒的人。你發生了甚麼事情？</text>
+	</string>
+	<string id="cit_doctor_main_dialog_31">
+		<text>我不知道發生了甚麼事情，我不記得了。</text>
+	</string>
+	<string id="cit_doctor_main_dialog_4">
+		<text>等等，我得冷靜一下。那真是糟糕，朋友。我想所有的事都發生自你最後一次進入變異區的旅程。當我們最後一次見面時，你把在皮里皮亞特藏匿處的鑰匙跟位置圖都交給了我。我試著保存它--把它藏在傭兵營裡。這裡，拿去吧，把它收好。希望你可以在那邊找到些東西。你曾經說黑石那邊有些把戲，但我不太清楚那是怎麼回事，你也是。</text>
+	</string>
+	<string id="cit_doctor_main_dialog_41">
+		<text>我知道了，我們在哪裡？我不記得自己是怎麼過來這裡的。</text>
+	</string>
+	<string id="cit_doctor_main_dialog_5">
+		<text>我們在死亡城市！在傭兵營裡。</text>
+	</string>
+	<string id="cit_doctor_main_dialog_6">
+		<text>我們在死亡城市！...在傭兵營裡…</text>
+	</string>
+	<string id="quest_cit_reward_0">
+		<text>對了，我有關於傭兵團的訊息，有興趣嗎？</text>
+	</string>
+	<string id="quest_cit_reward_1">
+		<text>那要看是甚麼訊息了。</text>
+	</string>
+	<string id="quest_cit_reward_11">
+		<text>我有一張地圖詳細的記載著他們的基地、警衛崗哨、一些混進去而不會被注意到的路線，還有些其它的東西。</text>
+	</string>
+	<string id="quest_cit_reward_111">
+		<text>聽起來蠻有價值的，我會付你三千做為酬勞。</text>
+	</string>
+	<string id="quest_cit_reward_1111">
+		<text>成交，拿去吧。</text>
+	</string>
+	<string id="quest_cit_reward_11111">
+		<text>太好了！這裡是你的報酬，沒多久潛行者們就會抱怨傭兵團是否存在了。</text>
+	</string>
+	<string id="quest_cit_reward_1112">
+		<text>不，這不夠。</text>
+	</string>
+	<string id="quest_cit_reward_11121">
+		<text>隨便你，我不會再給更多了。</text>
+	</string>
+	<string id="quest_cit_reward_13">
+		<text>都是些不值錢的東西，不過是些小道消息，抱歉了。</text>
+	</string>
+	<string id="quest_cit_reward_131">
+		<text>如果你能找到些特別的東西拿回來給我，我會給你報酬的。</text>
+	</string>
+</string_table>

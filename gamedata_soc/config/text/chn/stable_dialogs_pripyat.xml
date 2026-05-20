@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="pri_followers_start_dlg_21">
+		<text>讓我們移動到街上去。如果發生了任何事，掩護我。</text>
+	</string>
+	<string id="pri_followers_start_dlg_211">
+		<text>好的。</text>
+	</string>
+	<string id="pri_followers_start_dlg_31">
+		<text>多謝幫助，一號，那真是場艱辛的戰鬥。我們可以在這休息，如過你還要繼續前進，我會跟你說更多關於這區域的訊息。如果你往回走右轉，你會抵達巴士站。那是個開放的區域，目前不太安全。如果你一直向前走到底，會到達飯店的前方。向右邊是黑石組的基地，那些傢伙可是沒有限制的。在基地的後方是競技場，我們正計畫穿越競技場。就這樣了。</text>
+	</string>
+	<string id="pri_followers_start_dlg_311">
+		<text>謝謝你。</text>
+	</string>
+	<string id="pri_followers_start_dlg_41">
+		<text>謝謝你的幫忙，祝好運。</text>
+	</string>
+	<string id="pri_followers_start_dlg_411">
+		<text>再見。</text>
+	</string>
+</string_table>

@@ -1,0 +1,78 @@
+	<string id="agr_find_ghost">
+		<text>查出鬼魂發生了什麼事情</text>
+	</string>
+	<string id="agr_gunslinger_cache">
+		<text>史特列洛克的藏匿物</text>
+	</string>
+	<string id="agr_help_krot">
+		<text>解救莫爾</text>
+	</string>
+	<string id="agr_help_krot_0">
+		<text>打敗士兵解救莫爾</text>
+	</string>
+	<string id="agr_help_krot_1">
+		<text>殺死士兵</text>
+	</string>
+	<string id="agr_help_krot_2">
+		<text>解救莫爾</text>
+	</string>
+	<string id="agr_help_stalkers">
+		<text>幫助潛行者</text>
+	</string>
+	<string id="agr_help_stalkers_0">
+		<text>幫助潛行者打敗士兵</text>
+	</string>
+	<string id="agr_help_stalkers_1">
+		<text>殺死士兵</text>
+	</string>
+	<string id="agr_help_stalkers_2">
+		<text>幫助潛行者打敗士兵</text>
+	</string>
+	<string id="agr_krot">
+		<text>會見潛行者</text>
+	</string>
+	<string id="agr_meet_krot_band">
+		<text>獲取關於史特列洛克的訊息</text>
+	</string>
+	<string id="agr_meet_krot_band_0">
+		<text>從莫爾處獲得訊息</text>
+	</string>
+	<string id="agr_meet_krot_band_1">
+		<text>會見莫爾的組織</text>
+	</string>
+	<string id="agr_meet_krot_band_2">
+		<text>從莫爾處獲得訊息</text>
+	</string>
+	<string id="agroprom_find_gunslinger_cache">
+		<text>尋找史特列洛克小組的藏匿物</text>
+	</string>
+	<string id="agroprom_find_gunslinger_cache_0">
+		<text>尋找史特列洛克小組的藏匿物</text>
+	</string>
+	<string id="agroprom_find_gunslinger_cache_1">
+		<text>尋找藏匿物</text>
+	</string>
+	<string id="agroprom_find_gunslinger_cache_2">
+		<text>在藏匿物中找到史特列洛克的訊息</text>
+	</string>
+	<string id="agroprom_find_gunslinger_cache_3">
+		<text>尋找離開地底的方法</text>
+	</string>
+	<string id="agroprom_find_stalker_phantom">
+		<text>尋找鬼魂</text>
+	</string>
+	<string id="agroprom_find_stalker_phantom_0">
+		<text>鬼魂知道史特列洛克在甚麼地方。</text>
+	</string>
+	<string id="agroprom_get_military_documents">
+		<text>尋找軍事文件</text>
+	</string>
+	<string id="agroprom_get_military_documents_0">
+		<text>農會研究所</text>
+	</string>
+	<string id="agroprom_get_military_documents_1">
+		<text>偷取軍事文件</text>
+	</string>
+	<string id="agroprom_get_military_documents_2">
+		<text>把文件交給酒保</text>
+	</string>

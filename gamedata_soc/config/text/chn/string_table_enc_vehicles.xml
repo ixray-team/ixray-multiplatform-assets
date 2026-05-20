@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="btr-70">
+		<text>BTR-70</text>
+	</string>
+	<string id="enc_vehicles_btr-70">
+		<text>裝甲人員運輸車。</text>
+	</string>
+	<string id="enc_vehicles_kamaz">
+		<text>一般的舊蘇聯卡車。</text>
+	</string>
+	<string id="enc_vehicles_mi-24">
+		<text>一架軍用突擊直昇機。</text>
+	</string>
+	<string id="enc_vehicles_niva">
+		<text>一輛越野車。</text>
+	</string>
+	<string id="enc_vehicles_uaz">
+		<text>蘇聯軍用吉普車</text>
+	</string>
+	<string id="enc_vehicles_zaporozh">
+		<text>蘇聯製的小車子</text>
+	</string>
+	<string id="Kamaz">
+		<text>卡瑪斯卡車</text>
+	</string>
+	<string id="mi-24">
+		<text>Mi-24直昇機</text>
+	</string>
+	<string id="Niva">
+		<text>尼瓦</text>
+	</string>
+	<string id="Uaz">
+		<text>烏里揚諾夫斯克汽車廠</text>
+	</string>
+	<string id="Vehicles">
+		<text>運輸工具</text>
+	</string>
+	<string id="Zaporozh">
+		<text>扎波羅熱人汽車</text>
+	</string>
+</string_table>

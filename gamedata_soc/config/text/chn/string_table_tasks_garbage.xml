@@ -1,0 +1,48 @@
+	<string id="gar_car_graveyard_quest">
+		<text>回應求救聲</text>
+	</string>
+	<string id="gar_defend_garbage">
+		<text>擊退強盜的襲擊。</text>
+	</string>
+	<string id="gar_dialog_hellcar">
+		<text>向中立小隊的隊長提供你的幫助。</text>
+	</string>
+	<string id="gar_dialog_hellcar_1">
+		<text>向貝斯提供你的幫助</text>
+	</string>
+	<string id="gar_hellcar_alive">
+		<text>與貝斯交談</text>
+	</string>
+	<string id="gar_help_dymon">
+		<text>擊退強盜的襲擊。</text>
+	</string>
+	<string id="gar_help_tunnel_newbie">
+		<text>幫助在廢棄區的菜鳥</text>
+	</string>
+	<string id="gar_kill_bandits">
+		<text>摧毀強盜的襲擊</text>
+	</string>
+	<string id="gar_kill_boars">
+		<text>幫助紀律團的檢查點</text>
+	</string>
+	<string id="gar_kill_boars_1">
+		<text>殺死野豬</text>
+	</string>
+	<string id="gar_kill_boars_2">
+		<text>與紀律團指揮官交談</text>
+	</string>
+	<string id="gar_kill_boars_descr">
+		<text>紀律團："哈囉，紀律團從廢棄區中聲明。黑暗山谷有一群異種往酒吧出發了，我們保證會感謝任何幫助殺死這群渣滓的人，以紀律團的名聲起誓。"</text>
+	</string>
+	<string id="gar_kill_boars_main">
+		<text>打通通往酒吧道路的任務。</text>
+	</string>
+	<string id="garbage_meet_stalker_1">
+		<text>從西利處獲知關於史特列洛克的事情。</text>
+	</string>
+	<string id="graveyard_raid_text">
+		<text>貝斯："盜賊混蛋想要控制廢棄區，在半小時之前這邊有一場爭鬥，我們殺掉了三個怪胎，其他都逃走了，但我覺得他們隨時會帶著援軍回來。我們這邊只有幾個人而已，如果你幫助我們摧毀他們的援軍，我會給你酬勞的。"</text>
+	</string>
+	<string id="help_for_neitrals_text">
+		<text>中立勢力和盜賊在廢棄的舊車場發生了一場槍戰，原本中立勢力計畫要擊退盜賊，但他們現在正在尋求幫助。</text>
+	</string>

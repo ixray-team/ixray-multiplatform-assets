@@ -1,0 +1,48 @@
+	<string id="gar_angar">
+		<text>被遺棄的機棚。</text>
+	</string>
+	<string id="gar_bandit_agr">
+		<text>在農會出口的強盜營。</text>
+	</string>
+	<string id="gar_bandit_post">
+		<text>通往農會路上的強盜基地。</text>
+	</string>
+	<string id="gar_bandits_leader">
+		<text>由首領率領的強盜襲擊。</text>
+	</string>
+	<string id="gar_boars_nest">
+		<text>一群野豬。</text>
+	</string>
+	<string id="gar_car_graveyard">
+		<text>廢車場。</text>
+	</string>
+	<string id="gar_dogs_in_forest">
+		<text>狗群出沒的森林</text>
+	</string>
+	<string id="gar_dolg_blokpost">
+		<text>在通往酒吧路上的紀律團檢查哨。</text>
+	</string>
+	<string id="gar_hellcar">
+		<text>一群中立的潛行者在要求幫助。</text>
+	</string>
+	<string id="gar_newbie">
+		<text>一個又怕又累的菜鳥。</text>
+	</string>
+	<string id="gar_secret1">
+		<text>菜鳥的秘密藏匿處</text>
+	</string>
+	<string id="gar_seriy">
+		<text>西利的小隊</text>
+	</string>
+	<string id="gar_swamp">
+		<text>葛林潘沼澤。</text>
+	</string>
+	<string id="gar_trash1">
+		<text>一堆垃圾，裡面都是變異點跟神器</text>
+	</string>
+	<string id="gar_tunnel">
+		<text>火車隧道。</text>
+	</string>
+	<string id="gar_wounded_help">
+		<text>求救信號，可能是一個受傷的潛行者。</text>
+	</string>

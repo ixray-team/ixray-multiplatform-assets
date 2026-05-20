@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="item test1">
+		<text>這是「物品」測試字串</text>
+	</string>
+	<string id="item test2">
+		<text>這是另一個「物品」測試字串</text>
+	</string>
+	<string id="item_case_esc_desc">
+		<text>一個裝著文件的防火公事包。</text>
+	</string>
+	<string id="item_decoder_desc">
+		<text>強力的電子開鎖器。非常的奇怪，它看起來不像那種歹徒用的萬能鎖。應該說，它看起來像是一個特別的電子開鎖器，只能用在特定的東西上。</text>
+	</string>
+	<string id="item_decoder_name">
+		<text>解碼器</text>
+	</string>
+	<string id="item_detector_yantar_desc">
+		<text>神經輻射偵測器</text>
+	</string>
+	<string id="item_detector_yantar_name">
+		<text>PP-4a感應器</text>
+	</string>
+	<string id="item_doc_x16_desc">
+		<text>塑膠製的檔案夾，你需要有生物學的文憑，才能看得懂它上面說些甚麼東西。</text>
+	</string>
+	<string id="item_doc_x16_name">
+		<text>來自X16實驗室的文件</text>
+	</string>
+	<string id="item_doc_x18_desc">
+		<text>一堆科學文件，上面有一堆術語、公式還有圖表。</text>
+	</string>
+	<string id="item_doc_x18p1_name">
+		<text>來自X18實驗室的文件，第一部份</text>
+	</string>
+	<string id="item_doc_x18p2_name">
+		<text>來自X18實驗室的文件，第二部份</text>
+	</string>
+	<string id="item_doc_x18p3_name">
+		<text>來自X18實驗室的文件，第三部份</text>
+	</string>
+	<string id="item_doc_x18p4_name">
+		<text>來自X18實驗室的文件，第四部份</text>
+	</string>
+	<string id="item_doc_x18p5_name">
+		<text>來自X18實驗室的文件，第五部份</text>
+	</string>
+	<string id="item_docs_hiden_pri_desc">
+		<text>史特列洛克寫下的手稿，皮面裝訂，相當破舊。從標題來看，它應該可以解釋某些特異區的秘密。</text>
+	</string>
+	<string id="item_docs_hiden_pri_name">
+		<text>來自皮里皮亞特秘密藏匿物的文件</text>
+	</string>
+	<string id="item_dynamite_esc_desc">
+		<text>一個用數種語言寫著「爆裂物」的大木板條箱</text>
+	</string>
+	<string id="item_dynamite_esc_name">
+		<text>裝著爆裂物的木箱</text>
+	</string>
+	<string id="item_flash_crazy_mil_desc">
+		<text>隨身碟--一個儲存和傳送資訊的好方法</text>
+	</string>
+	<string id="item_flash_crazy_mil_name">
+		<text>瘋狂潛行者的隨身碟</text>
+	</string>
+	<string id="item_flash_eco_rost_desc">
+		<text>隨身碟--一個儲存和傳送資訊的好方法</text>
+	</string>
+	<string id="item_flash_eco_rost_name">
+		<text>克魯格洛夫教授的隨身碟</text>
+	</string>
+	<string id="item_flash_esc_desc">
+		<text>隨身碟--一個儲存和傳送資訊的好方法</text>
+	</string>
+	<string id="item_flash_esc_name">
+		<text>潛行者囚犯的隨身碟</text>
+	</string>
+	<string id="item_flash_gslinger_agro_desc">
+		<text>隨身碟--一個儲存和傳送資訊的好方法</text>
+	</string>
+	<string id="item_flash_gslinger_agro_name">
+		<text>史特列洛克的隨身碟</text>
+	</string>
+	<string id="item_key_x18_desc">
+		<text>通往地底X18實驗室的電子鑰匙</text>
+	</string>
+	<string id="item_key_x18_name">
+		<text>伯羅夫的鑰匙</text>
+	</string>
+	<string id="item_krot_flash">
+		<text>莫爾的隨身碟</text>
+	</string>
+	<string id="item_PDA_lucky_desc">
+		<text>個人數位助理--PDA，是特異區中不可或缺的裝備。</text>
+	</string>
+	<string id="item_PDA_lucky_name">
+		<text>幸運兒的PDA</text>
+	</string>
+	<string id="item_PDA_tiran_desc">
+		<text>個人數位助理--PDA，是特異區中不可或缺的裝備。</text>
+	</string>
+	<string id="item_PDA_tiran_name">
+		<text>泰倫的PDA</text>
+	</string>
+	<string id="item_quest_case_02_desc">
+		<text>一個裝著文件的防火公事包。</text>
+	</string>
+	<string id="item_quest_case_02_name">
+		<text>來自農會研究機構的軍事文件</text>
+	</string>
+	<string id="item_case_esc_name">
+		<text>來自前哨站的文件</text>
+	</string>
+	<string id="yan_bad_psy_helmet_desc">
+		<text>由科學家研發用來保護人們避免神經輻射的原型裝置。尚未經過調整。</text>
+	</string>
+	<string id="yan_bad_psy_helmet_name">
+		<text>尚未調整的神經輻射污染防護頭盔。</text>
+	</string>
+	<string id="yan_good_psy_helmet_desc">
+		<text>由科學家研發用來保護人們避免神經輻射污染的原型裝置，仍有效用。</text>
+	</string>
+	<string id="yan_good_psy_helmet_name">
+		<text>仍有作用的神經輻射污染防護頭盔。</text>
+	</string>
+</string_table>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="val_escort_captive_dialog_11">
+		<text>強盜！這些混蛋帶我到舊工廠。我不知道他們計畫要在那邊對我作甚麼。我以前看過他們抓另一個人到那邊，之後我就再也沒見過那個人了。他們抓了一個我們的人，叫做塞里佳。他們把他關在地下室…在那邊一座未完工的建築物。幫幫他，好嗎？不然他們會…你知道的…</text>
+	</string>
+	<string id="val_escort_captive_dialog_2">
+		<text>你知道他們已經到工廠了嗎？</text>
+	</string>
+	<string id="val_escort_captive_dialog_21">
+		<text>我聽到的不多。我所知道的是他們的首領伯羅夫有部分通往地底的鑰匙，那邊可能是個實驗室或甚麼東西…我聽說伯羅夫急著想進去，但他需要另一部份的鑰匙。嗯…如果你想要進去裡面，最好考慮一下，那裡面可是到處都是打手。</text>
+	</string>
+	<string id="val_escort_captive_dialog_211">
+		<text>瞭解。謝了，我會記在心裡的。</text>
+	</string>
+	<string id="val_escort_captive_dialog_3">
+		<text>我會試著救出你的人。</text>
+	</string>
+	<string id="val_escort_captive_dialog_41">
+		<text>關於我夥伴的事情可真丟臉…，他是個好傢伙，不過，我虧欠你。</text>
+	</string>
+	<string id="val_escort_captive_dialog_411">
+		<text>事情就這樣發生了。</text>
+	</string>
+	<string id="val_escort_captive_dialog_51">
+		<text>謝謝你的幫助！</text>
+	</string>
+	<string id="val_escort_captive_dialog_511">
+		<text>再見。</text>
+	</string>
+	<string id="val_escort_captive_dialog_61">
+		<text>你別這樣。到底怎麼了？</text>
+	</string>
+	<string id="val_escort_nap1_dialog_21">
+		<text>謝謝！你把我的夥伴救出那裡！來，收下這個--這是打從我心底的感謝。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_2111">
+		<text>成交。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_212">
+		<text>我猜你應該對這個區域很熟悉。有甚麼有趣的東西呢？</text>
+	</string>
+	<string id="val_escort_nap1_dialog_2121">
+		<text>在北方有個強盜營地。在東方--一座舊工廠。在西南方--有座廢棄的養豬場，有些大門檔在前面…我看不到裡面有甚麼東西，從沒有去過那麼遠。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_21211">
+		<text>你可以告訴我更多關於強盜營地的事情嗎？</text>
+	</string>
+	<string id="val_escort_nap1_dialog_212111">
+		<text>嗯，是這樣的…他們駐紮在位於這邊正北方一座未完工的建築物裡。他們的首領是伯羅夫--一個徹底的禽獸，一個混蛋。所以他們把我們派來這邊，來把他結束掉。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_21212">
+		<text>工廠發生了甚麼事？</text>
+	</string>
+	<string id="val_escort_nap1_dialog_212121">
+		<text>我們計畫找出那邊一些有價值的東西，不過那邊的守衛可是嚴的像座碉堡一樣。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_2121211">
+		<text>甚麼樣有價值的東西？有甚麼在裡面？</text>
+	</string>
+	<string id="val_escort_nap1_dialog_21212111">
+		<text>我知道的不多，但我們得想辦法進去。我唯一知道的就是伯羅夫擁有其中一半的通道鑰匙。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_21213">
+		<text>一個真的養豬場？裡面有真的豬？</text>
+	</string>
+	<string id="val_escort_nap1_dialog_212131">
+		<text>已經想吃些豬下巴了嗎？嘿，變異區裡到處都是野豬！如果你吃上一口，你就不再需要任何手電筒了--到時你可是會在黑暗中發光的！好的，好的，開玩笑啦…這個養豬場已經被遺棄很長的時間了，現在變成了一些潛行者的家。雖然說我習慣信任我自己的膽量，但他們對我的印象真的不太好。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_21214">
+		<text>你說的大門是哪一座？</text>
+	</string>
+	<string id="val_escort_nap1_dialog_212141">
+		<text>我想不出來。就是座老門了，除了它是鎖上的，而且被良好的守衛著。我們還沒有到過那裡。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_21215">
+		<text>我知道了，謝謝。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_212151">
+		<text>不客氣！歡迎你隨時過來。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_213">
+		<text>就你們兩個人想要去做巡邏襲擊？</text>
+	</string>
+	<string id="val_escort_nap1_dialog_2131">
+		<text>有另一個人，塞里佳。我不知道，他離開了，我已經很久沒聽到他的消息了…匪幫一定對付他了。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_214">
+		<text>小心點。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_31">
+		<text>那麼，朋友…我現在到底發生了甚麼事情？…謝啦，至少你試著幫助我，我會信守我的承諾的。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_41">
+		<text>謝謝你的幫助！你還想知道些甚麼？</text>
+	</string>
+	<string id="val_escort_nap1_dialog_61">
+		<text>你拒絕幫助我，我們之間沒甚麼好談了。滾開。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_611">
+		<text>再見。</text>
+	</string>
+	<string id="val_prisoner_hello_11">
+		<text>嘿，夥伴！幫幫我！我是紀律團的斥候，幫我離開這裡！</text>
+	</string>
+	<string id="val_prisoner_hello_111">
+		<text>我會試試看。</text>
+	</string>
+	<string id="val_prisoner_hello_112">
+		<text>我不能幫你甚麼。</text>
+	</string>
+	<string id="val_prisoner_hello_21">
+		<text>謝了，兄弟！我欠你一條命。看看我能找到甚麼東西--或許會對你有用，誰知道…伯羅夫--那個被稱為射手的人--收集了不少好東西，他有舊工廠地下階層的部分鑰匙。我聽警衛聊天說，那裡有某種實驗室，問題是接近伯羅夫可不是件簡單的事情。</text>
+	</string>
+	<string id="val_prisoner_hello_211">
+		<text>謝謝你的訊息。</text>
+	</string>
+	<string id="val_prisoner_hello_2111">
+		<text>現在是</text>
+	</string>
+	<string id="val_prisoner_hello_21111">
+		<text>祝好運。</text>
+	</string>
+	<string id="val_prisoner_hello_31">
+		<text>在那些混蛋要檢查這裡之前，我們得離開這裡！需要些甚麼東西嗎？動作快一點！</text>
+	</string>
+	<string id="val_prisoner_hello_311">
+		<text>沒，沒事。</text>
+	</string>
+	<string id="val_prisoner_hello_41">
+		<text>嘿！在那邊的牆上有座開關--它會開啟地窖的門。</text>
+	</string>
+	<string id="val_prisoner_hello_411">
+		<text>好的，我會看看。</text>
+	</string>
+	<string id="val_rob_dialog_11">
+		<text>嘿，想要一把驚人的槍嗎？我在揚塔附近發現了一個小東西…一個小寶藏，我猜吧。就是高斯來福槍跟一些東西。我告訴你，這傢伙棒透了--即使在一百公尺外的人都會變成死人…算你八百就好。</text>
+	</string>
+	<string id="val_rob_dialog_111">
+		<text>錢在這裡。</text>
+	</string>
+	<string id="val_rob_dialog_112">
+		<text>謝了，不客氣。</text>
+	</string>
+	<string id="val_rob_dialog_113">
+		<text>哪，收下吧，錢可不好賺啊。</text>
+	</string>
+	<string id="val_rob_dialog_21">
+		<text>拿到錢了沒？快一點，我失去了一大群顧客…，他們很快就回來了。</text>
+	</string>
+	<string id="val_rob_dialog_3">
+		<text>太好了，在這裡等著，我去拿它。</text>
+	</string>
+	<string id="val_rob_dialog_31">
+		<text>等待中。</text>
+	</string>
+	<string id="val_sos_dialog_11">
+		<text>嘿，把醫藥箱給我！</text>
+	</string>
+	<string id="val_sos_dialog_111">
+		<text>在這裡。</text>
+	</string>
+	<string id="val_sos_dialog_112">
+		<text>抱歉，我沒有醫藥箱。</text>
+	</string>
+	<string id="val_sos_dialog_21">
+		<text>謝謝，你把我帶回現實之中。如果我活得夠久可以再見到你，我會試著補償你的。現在我要給你一些消息：在這裡的南端，有一座農場，有些閒晃的潛行者在那裡紮營。其中有一個人賣的高斯來福槍非常的便宜，只要八百塊錢。我正打算去買，然後去搞一點事情…那麼，如果你有錢的話，就直接去買吧。</text>
+	</string>
+	<string id="val_sos_dialog_211">
+		<text>謝謝你的訊息。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_4111">
+		<text>我欠你，我會報恩的。出發吧。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_41111">
+		<text>在中央有一個機棚，那裡通常很平靜。情況最糟的話，你可以在那裡過夜。如果你往西邊農業部那個方向前進走，會遇到的一個強盜營地，那也是不久前我們殺掉那些怪物來的地方。不過我有預感會有更多怪物在那邊。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_4112">
+		<text>抱歉，我有別的計畫。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_41121">
+		<text>好吧，那祝好運。</text>
+	</string>
+	<string id="val_escort_nap1_dialog_412">
+		<text>再見。</text>
+	</string>
+</string_table>

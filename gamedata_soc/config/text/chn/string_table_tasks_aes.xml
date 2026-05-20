@@ -1,0 +1,39 @@
+	<string id="aes_military_task_1">
+		<text>佔領大門</text>
+	</string>
+	<string id="aes_military_task_10">
+		<text>雄鷹組</text>
+	</string>
+	<string id="aes_military_task_11">
+		<text>鳩組</text>
+	</string>
+	<string id="aes_military_task_12">
+		<text>貓頭鷹組</text>
+	</string>
+	<string id="aes_military_task_13">
+		<text>夜鷹組</text>
+	</string>
+	<string id="aes_military_task_2">
+		<text>停住</text>
+	</string>
+	<string id="aes_military_task_3">
+		<text>突破前往石棺</text>
+	</string>
+	<string id="aes_military_task_4">
+		<text>摧毀黑石組1的防禦工事</text>
+	</string>
+	<string id="aes_military_task_5">
+		<text>摧毀黑石組2的防禦工事</text>
+	</string>
+	<string id="aes_military_task_6">
+		<text>遊隼組</text>
+	</string>
+	<string id="aes_military_task_7">
+		<text>鳶組</text>
+	</string>
+	<string id="aes_military_task_8">
+		<text>天鷹組</text>
+	</string>
+	<string id="aes_military_task_9">
+		<text>紅鷹組</text>
+	</string>
