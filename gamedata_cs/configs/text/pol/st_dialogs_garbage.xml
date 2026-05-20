@@ -1005,4 +1005,16 @@
 	<string id="gar_bandit_bookmaker_hello_61">
 		<text>NieŸle strzelasz, stary. Pomyœl o graniu za pieni¹dze. Postrzelamy jeszcze?</text>
 	</string>
+	<string id="gar_bandit_robbery_12">
+		<text>Wyci¹gaj PDA, czas podzieliæ siê gotówk¹. Nie myœl, ¿e to za nic - p³acisz nam za utrzymywanie porz¹dku na Wysypisku, kapewu?</text>
+	</string>
+	<string id="gar_bandit_robbery_121">
+		<text>Skoro chodzi o porz¹dek, to proszê.</text>
+	</string>
+	<string id="gar_bandit_robbery_1211">
+		<text>M¹dry jesteœ jak na dupka! Wezmê wszystko, dobrze? Zatrzymaj ekwipunek; nie jesteœmy zwierzêtami, nie zabierzemy ci broni i fantów. Podziêkujesz nam, gdy wpadniesz na jakieœ mutanty... Doœæ gadania - zabieraj siê st¹d.</text>
+	</string>
+	<string id="gar_bandit_robbery_12111">
+		<text>Uwa¿aj na siebie.</text>
+	</string>
 </string_table>

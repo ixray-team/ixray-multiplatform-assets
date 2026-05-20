@@ -231,4 +231,28 @@
 	<string id="st_esc_find_flesh_up_bd_wincheaster1300_text">
 		<text>El técnico stalker puede montar un dispositivo que aumenta la precisión de una escopeta, pero le falta información.</text>
 	</string>
+	<string id="esc_recover_item_1_name">
+		<text>Entrega el vodka "mágico"</text>
+	</string>
+	<string id="esc_recover_item_1_text">
+		<text>Aquí en la Zona teníamos un químico. La verdad es que no era químico, pero hacía un vodka "mágico". Realmente tenía algo... Un par de tragos y te olvidabas de todo: Zona, mutantes y anomalías, ¡de todo! No tenías miedo y te importaba un carajo quién eras o qué te ocurría. Aunque nos metían una clavada por él, seguía valiendo la pena. Pero un día alguien decidió envenenar al químico, no se sabe muy bien si por envidia o por avaricia. Lo liquidaron, y con eso se acabó el suministro de vodka... Aunque he oído que el químico tenía algunos alijos por la zona, y sé dónde hay uno. Tráeme una botella de ese licor mágico y te la pagaré generosamente.</text>
+	</string>
+	<string id="esc_recover_item_2_name">
+		<text>Recupera el AKM-47/2 de premio</text>
+	</string>
+	<string id="esc_recover_item_2_text">
+		<text>Mira colega, colecciono armas raras. Tengo tantas que llenaría un museo, pero me sigue faltando una: un AKM-47/2 de premio. Ese AK no es solo una buena arma, es una pieza realmente rara, como nunca has visto, que se utilizaba para matar mutantes. Dicen que su dueño no solamente era un buen tirador, sino toda una leyenda en la Zona que podía librarse de todo y escapar de cualquier anomalía... Hace tiempo que no sé nada de ese stalker, pero sí que he oído hablar del arma: está escondida en un lugar secreto, difícil de alcanzar para mí. Tráeme esa arma, mercenario.</text>
+	</string>
+	<string id="esc_recover_item_3_name">
+		<text>Recupera el detector "de la suerte"</text>
+	</string>
+	<string id="esc_recover_item_3_text">
+		<text>Ayúdame, mercenario. Hace poco me compré un detector nuevo y más potente y tiré el viejo a una anomalía para celebrarlo. Pero resulta que este nuevo detector no me trae mucha suerte: llevo tres semanas sin conseguir un artefacto. Supongo que el detector está bien, pero quiero recuperar el viejo. Tráemelo y no te arrepentirás.</text>
+	</string>
+	<string id="esc_recover_item_4_name">
+		<text>Entrega un botiquín especial</text>
+	</string>
+	<string id="esc_recover_item_4_text">
+		<text>Mercenario, hace poco, un viejo amigo mío escapó a los bandidos del vertedero. Esos hijos de puta le hicieron correr entre las anomalías del terraplén solamente para divertirse. Los niveles de radiación ahí son casi letales. Ahora apenas puede moverse, y las medicinas normales antirradiación no le sirven. Necesita algo más fuerte. Dicen que los chicos del ejército tienen botiquines especiales que podrían ayudarlo. Así que, si me consigues uno, te estaré muy agradecido.</text>
+	</string>
 </string_table>

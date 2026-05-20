@@ -640,7 +640,7 @@
 		<text>DX10.1 benutzen</text>
 	</string>
 	<string id="ui_mm_r3_gbuffer_opt">
-		<text>Buffer-Geometrie optimieren</text>
+		<text>G-Buffer optimieren</text>
 	</string>
 	<string id="ui_mm_r3_MSAA">
 		<text>Vollbild-Antialiasing</text>
@@ -653,5 +653,35 @@
 	</string>
 	<string id="mm_mp_actret_time">
 		<text>Zurückbringen durch Aktiv.</text>
+	</string>
+	<string id="ui_mm_msaa_opt">
+		<text>Antialiasing optimieren</text>
+	</string>
+	<string id="ui_mm_msaa_alphatest">
+		<text>Antialiasing für alpha-getestete Objekte</text>
+	</string>
+	<string id="st_opt_off">
+		<text>Deaktiviert</text>
+	</string>
+	<string id="st_opt_low">
+		<text>Niedrig</text>
+	</string>
+	<string id="st_opt_medium">
+		<text>Mittel</text>
+	</string>
+	<string id="st_opt_high">
+		<text>Hoch</text>
+	</string>
+	<string id="ui_st_invalid_saved_game">
+		<text>Die Spielversion des Spielstands stimmt nicht mit der aktuellen Spielversion überein.</text>
+	</string>
+	<string id="st_opt_atest_msaa_dx10_0">
+		<text>DX10.0-Modus [Standard]</text>
+	</string>
+	<string id="st_opt_atest_msaa_dx10_1">
+		<text>DX10.1-Modus [Höhere Qualität]</text>
+	</string>
+	<string id="st_opt_ultra">
+		<text>Ultra</text>
 	</string>
 </string_table>

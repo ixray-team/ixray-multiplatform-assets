@@ -174,4 +174,28 @@
 	<string id="agr_attack_monster_group_text">
 		<text>De vez en cuando pequeñas manadas de mutantes atacan a los stalkers de la fábrica. Para acabar con estos ataques, puedes eliminar a estos monstruos en su guarida al norte de la fábrica.</text>
 	</string>
+	<string id="agr_recover_item_1_name">
+		<text>Recupera la escopeta del miembro de Deber</text>
+	</string>
+	<string id="agr_recover_item_1_text">
+		<text>El otro día teníamos la misión de limpiar un área de mutantes, y dimos con uno realmente grande. El combate duró al menos una hora, y no parecía que el bicho fuera a morir, aunque casi ya no teníamos munición. Di la orden de retirada y me quedé rezagado mientras los chicos se replegaban. Disparé toda la munición y luego le tiré la escopeta al muy hijo de puta. ¿Y sabes qué pasó? Que ese pedazo de mierda empezó a comerse el arma y a pasar de mí. Tráeme la escopeta, ¡al fin y al cabo me salvó la vida!</text>
+	</string>
+	<string id="agr_recover_item_2_name">
+		<text>Recupera la PDA con información secreta</text>
+	</string>
+	<string id="agr_recover_item_2_text">
+		<text>Mercenario, los bandidos me han asaltado en el vertedero. Se lo han llevado todo: dinero, armas, munición y pertrechos médicos. Y lo peor de todo es que me han cogido la PDA, que contenía información sobre los emplazamientos de los bandidos en el vertedero. Si no le llevo esa información a Krylov, me enterrará vivo. ¡Ayúdame a recuperarla!</text>
+	</string>
+	<string id="agr_recover_item_3_name">
+		<text>Recupera el maletín del miembro de Deber</text>
+	</string>
+	<string id="agr_recover_item_3_text">
+		<text>Mercenario, cuando los mutantes empezaron a aparecer en el subterráneo tuvimos que abandonar las posiciones y retroceder. Me vi obligado a dejar allí mi maletín con las armas, la munición, las medicinas y el detector. No tuve tiempo de pensar en él, tenía que salvarme. Ayúdame a recuperarlo.</text>
+	</string>
+	<string id="agr_recover_item_4_name">
+		<text>Recupera el fusil de asalto del miembro de Deber</text>
+	</string>
+	<string id="agr_recover_item_4_text">
+		<text>Tuve una discusión con un guía por una tontería y ya no me llevará a ver a los stalkers. Dice que ni tan siquiera quiere volver a verme, y no me apetece rondar por la Zona por mi cuenta. Me dejé mi arma con los stalkers cuando fui a visitarlos la semana pasada. Habían ascendido a uno de nuestros colegas y lo celebramos con un montón de priba. Pillé una buena: los chicos consiguieron llevarme hasta el barracón, pero se olvidaron de mi fusil. ¿Podrías traérmelo? Un soldado no es nada sin un arma.</text>
+	</string>
 </string_table>

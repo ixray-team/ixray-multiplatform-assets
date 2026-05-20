@@ -186,4 +186,40 @@
 	<string id="st_gar_find_flesh_up_fh_scientific_outfit_text">
 		<text>Limpido, il tecnico dei banditi, può creare qualsiasi tipo di modifica, ma per installare un modulo di respirazione a circolo chiuso su una tuta ha bisogno di informazioni dettagliate.</text>
 	</string>
+	<string id="gar_quest_redemption_name">
+		<text>Recupera le tue cose</text>
+	</string>
+	<string id="gar_quest_redemption_text">
+		<text>Recupera gli oggetti rubati dai banditi nei pressi del mercato delle pulci.</text>
+	</string>
+	<string id="gar_recover_item_1_name">
+		<text>Recupera il Chaser 13</text>
+	</string>
+	<string id="gar_recover_item_1_text">
+		<text>Ecco come è andata. Uno di nostri ha beccato uno scavatore e l'ha portato a fare due passi tra alcune anomalie. Ci hanno entrambi rimesso la pelle, ma non è questo il problema. Quell'idiota aveva portato con sé un Chaser, quindi immagino sia ancora lì. Se riuscissi a recuperarlo, te ne sarei molto grato.</text>
+	</string>
+	<string id="gar_recover_item_2_name">
+		<text>Trova l'arma modificata</text>
+	</string>
+	<string id="gar_recover_item_2_text">
+		<text>Ehi, amico, avrei un favore da chiederti. Eravamo da Limpido mentre lui stava preparando un'arma davvero fantastica, con le modifiche e tutto il resto. Beh, quel tipo non va molto d'accordo con il nostro capo, quindi Yoga ci ha detto di farlo sparire. L'abbiamo portato a fare un giro tra le anomalie, ma credo che quell'arma sia ancora lì. Portamela e ti assicuro che Tooth saprà ricompensarti bene.</text>
+	</string>
+	<string id="gar_recover_item_3_name">
+		<text>Consegna una bottiglia di vodka "Cossacks"</text>
+	</string>
+	<string id="gar_recover_item_3_text">
+		<text>Ehi, amico, potresti portarmi qualcosa da bere? Ma non quella robaccia che bevono tutti, mi raccomando. Ho nascosto qualche bottiglia di roba buona in un posto sicuro, ma ora non posso andarci personalmente. Portami una bottiglia senza farti vedere da nessuno. Ci stai?</text>
+	</string>
+	<string id="gar_recover_item_4_name">
+		<text>Recupera la giacca del novellino</text>
+	</string>
+	<string id="gar_recover_item_4_text">
+		<text>L'altro giorno è arrivato un tizio dal Cordon. Sai, uno di quei fastidiosi novellini. Ha raccontato a tutti della sua giacca "magica" che, almeno secondo lui, poteva resistere a qualsiasi anomalia. Dei banditi che l'avevano catturato hanno dovuto gettarlo in un'anomalia gravitazionale per farlo tacere, e in effetti quel bastardo aveva ragione! La giacca è uscita intatta dall'anomalia. Mi tornerebbe sicuramente utile, se tu riuscissi a portarmela.</text>
+	</string>
+	<string id="gar_recover_item_5_name">
+		<text>Recupera la pistola con la scritta</text>
+	</string>
+	<string id="gar_recover_item_5_text">
+		<text>Sì, tu potresti darmi una mano. Avevo una pistola che non era niente di speciale, ma era un regalo di mio padre. L'ho persa in una specie di "incidente"... Una notte ci siamo ubriacati e abbiamo deciso di spaventare i banditi. Dopo esserci avvicinati al loro campo, abbiamo iniziato a imitare i versi dei mutanti. Il bello è che in quel campo non c'erano banditi, ma due succhiasangue a cui siamo sfuggiti per miracolo. E durante la fuga mi è caduta la pistola!</text>
+	</string>
 </string_table>

@@ -117,4 +117,10 @@
 	<string id="mp_autostation">
 		<text>Verlassenes Depot</text>
 	</string>
+	<string id="ui_map_desc_mp_training_camp_short">
+		<text>Ein sehr seltsamer Ort. Gravitationsanomalien haben die Erde aufgerissen und eine Mondlandschaft hinterlassen...</text>
+	</string>
+	<string id="ui_map_desc_mp_training_camp_large">
+		<text>Ein sehr seltsamer Ort. Viele lachen über Stalker, die behaupten, dass sie den Ort schon einmal gesehen haben, aber er existiert wirklich. Gravitationsanomalien haben dort die Erde aufgerissen und eine Mondlandschaft hinterlassen. Das Gebiet wird von drei großen Türmen bestimmt, Überbleibseln der Militärpräsenz, die auf großen Erdhaufen thronen.</text>
+	</string>
 </string_table>

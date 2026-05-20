@@ -216,4 +216,130 @@
 	<string id="st_pda_name">
 		<text>PDA</text>
 	</string>
+	<string id="st_agr_quest_duty_abakan">
+		<text>Sturmgewehr eines Wächters</text>
+	</string>
+	<string id="st_agr_quest_duty_abakan_descr">
+		<text>Die Inventurnummer des Gewehrs ist sorgfältig in weißer Farbe darauf geschrieben worden. So viel Sorgfalt kann nur bedeuten, dass die Waffe einem Wächter gehört.</text>
+	</string>
+	<string id="st_agr_quest_duty_case">
+		<text>Koffer eines Wächters</text>
+	</string>
+	<string id="st_agr_quest_duty_case_descr">
+		<text>Dieser Koffer ist mit einem Zahlenschloss gesichert. Die Geräusche, die er macht, deuten darauf hin, dass er mehrere Gegenstände enthält. Auf der Oberseite des Koffers wurde deutlich sichtbar der Wächterrufname des Besitzers notiert.</text>
+	</string>
+	<string id="st_agr_quest_duty_secret_pda">
+		<text>PDA mit geheimen Informationen</text>
+	</string>
+	<string id="st_agr_quest_duty_secret_pda_descr">
+		<text>Dieser PDA weist einige Einträge auf, aus denen hervorgeht, dass er einem Wächter gehört. Der restliche Inhalt ist sicher verschlüsselt.</text>
+	</string>
+	<string id="st_agr_quest_wpn_spas12">
+		<text>Ripper-Schrotflinte</text>
+	</string>
+	<string id="st_agr_quest_wpn_spas12_descr">
+		<text>Es hat den Anschein, dass diese Waffe einen brutalen Angriff hinter sich hat. Eine Fabriknotiz am hinteren Ende zeigt an, dass diese Schrotflinte aus einer limitierten Reihe stammt. Sie zeichnet sich durch eine bessere Beschichtung und den beeindruckenden Namen "Ripper" aus.</text>
+	</string>
+	<string id="st_esc_quest_akm47">
+		<text>AKM-47/2-Unikat</text>
+	</string>
+	<string id="st_esc_quest_akm47_descr">
+		<text>Ein altes, ziemlich abgenutztes Sturmgewehr mit Kratzern am Knauf.</text>
+	</string>
+	<string id="st_esc_quest_luky_detector">
+		<text>Glücksdetektor</text>
+	</string>
+	<string id="st_esc_quest_luky_detector_descr">
+		<text>Ein alter Detektor mit Kaugummi und Aufklebern darauf. Er sieht recht gewöhnlich aus und es ist schwer zu glauben, dass irgendjemand dieses Gerät für etwas Besonderes halten kann.</text>
+	</string>
+	<string id="st_esc_quest_magic_vodka">
+		<text>"Zauberwodka"</text>
+	</string>
+	<string id="st_esc_quest_magic_vodka_descr">
+		<text>Eine dunkle Flüssigkeit mit beißendem Alkoholgeruch. Der Alkoholgehalt dürfte 80 bis 90 Vol.-% betragen, daher sollte man sich davor hüten.</text>
+	</string>
+	<string id="st_esc_quest_spec_medkit">
+		<text>NPR-21p Spezial-Medkit</text>
+	</string>
+	<string id="st_esc_quest_spec_medkit_descr">
+		<text>Auf dem Medkit steht: "NPR-21p Antistrahlungskit (Testversion)". Auf dem Beipackzettel kann man eine lange Liste von eher unerfreulichen Nebenwirkungen finden.</text>
+	</string>
+	<string id="st_gar_quest_novice_outfit">
+		<text>Eine widerstandsfähige Lederjacke</text>
+	</string>
+	<string id="st_gar_quest_novice_outfit_descr">
+		<text>Der ehemalige Besitzer dieser Jacke scheint von einer Anomalie in Stücke gerissen worden zu sein, aber erstaunlicherweise hat die Jacke selbst nicht einmal einen Kratzer davon abbekommen.</text>
+	</string>
+	<string id="st_gar_quest_vodka_2">
+		<text>Cossacks 2-Wodka</text>
+	</string>
+	<string id="st_gar_quest_vodka_2_descr">
+		<text>Nach dem eher dürftig angebrachten Aufkleber und dem merkwürdigen Bodensatz in der Flasche zu urteilen, handelt es sich hierbei um selbst gebrannten Wodka.</text>
+	</string>
+	<string id="st_gar_quest_wpn_desert_eagle">
+		<text>Modifizierte Waffe</text>
+	</string>
+	<string id="st_gar_quest_wpn_desert_eagle_descr">
+		<text>Eine wahre Prachtknarre. Ein begabter Techniker scheint die ursprünglichen Eigenschaften der Waffe erheblich verbessert zu haben.</text>
+	</string>
+	<string id="st_gar_quest_wpn_pm">
+		<text>Pistole mit Gravur</text>
+	</string>
+	<string id="st_gar_quest_wpn_pm_descr">
+		<text>Im Griff dieser Pistole kann man eine Gravur erkennen. Sie ist nicht mehr komplett lesbar: "Für Dien... ü..r die Pf..c..en d.r .ä...er hi..us"</text>
+	</string>
+	<string id="st_gar_quest_wpn_wincheaster1300">
+		<text>Chaser 13 eines Banditen</text>
+	</string>
+	<string id="st_gar_quest_wpn_wincheaster1300_descr">
+		<text>Einige Kritzeleien auf dem Lauf der Schrotflinte sollen wohl Stalker darstellen, die mit der Waffe getötet wurden.</text>
+	</string>
+	<string id="st_red_forest_pda_map_2">
+		<text>Ein PDA mit einer Karte des Roten Waldes</text>
+	</string>
+	<string id="st_red_forest_pda_map_2_descr">
+		<text>Dieser PDA enthält eine Karte des Roten Waldes mit Markierungen, die die Gebiete mit hoher Strahlung anzeigen. Der letzte Eintrag wurde um 23:15 Uhr gemacht und lautet: "Wir hätten auf der Brücke übernachten sollen, denn in diesem Wald werden wir die Nacht nicht überleben."</text>
+	</string>
+	<string id="st_red_quest_prototipe_device">
+		<text>Experimentelles Gerät</text>
+	</string>
+	<string id="st_red_quest_prototipe_device_descr">
+		<text>Ein Gerät mit einer Reihe von Schaltern und Anzeigen. Es gibt keine Anleitung, wie das Ding zu bedienen ist.</text>
+	</string>
+	<string id="st_red_quest_tank_minigun">
+		<text>Panzermaschinengewehr</text>
+	</string>
+	<string id="st_red_quest_tank_minigun_descr">
+		<text>Dieses Maschinengewehr ist für die Montage auf einem Panzerturm gedacht, kann aber auch als mobiles MG benutzt werden.</text>
+	</string>
+	<string id="st_val_quest_flash_movies">
+		<text>USB-Laufwerk mit Filmen</text>
+	</string>
+	<string id="st_val_quest_flash_movies_descr">
+		<text>Das USB-Laufwerk enthält die neuesten Filme, allerdings können diese wegen ihrer Auflösung nicht auf einem PDA angeschaut werden.</text>
+	</string>
+	<string id="st_val_quest_guitar_serg">
+		<text>Seregas Gitarre</text>
+	</string>
+	<string id="st_val_quest_guitar_serg_descr">
+		<text>Ein Hinweis, der mit einem Kugelschreiber auf den Griff der Gitarre geschrieben wurde, besagt, dass es sich dabei um ein Geschenk an einen gewissen Serega von seiner Freundin handelt.</text>
+	</string>
+	<string id="st_val_quest_scope_x8">
+		<text>8fach-Zielfernrohr</text>
+	</string>
+	<string id="st_val_quest_scope_x8_descr">
+		<text>Ein hervorragendes Zielfernrohr mit einer speziellen Schiene, die wahrscheinlich nur auf ein Jagdgewehr passt.</text>
+	</string>
+	<string id="st_yan_quest_granade">
+		<text>Granatenattrappe</text>
+	</string>
+	<string id="st_yan_quest_granade_descr">
+		<text>Eine Trainingsgranate. Am Stift ist eine Kette befestigt und daran ein Schlüsselanhänger in Form eines weißen Hasen.</text>
+	</string>
+	<string id="st_yan_quest_scarlet_flower">
+		<text>Scharlachrote Blume</text>
+	</string>
+	<string id="st_yan_quest_scarlet_flower_descr">
+		<text>Ein geheimnisvolles Artefakt unbekannter Herkunft. Verursacht keine Emissionen; sein einziger Effekt besteht darin, Frauen zu beeindrucken.</text>
+	</string>
 </string_table>

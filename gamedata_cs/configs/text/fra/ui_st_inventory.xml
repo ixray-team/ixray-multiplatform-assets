@@ -321,4 +321,7 @@
 	<string id="not_enough_money_actor">
 		<text>Vous n'avez pas assez d'argent</text>
 	</string>
+	<string id="ui_inv_outfit_additional_weight">
+		<text>Poids max.</text>
+	</string>
 </string_table>

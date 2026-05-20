@@ -186,4 +186,40 @@
 	<string id="st_gar_find_flesh_up_fh_scientific_outfit_text">
 		<text>Limpid, the bandit technician, can make any kind of modification, but to install a closed-cycle breathing module on a suit he needs additional information.</text>
 	</string>
+	<string id="gar_quest_redemption_name">
+		<text>Get your items back</text>
+	</string>
+	<string id="gar_quest_redemption_text">
+		<text>Get back the items taken by the bandits near the flea market.</text>
+	</string>
+	<string id="gar_recover_item_1_name">
+		<text>Return the Chaser 13</text>
+	</string>
+	<string id="gar_recover_item_1_text">
+		<text>Well, here's a story: one of our fellas caught some lame digger and took him for a walk between some anomalies. They both copped it in a Gravi and I don't have a problem with that, but that fella borrowed by Chaser for the job and it's still there. If you could get it back, that would be real nice.</text>
+	</string>
+	<string id="gar_recover_item_2_name">
+		<text>Find the modified weapon</text>
+	</string>
+	<string id="gar_recover_item_2_text">
+		<text>Hey brother, there's something you can do for me. We were sitting at Limpid's and he was making a real good shooter for some fella, all mods and shit. Well, that fella and our boss didn't get on too well, so Yoga told us to make that fella disappear. Well, we chased him into a bunch of anomalies nice and quiet, but that shooter is still there. Bring me that weapon and I'll make sure Tooth don't hold back with the reward.</text>
+	</string>
+	<string id="gar_recover_item_3_name">
+		<text>Deliver a bottle of Cossacks vodka</text>
+	</string>
+	<string id="gar_recover_item_3_text">
+		<text>Buddy, help me out and bring me some booze, would you? Just make sure, it's not the crap everyone else is drinking. I hid a couple of bottles of the good stuff in a decent spot but I can't go there myself right now. Go pick it up for me and make sure nobody sees you going there, OK?</text>
+	</string>
+	<string id="gar_recover_item_4_name">
+		<text>Return the rookie's jacket</text>
+	</string>
+	<string id="gar_recover_item_4_text">
+		<text>A guy came here from the Cordon the other day, one of them green and annoying types. He told everyone and his dog about his magic jacket, which he claimed could withstand any anomaly. I heard that even when the bandits captured him he wouldn't shut up until they chased him into a Gravi. Well, the poor bastard was right - the jacket survived the anomaly without a scratch. I could find a use for that jacket if you could bring it to me.</text>
+	</string>
+	<string id="gar_recover_item_5_name">
+		<text>Bring back the inscribed pistol</text>
+	</string>
+	<string id="gar_recover_item_5_text">
+		<text>Yeah, you can help me with something. I had a pistol and it was nothing special but I got it from my grandpa. I lost it in a mess...We got drunk and decided to scare the bandits during the right. When it got dark we crawled up to a camp we'd picked out during the day and started imitating mutant voices. It turned out there weren't any bandits there, and we got attacked by two bloodsuckers instead. I barely made it out alive and I even dropped my pistol back there!</text>
+	</string>
 </string_table>

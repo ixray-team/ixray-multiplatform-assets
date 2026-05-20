@@ -117,4 +117,10 @@
 	<string id="mp_autostation">
 		<text>Deposito abbandonato</text>
 	</string>
+	<string id="ui_map_desc_mp_training_camp_short">
+		<text>Un luogo molto strano... le anomalie gravitazionali hanno deformato il terreno, dando origine a un paesaggio alieno...</text>
+	</string>
+	<string id="ui_map_desc_mp_training_camp_large">
+		<text>Un luogo molto strano... Molti ridono degli stalker che affermano di esserci stati, ma esiste veramente. Le anomalie gravitazionali hanno deformato il terreno, dando origine a un paesaggio alieno. L'area è dominata da tre enormi torri, piena zeppa di mezzi militari distrutti e di piccole isole di terra fluttuanti, strappate dal suolo.</text>
+	</string>
 </string_table>

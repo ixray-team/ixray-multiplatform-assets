@@ -10,7 +10,7 @@
 		<text>On arrête pas de se faire attaquer... Ces mecs sont de vrais pros, on a aucune chance. On contrôle toutes les routes vers la Vallée obscure, mais ça a pas l'air de changer grand-chose... Le seul endroit tranquille, c'est la base de la Liberté. Si t'as des questions sur Les Crocs, c'est ta meilleure option.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_51">
-		<text>Comment ça va, mercenaire ?</text>
+		<text>Alors, ce chien t'a donné du fil à retordre ?</text>
 	</string>
 	<string id="val_freedom_trader_hello_dialog_11">
 		<text>Salut ! Qu'est-ce que je peux te proposer aujourd'hui ?</text>
@@ -139,7 +139,7 @@
 		<text>T'aurais pas du boulot ?</text>
 	</string>
 	<string id="val_freedom_barmen_questions_dialog_1">
-		<text>Ça fait quelques nuits que je vois des lumières bizarres qui viennent du bâtiment abandonné à la station-service. Ça pourrait être des feux ou des torches... Mais le coin est vachement radioactif, alors nos mecs s'approchent pas. Ta combinaison a l'air plutôt résistante... Pourquoi t'irais pas y jeter un coup d'oeil ? Qui sait ? Peut-être que c'est des fantômes...</text>
+		<text>Ça fait quelques nuits que je vois des lumières bizarres qui viennent du bâtiment abandonné près de la station-service. Ça pourrait être des feux ou des torches... Pourquoi t'irais pas y jeter un coup d'oeil ? Je veux dire, si c'est qu'un fantôme, c'est pas la mer à boire, mais si c'est ces enfoirés de la Décharge, il faudra qu'on s'en occupe.</text>
 	</string>
 	<string id="val_freedom_barmen_questions_dialog_11">
 		<text>Ok, je vais aller voir ça.</text>
@@ -202,13 +202,13 @@
 		<text>Pourquoi pas ? Qu'est-ce que tu veux que je fasse ?</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_11111111">
-		<text>Les mutants se sont faits un nid près de la base et nous compliquent sacrément la vie. Ils pètent les plombs dès qu'ils sentent les odeurs de bouffe venant du bar ! Les gars sont nerveux à cause de ça et peuvent plus se reposer tranquillement. Règle ce problème et on verra comment je peux t'aider à ton retour !</text>
+		<text>Un pseudo-chien s'est installé près de la base et nous complique sacrément la vie. Il pète les plombs dès qu'il sent les odeurs de bouffe venant du bar ! Les gars sont nerveux à cause de ça et peuvent plus se reposer tranquillement. Règle ce problème et on verra comment je peux t'aider à ton retour !</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_111111111">
 		<text>C'est comme si c'était fait !</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_511">
-		<text>Les mutants sont morts.</text>
+		<text>Aucune importance. L'essentiel, c'est que ce monstre soit mort.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_5111">
 		<text>Parfait ! Ton boulot suivant sera un petit peu plus dur : il faut livrer ces munitions à nos gars de l'avant-poste le plus éloigné d'ici. Va voir Ashot, il te filera la marchandise et te dira où aller !</text>

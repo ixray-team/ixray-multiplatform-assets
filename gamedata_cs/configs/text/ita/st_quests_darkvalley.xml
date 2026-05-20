@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="val_bandit_spy_name">
-		<text>Scopri cosa sta succedendo alla stazione di rifornimento</text>
+		<text>Elimina la potenziale minaccia alla stazione di rifornimento</text>
 	</string>
 	<string id="val_bandit_spy_text">
-		<text>Di notte si vedono delle luci fioche presso la stazione di rifornimento abbandonata. L'edificio и altamente radioattivo. Cerca di scoprire cosa sta succedendo.</text>
+		<text>Di notte si vedono delle luci fioche presso la stazione di rifornimento abbandonata. Indaga ed elimina qualsiasi potenziale minaccia.</text>
 	</string>
 	<string id="val_bring_to_fang_name">
 		<text>Segui il segnale del PDA di Fang</text>
@@ -91,10 +91,10 @@
 		<text>Aiuta la Freedom a eliminare i mercenari.</text>
 	</string>
 	<string id="val_kill_flesh_name">
-		<text>Distruggi la tana dei mostri</text>
+		<text>Uccidi lo pseudocane</text>
 	</string>
 	<string id="val_kill_flesh_text">
-		<text>Distruggi la tana dei mostri.</text>
+		<text>Uccidi lo pseudocane che si и rintanato vicino alla base della Freedom.</text>
 	</string>
 	<string id="val_kill_komendant_name">
 		<text>Uccidi il comandante</text>
@@ -176,5 +176,23 @@
 	</string>
 	<string id="st_val_find_flesh_up_cd_svu_text">
 		<text>A Yar il tecnico servono informazioni sul funzionamento dei freni di velocitа alla bocca per i fucili di precisione piщ potenti. Una volta ottenute, sarа in grado di costruirne uno.</text>
+	</string>
+	<string id="val_recover_item_1_name">
+		<text>Recupera il mirino 8x</text>
+	</string>
+	<string id="val_recover_item_1_text">
+		<text>Da queste parti c'era un tizio con un mirino eccezionale sul suo fucile, di quelli che si vedono raramente nella Zona. Ho provato di tutto, ma non ha voluto vendermelo. Poi и partito verso il Cordon con una delle nostre pattuglie. Non sono mai tornati indietro, quindi immagino che lo stalker riposi in pace da quelle parti. Portami quel mirino, cosм potrт regalarlo a Chekhov. Chissа, potrei ottenere una promozione a comandante!</text>
+	</string>
+	<string id="val_recover_item_2_name">
+		<text>Recupera la memoria USB con i film</text>
+	</string>
+	<string id="val_recover_item_2_text">
+		<text>Aiutami, amico. Ero a casa di Ganja a vedere un film sul suo computer, quando il comandante ci ha beccati e ha iniziato a dire che ero in servizio e cose del genere. Voleva fare a pezzi il computer, ma anche se siamo riusciti a fermarlo in tempo, ha preso la memoria USB con il film e l'ha lanciata oltre il recinto, nella zona radioattiva. Recupera la memoria e Ganja ti ricompenserа.</text>
+	</string>
+	<string id="val_recover_item_3_name">
+		<text>Recupera la chitarra di Serega</text>
+	</string>
+	<string id="val_recover_item_3_text">
+		<text>Qualcuno ha rubato la chitarra di Serega. Pensa te! Qui и l'unico capace di suonare la chitarra. Ed и anche bravo, a differenza di tutti gli altri. Abbiamo capito subito chi и stato a rubarla, ma quel farabutto si и nascosto da qualche parte. Devi recuperare quella chitarra, visto che Serega si rifiuta di suonarne altre, OK?</text>
 	</string>
 </string_table>

@@ -117,4 +117,10 @@
 	<string id="mp_autostation">
 		<text>Dépôt abandonné</text>
 	</string>
+	<string id="ui_map_desc_mp_training_camp_short">
+		<text>Un étrange très endroit. Des anomalies gravitationnelles sont déchiré le sol et créé un paysage aux allures surnaturelles.</text>
+	</string>
+	<string id="ui_map_desc_mp_training_camp_large">
+		<text>Un étrange très endroit. Les stalkers qui prétendent l'avoir vu font l'objet de toutes les moqueries, mais il existe néanmoins. Des anomalies gravitationnelles sont déchiré le sol et créé un paysage aux allures surnaturelles. Trois immenses tours, des vestiges de matériel militaire et des îlots de terre flottants arrachés au sol, surplombent le secteur.</text>
+	</string>
 </string_table>

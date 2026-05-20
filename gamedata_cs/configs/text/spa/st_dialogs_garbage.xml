@@ -1005,4 +1005,16 @@
 	<string id="gar_bandit_bookmaker_hello_61">
 		<text>Buena puntería, colega. Deberías jugar por dinero. ¿Te apetece disparar un poco más?</text>
 	</string>
+	<string id="gar_bandit_robbery_12">
+		<text>Bueno, saca la PDA, que es hora de repartir la pasta. Y no creas que es para nada: nos pagas para mantener el orden en el vertedero, ¿estamos?</text>
+	</string>
+	<string id="gar_bandit_robbery_121">
+		<text>Bueno, si es para mantener el orden, aquí tenéis.</text>
+	</string>
+	<string id="gar_bandit_robbery_1211">
+		<text>¡Guau, cuánta inteligencia para ser un perdedor! Así que me llevaré todo esto, ¿vale? Puedes quedarte con el equipo, no somos animales que te robamos las armas y las cosas. Nos lo agradecerás cuando te encuentres con algunos mutantes, créeme. Bueno, basta de hablar, vámonos.</text>
+	</string>
+	<string id="gar_bandit_robbery_12111">
+		<text>Tú... ve con cuidado.</text>
+	</string>
 </string_table>

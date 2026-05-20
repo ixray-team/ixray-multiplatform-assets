@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="val_bandit_spy_name">
-		<text>Find out what is happening at the gas station</text>
+		<text>Eliminate the potential threat at the gas station</text>
 	</string>
 	<string id="val_bandit_spy_text">
-		<text>Some dim lights have been spotted at the deserted gas station at night. The building is highly radioactive. Investigate the situation at the gas station</text>
+		<text>Some dim lights have been spotted at the deserted gas station at night. Investigate the situation and eliminate any potential threat.</text>
 	</string>
 	<string id="val_bring_to_fang_name">
 		<text>Follow the signal of Fang's PDA</text>
@@ -91,10 +91,10 @@
 		<text>Help Freedom eliminate the mercenaries</text>
 	</string>
 	<string id="val_kill_flesh_name">
-		<text>Destroy the monster lair</text>
+		<text>Kill the pseudo-dog</text>
 	</string>
 	<string id="val_kill_flesh_text">
-		<text>Destroy the monster lair</text>
+		<text>Kill the pseudo-dog, which is making a nuisance of itself near the Freedom base.</text>
 	</string>
 	<string id="val_kill_komendant_name">
 		<text>Kill the commandant</text>
@@ -176,5 +176,23 @@
 	</string>
 	<string id="st_val_find_flesh_up_cd_svu_text">
 		<text>Yar the technician needs information on the workings of muzzle breaks for powerful sniper rifles. Then he'll be able to make a similar one.</text>
+	</string>
+	<string id="val_recover_item_1_name">
+		<text>Return the 8x scope</text>
+	</string>
+	<string id="val_recover_item_1_text">
+		<text>There was a guy around here with a real good scope on his shooter, the kind you won't find anywhere in the Zone. I tried and tried but he didn't want to sell it to me. He left with one of our patrols headed towards the Cordon. The patrol didn't make it back, so I figure that stalker found his resting place somewhere around there. Bring me that scope, so I can give it to Chekhov as a gift - maybe he'll promote me to commandant.</text>
+	</string>
+	<string id="val_recover_item_2_name">
+		<text>Return the USB drive with movies</text>
+	</string>
+	<string id="val_recover_item_2_text">
+		<text>Help me out, bud. Me and Ganja were sitting at his place, watching a movie on his laptop when the commandant caught us and started going on about how I'm on duty and all that. He wanted to smash the laptop into pieces but we stopped him, so he took the USB drive with the movie on it and threw it over the fence, into the radioactive area. Get that drive back and Ganja will reward you. </text>
+	</string>
+	<string id="val_recover_item_3_name">
+		<text>Return Serega's guitar</text>
+	</string>
+	<string id="val_recover_item_3_text">
+		<text>Someone stole Serega's guitar, can you imagine that? He's the only one who can play the guitar around here, and he does it well too, unlike the rest of them. We figured out who the thief is real quick but the cocksucker hid it someplace. Bring that guitar back 'cause Serega refuses to play any other, OK?</text>
 	</string>
 </string_table>

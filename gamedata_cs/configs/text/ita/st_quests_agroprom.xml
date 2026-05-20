@@ -174,4 +174,28 @@
 	<string id="agr_attack_monster_group_text">
 		<text>I mutanti attaccano la fabbrica sporadicamente e a piccoli gruppi. Ucciderli nel loro covo dovrebbe far smettere gli attacchi.</text>
 	</string>
+	<string id="agr_recover_item_1_name">
+		<text>Recupera la doppietta del membro della Duty</text>
+	</string>
+	<string id="agr_recover_item_1_text">
+		<text>L'altro giorno eravamo in missione per ripulire una zona dai mutanti, quando ne abbiamo trovato uno bello grosso. Dopo un'ora di battaglia, eravamo a corto di munizioni e la bestia non voleva ancora arrendersi. Quindi ho dato l'ordine di ritirarsi, restando sul posto per coprire la fuga dei miei ragazzi. Ho sparato tutte le munizioni e alla fine ho lanciato la doppietta contro il mostro. E sai cosa è successo? Quel bastardo si è messo a rosicchiarla ignorandomi completamente. Recupera quella doppietta. Del resto è stata lei a salvarmi la vita!</text>
+	</string>
+	<string id="agr_recover_item_2_name">
+		<text>Recupera il PDA con le informazioni segrete</text>
+	</string>
+	<string id="agr_recover_item_2_text">
+		<text>Sono stato derubato dai banditi della Discarica, mercenario. Mi hanno preso tutto: denaro, armi, munizioni e le mie scorte di medicinali, oltre al mio prezioso PDA. Conteneva un sacco di informazioni sui nascondigli dei banditi nella Discarica. Devo consegnarlo a Krylov, altrimenti mi scuoierà vivo. Aiutami a recuperarlo!</text>
+	</string>
+	<string id="agr_recover_item_3_name">
+		<text>Recupera la valigetta del membro della Duty</text>
+	</string>
+	<string id="agr_recover_item_3_text">
+		<text>Mercenario, dei mutanti sbucati dal sottosuolo ci hanno costretti ad abbandonare le nostre posizioni e ripiegare. Non sono riuscito a prendere la mia valigetta, insieme alle mie armi, le munizioni, i medicinali e il mio rilevatore. Dovevo mettermi in salvo al più presto! Aiutami a recuperare quella valigetta.</text>
+	</string>
+	<string id="agr_recover_item_4_name">
+		<text>Recupera il fucile d'assalto del membro della Duty</text>
+	</string>
+	<string id="agr_recover_item_4_text">
+		<text>Ho litigato con una guida per una stupidata, e ora non vuole più portarmi dagli stalker! Dice che non vuole vedermi mai più. Non ho molta voglia di girarmi la Zona da solo, ovviamente. Ho lasciato la mia arma dagli stalker, quando sono andato a trovarli la scorsa settimana. Uno dei nostri era stato promosso e abbiamo festeggiato con una bella scorta di alcol. Alla fine ero devastato, e i ragazzi hanno faticato non poco per riportarmi in caserma... dimenticando però il mio fucile! Potresti andare a prenderlo? Un soldato non può vivere senza la propria arma.</text>
+	</string>
 </string_table>

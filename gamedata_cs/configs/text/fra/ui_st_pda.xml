@@ -406,7 +406,7 @@
 		<text>Marchand</text>
 	</string>
 	<string id="st_ui_pda_legend_vip">
-		<text>Personnages importants</text>
+		<text>Personnage important</text>
 	</string>
 	<string id="ui_logs_center_caption">
 		<text>Historique des messages</text>
@@ -671,5 +671,14 @@
 	</string>
 	<string id="st_target">
 		<text>Cible</text>
+	</string>
+	<string id="st_technic_specialization">
+		<text>Spécialisation :</text>
+	</string>
+	<string id="st_technic_specialization_none">
+		<text>aucune</text>
+	</string>
+	<string id="hospital">
+		<text>Hôpital abandonné</text>
 	</string>
 </string_table>

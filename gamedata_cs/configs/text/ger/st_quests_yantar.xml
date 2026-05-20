@@ -108,4 +108,16 @@
 	<string id="yan_repair_defend_text">
 		<text>Lefty hat befohlen, die Positionen einzunehmen. Folge dem Stalker aufs Dach und nimm deine Position ein.</text>
 	</string>
+	<string id="yan_recover_item_1_name">
+		<text>Besorge die Scharlachrote Blume</text>
+	</string>
+	<string id="yan_recover_item_1_text">
+		<text>Du musst mir helfen, Söldner. In der Zone gibt es ein Artefakt, das scharlachrote Blume genannt wird. Es ist nutzlos für einen Stalker, aber die Frauen sind immer begeistert davon. Ich habe bald eine Verabredung und wenn ich so eine Blume auftreiben könnte, würde ich sicher zum Schuss kommen - wenn du weißt, was ich meine! Deswegen bin ich immer noch in der verdammten Zone - jemand hat hier in der Gegend eine Blume gesehen. Das Artefakt sieht aus wie eine Zauberblume, die Tag und Nacht leuchtet. Wenn du mir das Ding besorgen kannst, werde ich dich entsprechend belohnen!</text>
+	</string>
+	<string id="yan_recover_item_2_name">
+		<text>Bringe die Granatenattrappe zurück</text>
+	</string>
+	<string id="yan_recover_item_2_text">
+		<text>Söldner, ich brauche mal deine Hilfe. Ich habe etwas verloren... eine Granate... aber nicht wirklich eine Granate... na ja, es ist eine Granate, aber halt nur eine Attrappe, die im Training eingesetzt wird. Wie auch immer, finde sie für mich... ich glaube, ich weiß, wo du am besten mit der Suche anfängst: Ich war bei der Fabrik, als irgendetwas geschehen ist... mein Gehirn hat auf einmal verrückt gespielt und ich wusste nicht mehr, wie mir geschah! Als ich dann wieder zu mir gekommen bin, war ich hier. Deswegen denke ich, dass du die Granate irgendwo bei der Fabrik finden kannst. Bringe sie zurück zu mir!</text>
+	</string>
 </string_table>

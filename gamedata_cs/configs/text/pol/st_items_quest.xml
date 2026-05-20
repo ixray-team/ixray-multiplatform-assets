@@ -216,4 +216,130 @@
 	<string id="st_pda_name">
 		<text>PDA</text>
 	</string>
+	<string id="st_agr_quest_duty_abakan">
+		<text>Karabin szturmowy cz³onka "Powinnoœci"</text>
+	</string>
+	<string id="st_agr_quest_duty_abakan_descr">
+		<text>Na karabinie starannie wymalowano bia³¹ farb¹ jego numer magazynowy, co sugeruje, ¿e broñ nale¿y do ¿o³nierza frakcji "Powinnoœæ".</text>
+	</string>
+	<string id="st_agr_quest_duty_case">
+		<text>Walizka cz³onka "Powinnoœci"</text>
+	</string>
+	<string id="st_agr_quest_duty_case_descr">
+		<text>Walizka jest zamkniêta zamkiem szyfrowym. DŸwiêki, jakie wydaje sugeruj¹, ¿e zawiera ró¿ne przedmioty. Na jej szczycie zaznaczono markerem sygna³ wywo³awczy w³aœciciela - cz³onka "Powinnoœci".</text>
+	</string>
+	<string id="st_agr_quest_duty_secret_pda">
+		<text>PDA z tajnymi informacjami</text>
+	</string>
+	<string id="st_agr_quest_duty_secret_pda_descr">
+		<text>Liczne wpisy w tym PDA nie pozostawiaj¹ w¹tpliwoœci, ¿e nale¿y ono do cz³onka "Powinnoœci". Pozosta³e treœci s¹ porz¹dnie zaszyfrowane.</text>
+	</string>
+	<string id="st_agr_quest_wpn_spas12">
+		<text>Strzelba "Rozpruwacz"</text>
+	</string>
+	<string id="st_agr_quest_wpn_spas12_descr">
+		<text>Ta broñ by³a najwyraŸniej celem brutalnego ataku. Informacje fabryczne na kolbie sugeruj¹, ¿e to czêœæ ograniczonej serii wyró¿niaj¹cej siê ulepszon¹ pow³ok¹ oraz przera¿aj¹c¹ nazw¹: "Rozpruwacz".</text>
+	</string>
+	<string id="st_esc_quest_akm47">
+		<text>Trofiejny AKM-47/2</text>
+	</string>
+	<string id="st_esc_quest_akm47_descr">
+		<text>Stary, zu¿yty karabin szturmowy ze œladami pazurów na kolbie. Legendarny orê¿.</text>
+	</string>
+	<string id="st_esc_quest_luky_detector">
+		<text>Fartowny detektor</text>
+	</string>
+	<string id="st_esc_quest_luky_detector_descr">
+		<text>Stary detektor, do którego przylepiono nalepki z gum balonowych i bananów. Wygl¹da normalnie i trudno uwierzyæ, aby ktoœ uzna³ go za coœ wyj¹tkowego.</text>
+	</string>
+	<string id="st_esc_quest_magic_vodka">
+		<text>"Magiczna" wódka</text>
+	</string>
+	<string id="st_esc_quest_magic_vodka_descr">
+		<text>Mêtny p³yn o silnej woni alkoholu. Zawiera go zapewne oko³o 80-90%, wiêc lepiej go nie piæ.</text>
+	</string>
+	<string id="st_esc_quest_spec_medkit">
+		<text>Apteczka specjalna NPR-21p</text>
+	</string>
+	<string id="st_esc_quest_spec_medkit_descr">
+		<text>Apteczka opatrzona s³owami "Zestaw antyradiacyjny NPR-21p (model testowy)". Na ulotce wymieniono potê¿n¹ listê nieprzyjemnych efektów ubocznych.</text>
+	</string>
+	<string id="st_gar_quest_novice_outfit">
+		<text>Trwa³a kurtka skórzana</text>
+	</string>
+	<string id="st_gar_quest_novice_outfit_descr">
+		<text>Wygl¹da na to, ¿e poprzedni w³aœciciel tej kurtki zosta³ rozszarpany przez anomaliê, kurtka jednak na tym w ¿aden sposób nie ucierpia³a.</text>
+	</string>
+	<string id="st_gar_quest_vodka_2">
+		<text>Wóda "Kozak 2"</text>
+	</string>
+	<string id="st_gar_quest_vodka_2_descr">
+		<text>le przylepiona etykieta i dziwny osad na dnie butelki sugeruj¹, ¿e to wyrób domowy.</text>
+	</string>
+	<string id="st_gar_quest_wpn_desert_eagle">
+		<text>Zmodyfikowana spluwa</text>
+	</string>
+	<string id="st_gar_quest_wpn_desert_eagle_descr">
+		<text>Kawa³ solidnej broni. Uzdolniony technik znacz¹co ulepszy³ jej fabryczne charakterystyki.</text>
+	</string>
+	<string id="st_gar_quest_wpn_pm">
+		<text>Pistolet z inskrypcj¹</text>
+	</string>
+	<string id="st_gar_quest_wpn_pm_descr">
+		<text>Na uchwycie pistoletu widaæ inskrypcjê. Jest czêœciowo zatarta, mo¿na odczytaæ z niej nastêpuj¹ce fragmenty: "Za z...³ugi wykracz... poza wym...i s³u¿b...".</text>
+	</string>
+	<string id="st_gar_quest_wpn_wincheaster1300">
+		<text>Bandycki Chasera 13</text>
+	</string>
+	<string id="st_gar_quest_wpn_wincheaster1300_descr">
+		<text>Kilka naciêæ na kolbie tej strzelby odpowiada stalkerom, którzy zostali ni¹ zabici.</text>
+	</string>
+	<string id="st_red_forest_pda_map_2">
+		<text>PDA z map¹ Czerwonego Lasu</text>
+	</string>
+	<string id="st_red_forest_pda_map_2_descr">
+		<text>PDA zawiera mapê Czerwonego Lasu z oznaczeniami obszarów o silnym promieniowaniu. Ostatni wpis pochodzi z 23:15 i brzmi: "Trzeba by³o spêdziæ noc na moœcie - nie wydostaniemy siê teraz z tego lasu".</text>
+	</string>
+	<string id="st_red_quest_prototipe_device">
+		<text>Urz¹dzenie eksperymentalne</text>
+	</string>
+	<string id="st_red_quest_prototipe_device_descr">
+		<text>Urz¹dzenie z licznymi prze³¹cznikami i wskaŸnikami. Brakuje instrukcji mog¹cej u³atwiæ zrozumienie celu jego istnienia.</text>
+	</string>
+	<string id="st_red_quest_tank_minigun">
+		<text>Czo³gowy karabin maszynowy</text>
+	</string>
+	<string id="st_red_quest_tank_minigun_descr">
+		<text>Ten karabin maszynowy jest przeznaczony do monta¿u na czo³gu, ale mo¿e byæ te¿ wykorzystywany w charakterze rkm-u.</text>
+	</string>
+	<string id="st_val_quest_flash_movies">
+		<text>Pendrive z filmami</text>
+	</string>
+	<string id="st_val_quest_flash_movies_descr">
+		<text>Pendrive z najnowszymi filmami; nie obejrzysz ich jednak na PDA ze wzglêdu na ich rozdzielczoœæ.</text>
+	</string>
+	<string id="st_val_quest_guitar_serg">
+		<text>Gitara Seregi</text>
+	</string>
+	<string id="st_val_quest_guitar_serg_descr">
+		<text>Na gryfie gitary d³ugopisem zapisano, ¿e by³a ona darem dla niejakiego Seregi od jego dziewczyny.</text>
+	</string>
+	<string id="st_val_quest_scope_x8">
+		<text>Celownik 8x</text>
+	</string>
+	<string id="st_val_quest_scope_x8_descr">
+		<text>Doskona³y celownik ze specjalnym uchwytem monta¿owym pasuj¹cym chyba tylko do karabinu myœliwskiego.</text>
+	</string>
+	<string id="st_yan_quest_granade">
+		<text>Granat pami¹tkowy</text>
+	</string>
+	<string id="st_yan_quest_granade_descr">
+		<text>Granat æwiczebny. Do zawleczki do³¹czono ³añcuszek z breloczkiem w kszta³cie bia³ego królika.</text>
+	</string>
+	<string id="st_yan_quest_scarlet_flower">
+		<text>Szkar³atny Kwiat</text>
+	</string>
+	<string id="st_yan_quest_scarlet_flower_descr">
+		<text>Tajemniczy artefakt nieznanego pochodzenia. Nie powoduje praktycznie ¿adnych emisji, dzia³aj¹c jedynie w charakterze wabika na kobiety.</text>
+	</string>
 </string_table>

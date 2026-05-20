@@ -231,4 +231,28 @@
 	<string id="st_esc_find_flesh_up_bd_wincheaster1300_text">
 		<text>Technik stalkerów mo¿e przygotowaæ urz¹dzenie, które zwiêkszy celnoœæ strzelb pneumatycznych, ale brakuje mu pewnych informacji.</text>
 	</string>
+	<string id="esc_recover_item_1_name">
+		<text>Dostarcz "magiczn¹" wódkê</text>
+	</string>
+	<string id="esc_recover_item_1_text">
+		<text>W Zonie by³ kiedyœ chemik. Znaczy nie by³ tak naprawdê chemikiem, ale potrafi³ przyrz¹dziæ "magiczn¹" wódkê. To by³o coœ wyj¹tkowego - parê ³yków i zapomina³o siê o wszystkim: o Zonie, mutantach, anomaliach... Niczego ju¿ siê nie ba³eœ i nie obchodzi³o ciê, kim jesteœ ani co siê z tob¹ dzieje. Kosztowa³a cholernie drogo, ale i tak by³a tego warta. Niestety, pewnego dnia ktoœ otru³ chemika - kto wie, czy z zazdroœci, czy z chciwoœci. Otruli go i to by³ koniec tej wspania³ej wódy... Podobno jednak mia³ w Zonie kilka schowków - wiem, gdzie szukaæ jednego z nich. Dobrze ci zap³acê za flaszkê tego magicznego trunku!</text>
+	</string>
+	<string id="esc_recover_item_2_name">
+		<text>Przynieœ trofiejny AKM-47/2</text>
+	</string>
+	<string id="esc_recover_item_2_text">
+		<text>Zbieram rzadk¹ broñ; mam ich doœæ, aby wype³niæ muzeum, ale wci¹¿ brakuje mi jednej - trofiejnego AKM-47/2. To nie tylko dobra spluwa, ale i rzadki orê¿ u¿ywany do mordowania mutantów, których siê ju¿ nie widuje. Podobno jego w³aœciciel by³ wybitnym strzelcem - prawdziw¹ legend¹ Zony. Potrafi³ siê wykaraskaæ z ka¿dej kaba³y i uciec z ka¿dej anomalii... Od d³u¿szego czasu nic o nim nie s³ysza³em, ale mam cynk co do jego spluwy: ukryto j¹ w tajnym miejscu, do którego nie³atwo siê dostaæ. Przynieœ mi tê spluwê, najemniku.</text>
+	</string>
+	<string id="esc_recover_item_3_name">
+		<text>Zwróæ "fartowny" detektor</text>
+	</string>
+	<string id="esc_recover_item_3_text">
+		<text>Pomó¿ mi, najemniku. Kupi³em sobie niedawno nowy, potê¿niejszy detektor, a stary wrzuci³em do anomalii. Problem w tym, ¿e nowy nie przynosi mi farta - od trzech tygodni nie znalaz³em ¿adnego artefaktu. Ten nowy jest w porz¹dku, ale wolê stary. Przynieœ mi go, a nie po¿a³ujesz.</text>
+	</string>
+	<string id="esc_recover_item_4_name">
+		<text>Dostarcz specjaln¹ apteczkê</text>
+	</string>
+	<string id="esc_recover_item_4_text">
+		<text>Mój stary kumpel zwia³ ostatnio bandytom na Wysypisku. Dranie kazali mu biec dla zabawy nasypem miêdzy anomaliami; dosta³ dawkê promieniowania blisk¹ œmiertelnej. Ledwie siê rusza, a normalne leki na niego nie dzia³aj¹ - potrzebuje czegoœ mocniejszego. Podobno wojskowi maj¹ specjalne apteczki na takie okazje, by³bym wymownie wdziêczny za dostarczenie mi czegoœ takiego.</text>
+	</string>
 </string_table>

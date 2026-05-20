@@ -640,7 +640,7 @@
 		<text>Utilise DX10,1</text>
 	</string>
 	<string id="ui_mm_r3_gbuffer_opt">
-		<text>Optimisation des buffers géométriques</text>
+		<text>Optimiser G-buffer</text>
 	</string>
 	<string id="ui_mm_r3_MSAA">
 		<text>Anticrènelage plein-écran</text>
@@ -653,5 +653,35 @@
 	</string>
 	<string id="mm_mp_actret_time">
 		<text>Rapporté par activation</text>
+	</string>
+	<string id="ui_mm_msaa_opt">
+		<text>Optimiser l'anticrénelage</text>
+	</string>
+	<string id="ui_mm_msaa_alphatest">
+		<text>Objets testés pour anticrènelage</text>
+	</string>
+	<string id="st_opt_off">
+		<text>Désactivé</text>
+	</string>
+	<string id="st_opt_low">
+		<text>faible</text>
+	</string>
+	<string id="st_opt_medium">
+		<text>intermédiaire</text>
+	</string>
+	<string id="st_opt_high">
+		<text>élevé</text>
+	</string>
+	<string id="ui_st_invalid_saved_game">
+		<text>La version de la sauvegarde ne correspond pas à la version actuelle du jeu.</text>
+	</string>
+	<string id="st_opt_atest_msaa_dx10_0">
+		<text>Style DX10.0 [Standard]</text>
+	</string>
+	<string id="st_opt_atest_msaa_dx10_1">
+		<text>Style DX10.1 [Grande qualité]</text>
+	</string>
+	<string id="st_opt_ultra">
+		<text>Ultra</text>
 	</string>
 </string_table>

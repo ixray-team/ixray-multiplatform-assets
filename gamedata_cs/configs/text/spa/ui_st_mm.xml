@@ -640,7 +640,7 @@
 		<text>Usar DX10.1</text>
 	</string>
 	<string id="ui_mm_r3_gbuffer_opt">
-		<text>Optimizar geometría del buffer</text>
+		<text>Optimizar búfer G</text>
 	</string>
 	<string id="ui_mm_r3_MSAA">
 		<text>Antialiasing de pantalla completa</text>
@@ -653,5 +653,35 @@
 	</string>
 	<string id="mm_mp_actret_time">
 		<text>Devolución por activación</text>
+	</string>
+	<string id="ui_mm_msaa_opt">
+		<text>Optimizar antialiasing</text>
+	</string>
+	<string id="ui_mm_msaa_alphatest">
+		<text>Antialias de los objetos de pruebas alfa</text>
+	</string>
+	<string id="st_opt_off">
+		<text>Desactivada</text>
+	</string>
+	<string id="st_opt_low">
+		<text>Baja</text>
+	</string>
+	<string id="st_opt_medium">
+		<text>Media</text>
+	</string>
+	<string id="st_opt_high">
+		<text>Alta</text>
+	</string>
+	<string id="ui_st_invalid_saved_game">
+		<text>La versión guardada del juego no coincide con la versión actual del juego.</text>
+	</string>
+	<string id="st_opt_atest_msaa_dx10_0">
+		<text>Estilo DX10.0 [Estándar]</text>
+	</string>
+	<string id="st_opt_atest_msaa_dx10_1">
+		<text>Estilo DX10.1 [Mayor calidad]</text>
+	</string>
+	<string id="st_opt_ultra">
+		<text>Ultra</text>
 	</string>
 </string_table>

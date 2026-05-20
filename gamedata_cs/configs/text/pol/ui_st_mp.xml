@@ -7,10 +7,10 @@
 		<text>Sojusznik</text>
 	</string>
 	<string id="mp_art_destroyed">
-		<text>Artefakt zosta³ zniszczony.</text>
+		<text>Artefakt zniszczony.</text>
 	</string>
 	<string id="mp_art_spowned">
-		<text>Powsta³ artefakt. Zanieœ go do bazy, ¿eby zdobyæ punkt.</text>
+		<text>Nowy artefakt. Zanieœ go do bazy, ¿eby zdobyæ punkt.</text>
 	</string>
 	<string id="mp_artefacts">
 		<text>Artefakty</text>
@@ -55,10 +55,10 @@
 		<text>roz³¹czony</text>
 	</string>
 	<string id="mp_enter_text">
-		<text>WprowadŸ tekst do g³osowania</text>
+		<text>WprowadŸ tekst g³osowania</text>
 	</string>
 	<string id="mp_entered_game">
-		<text>w³¹cza siê do gry</text>
+		<text>wchodzi do gry</text>
 	</string>
 	<string id="mp_first_eye">
 		<text>(widok z pierwszej osoby)</text>
@@ -106,7 +106,7 @@
 		<text>Opis mapy</text>
 	</string>
 	<string id="mp_match_started">
-		<text>Rozpocz¹³ siê mecz</text>
+		<text>Start rozgrywki!</text>
 	</string>
 	<string id="mp_modes">
 		<text>Tryby</text>
@@ -382,7 +382,7 @@
 		<text>Trafiony w plecy!!!</text>
 	</string>
 	<string id="mp_with_headshot">
-		<text>Strza³ w g³owê!!!</text>
+		<text>Headshot!!!</text>
 	</string>
 	<string id="mp_your_rank">
 		<text>Masz teraz rangê</text>
@@ -406,10 +406,10 @@
 		<text>Dru¿yna</text>
 	</string>
 	<string id="st_mp_voting_failed">
-		<text>G³osowanie nieudane!</text>
+		<text>Glosowanie nieudane!</text>
 	</string>
 	<string id="st_mp_voting_succeed">
-		<text>G³osowanie udane!</text>
+		<text>Glosowanie udane!</text>
 	</string>
 	<string id="team_base_1">
 		<text>Baza "Wolnoœci"</text>

@@ -186,4 +186,40 @@
 	<string id="st_gar_find_flesh_up_fh_scientific_outfit_text">
 		<text>Limpid, der Techniker der Banditen, beherrscht jede Art von Modifikation, aber für den Einbau eines geschlossenen Atemmoduls in einen Anzug benötigt er noch weitere Informationen.</text>
 	</string>
+	<string id="gar_quest_redemption_name">
+		<text>Hole dir deine Sachen zurück</text>
+	</string>
+	<string id="gar_quest_redemption_text">
+		<text>Hole dir deine Sachen zurück, die dir die Banditen in der Nähe des Flohmarkts abgenommen haben.</text>
+	</string>
+	<string id="gar_recover_item_1_name">
+		<text>Bringe die Chaser 13 zurück</text>
+	</string>
+	<string id="gar_recover_item_1_text">
+		<text>Nun, die Sache ist die: Einer unserer Jungs hat einen dieser Müllgräber geschnappt und ist mit ihm zwischen einigen Anomalien spazieren gegangen. Tja, am Ende sind die beiden in einer Gravit-Anomalie draufgegangen. Damit habe ich zwar kein Problem, aber der Kollege hatte meine Chaser für den Spaziergang ausgeliehen und die befindet sich immer noch dort. Wenn du mir die Waffe zurückbringen könntest, wäre ich mehr als erfreut.</text>
+	</string>
+	<string id="gar_recover_item_2_name">
+		<text>Finde die modifizierte Waffe</text>
+	</string>
+	<string id="gar_recover_item_2_text">
+		<text>Hey, Bruder! Du könntest mir einen Gefallen tun. Vor kurzem war ich bei Limpid und er hat eine richtig gute Wumme für einen Typen gebaut, mit Modifizierungen und so. Nun, dieser Typ und unser Boss sind nicht sehr gut miteinander ausgekommen, also hat Yoga uns gesagt, dass wir den Typen verschwinden lassen sollen. Deswegen haben wir ihn in einen hübschen Haufen Anomalien gejagt. Das ist zwar schön und gut, aber diese tolle Knarre liegt jetzt auch dort! Wenn du sie mir beschaffen kannst, werde ich dafür sorgen, dass Tooth dich gut belohnt.</text>
+	</string>
+	<string id="gar_recover_item_3_name">
+		<text>Liefere eine Flasche Cossacks-Wodka ab</text>
+	</string>
+	<string id="gar_recover_item_3_text">
+		<text>Kumpel, würdest du mir einen Gefallen tun und mir was zu trinken besorgen? Aber nicht den billigen Fusel, den jeder hier trinkt. Ich habe ein paar Flaschen mit gutem Wodka hier ganz in der Nähe versteckt, aber kann gerade nicht selbst dorthin. Bringe mir den Wodka aus dem Versteck und achte darauf, dass dich niemand dabei beobachtet, OK?</text>
+	</string>
+	<string id="gar_recover_item_4_name">
+		<text>Bringe die Jacke des Anfängers zurück</text>
+	</string>
+	<string id="gar_recover_item_4_text">
+		<text>Vor ein paar Tagen kam hier ein Kerl vom Kordon vorbei, noch grün hinter den Ohren und einer der ganz nervigen Sorte. Er hat jedem von seiner Zauberjacke erzählt, der keine Anomalie etwas anhaben könne. Selbst als die Banditen ihn geschnappt haben, hat er nicht aufgehört zu plappern, bis sie ihn schließlich in eine Gravit-Anomalie gejagt haben. Nun ja, der arme Kerl hatte Recht: Die Jacke hat das Ganze ohne einen einzigen Kratzer überstanden. Ich könnte das Ding ganz gut gebrauchen, wenn du es mir beschaffen würdest.</text>
+	</string>
+	<string id="gar_recover_item_5_name">
+		<text>Bringe die Pistole mit der Gravur zurück</text>
+	</string>
+	<string id="gar_recover_item_5_text">
+		<text>Du kannst mir bei einer Sache helfen. Ich hatte mal eine Pistole; nichts Besonderes, aber sie hatte meinem Großvater gehört. Ich habe sie in einem recht großen Durcheinander verloren... vor ein paar Tagen haben wir uns ziemlich betrunken und sind dann auf die Idee gekommen, dass wir in der Nacht die Banditen erschrecken könnten. Als es dunkel geworden ist, haben wir uns an ein Lager angeschlichen, das wir bei Tag ausgesucht hatten, und haben angefangen, Mutantengeräusche zu machen. Es hat sich dann recht schnell herausgestellt, dass da gar keine Banditen waren. Stattdessen haben uns zwei Blutsauger angegriffen! Ich wäre fast draufgegangen und habe auch noch meine Pistole dort fallen lassen.</text>
+	</string>
 </string_table>

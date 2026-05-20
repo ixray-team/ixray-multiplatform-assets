@@ -186,4 +186,40 @@
 	<string id="st_gar_find_flesh_up_fh_scientific_outfit_text">
 		<text>Limpid, el técnico bandido, puede hacer cualquier tipo de modificación, pero para instalar un módulo de respiración de ciclo cerrado en un traje necesita información adicional.</text>
 	</string>
+	<string id="gar_quest_redemption_name">
+		<text>Recupera tus objetos</text>
+	</string>
+	<string id="gar_quest_redemption_text">
+		<text>Recupera los objetos que te cogieron los bandidos cerca del mercadillo.</text>
+	</string>
+	<string id="gar_recover_item_1_name">
+		<text>Recupera el Chaser 13</text>
+	</string>
+	<string id="gar_recover_item_1_text">
+		<text>Bueno, ésta es la historia: uno de nuestros colegas fichó a un excavador bastante malo y se lo llevó a dar un paseo entre varias anomalías. La diñaron en un Gravi y, no es que me importe demasiado, pero a ese tipo le prestamos un Chaser para el trabajo y ahí sigue. Si pudieras recuperarlo, estaría muy bien.</text>
+	</string>
+	<string id="gar_recover_item_2_name">
+		<text>Encuentra el arma modificada</text>
+	</string>
+	<string id="gar_recover_item_2_text">
+		<text>Eh, hermano, hay algo que puedes hacer por mí. Pasamos por casa de Limpid, que estaba haciendo un arma realmente buena para algún tipo, con todo tipo de modificaciones y esas mierdas. Bueno, pues ese tipo y nuestro jefe no se llevan demasiado bien, así que Yoga nos dijo que nos deshiciéramos de él. Así que lo llevamos hasta unas cuantas anomalías y se acabó, pero esa arma sigue allí. Tráemela, y te juro que Tooth no te escatimará la recompensa.</text>
+	</string>
+	<string id="gar_recover_item_3_name">
+		<text>Entrega una botella de vodka cosacos</text>
+	</string>
+	<string id="gar_recover_item_3_text">
+		<text>Colega, ayúdame y tráeme algo de priba, ¿quieres? Pero que no sea esa mierda que beben todos los demás. Escondí un par de botellas de las buenas en un lugar guapo, pero ahora no puedo ir ahí. Me las coges, y asegúrate de que nadie te vea, ¿vale?</text>
+	</string>
+	<string id="gar_recover_item_4_name">
+		<text>Recupera la chaqueta del novato</text>
+	</string>
+	<string id="gar_recover_item_4_text">
+		<text>Un chico del Cordón se pasó por aquí el otro día, uno de esos molestos novatos. Les habló a Dios y a su madre de su chaqueta mágica, de la que decía que podía aguantar cualquier anomalía. Dicen que ni cuando los bandidos lo capturaron se pudo callar, hasta que lo encerraron en un Gravi. Bueno, pues el pobre cabrón tenía razón: la chaqueta sobrevivió a la anomalía sin sufrir un rasguño. Me vendría bien tenerla, si consigues traérmela.</text>
+	</string>
+	<string id="gar_recover_item_5_name">
+		<text>Recupera la pistola grabada</text>
+	</string>
+	<string id="gar_recover_item_5_text">
+		<text>Sí, podrías ayudarme con algo. Yo tenía una pistola, nada especial, pero me la había dado mi abuelo. La cagué y la perdí... Nos emborrachamos y decidimos dar un susto a los bandidos por la noche. Cuando se puso el sol, nos acercamos a un campamento que habíamos visto de día y empezamos a imitar voces de mutantes. Resultó que no eran bandidos, sino dos chupasangres, que nos atacaron. Apenas conseguí salir con vida, y ahí se me cayó la pistola.</text>
+	</string>
 </string_table>

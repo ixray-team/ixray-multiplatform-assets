@@ -1005,4 +1005,16 @@
 	<string id="gar_bandit_bookmaker_hello_61">
 		<text>Tu te débrouilles pas mal du tout avec un flingue. Tu devrais jouer pour de l'argent. T'aurais pas envie de tirer quelques balles de plus ?</text>
 	</string>
+	<string id="gar_bandit_robbery_12">
+		<text>Bon, sors ton PDA, il est temps de partager le fric ! Et va surtout pas croire que ça vaut pas le coup ! Tu nous paies pour qu'on maintienne l'ordre dans la Décharge, pigé ?</text>
+	</string>
+	<string id="gar_bandit_robbery_121">
+		<text>Eh bien, si c'est pour le maintien de l'ordre... Voilà !</text>
+	</string>
+	<string id="gar_bandit_robbery_1211">
+		<text>Hé, t'es pas con pour un loser ! Bon, je vais prendre tout ça, ok ? Tu peux garder le matos, on est pas des animaux, non plus, hein ! On te laisse tes flingues et tout le reste. Tu nous remercieras quand tu croiseras des mutants, tu verras. Bon, assez bavarder, tire-toi maintenant !</text>
+	</string>
+	<string id="gar_bandit_robbery_12111">
+		<text>Et euh... prends soin de toi !</text>
+	</string>
 </string_table>

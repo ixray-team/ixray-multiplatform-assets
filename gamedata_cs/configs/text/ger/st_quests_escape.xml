@@ -231,4 +231,28 @@
 	<string id="st_esc_find_flesh_up_bd_wincheaster1300_text">
 		<text>Der Techniker der Stalker kann ein Gerät zusammenbauen, dass die Zielgenauigkeit von Repetierschrotflinten verbessert, aber ihm fehlen noch einige Informationen.</text>
 	</string>
+	<string id="esc_recover_item_1_name">
+		<text>Liefere den "Zauberwodka" ab</text>
+	</string>
+	<string id="esc_recover_item_1_text">
+		<text>Es gab mal einen Chemiker hier in der Zone. Na ja, er war kein echter Chemiker oder so etwas, aber hat einen "Zauberwodka" hergestellt. Das Zeug war wirklich unglaublich... ein paar Schluck davon und alles war vergessen: die Zone, Mutanten, Anomalien - einfach alles! Die Angst war wie weggeblasen und dir war es total egal, wer du warst und was mit dir geschah. Das Zeug hat zwar ein Vermögen gekostet, aber das war es wert. Und dann hat jemand eines Tages den Chemiker vergiftet... aus Neid oder Gier oder so, wer weiß das schon? Sie haben ihn vergiftet und dadurch den Wodkanachschub abgeschnitten! Aber ich habe gehört, dass der Chemiker ein paar geheime Lager in der Zone hatte, und ich weiß ganz zufällig, wo sich eines befindet. Bringe mir eine Flasche von diesem Zauberwodka und ich werde dich fürstlich belohnen!</text>
+	</string>
+	<string id="esc_recover_item_2_name">
+		<text>Besorge das AKM-47/2-Unikat</text>
+	</string>
+	<string id="esc_recover_item_2_text">
+		<text>Ich sammle alte Waffen, Kumpel - und habe mittlerweile so viele, dass ich ein ganzes Museum damit füllen könnte. Mir fehlt nur noch das AKM-47/2-Unikat. Diese AKM ist nicht nur eine gute Waffe, es handelt sich dabei um ein sehr seltenes Gewehr, mit dem Mutanten abgeknallt wurden, die du noch nie gesehen hast. Der Besitzer war nicht nur ein toller Schütze... nein, er ist eine Legende in der Zone und schaffte es immer, sich aus brenzligen Situationen zu retten und aus jeder Anomalie zu entkommen. Ich habe lange Zeit nichts mehr über diesen Stalker gehört, aber kürzlich habe ich Neuigkeiten über die Waffe erhalten: Sie ist an einem geheimen Ort versteckt, der ziemlich schwer zu erreichen ist. Bringe mir dieses Gewehr, Söldner.</text>
+	</string>
+	<string id="esc_recover_item_3_name">
+		<text>Bringe den "Glücksdetektor" zurück</text>
+	</string>
+	<string id="esc_recover_item_3_text">
+		<text>Hilf mir, Söldner! Vor kurzem habe ich mir einen neuen, besseren Detektor zugelegt und zur Feier den alten in eine Anomalie geworfen. Das Problem ist, dass mir dieser neue Detektor kein Glück bringt - schon seit Wochen habe ich kein Artefakt mehr gefunden. Das Ding ist schon ganz OK, aber ich möchte dennoch den alten Detektor wiederhaben. Bringe ihn mir zurück und du wirst es nicht bereuen, Söldner.</text>
+	</string>
+	<string id="esc_recover_item_4_name">
+		<text>Besorge ein Spezial-Medkit</text>
+	</string>
+	<string id="esc_recover_item_4_text">
+		<text>Söldner, ein alter Freund von mir ist erst vor kurzem den Banditen auf der Müllhalde entkommen. Diese Mistkerle haben ihn nur aus Spaß durch Anomalien am Bahndamm gejagt... die Strahlung dort ist fast schon tödlich! Er kann sich kaum noch bewegen und gewöhnliche Strahlungsmedikamente nützen nichts mehr - er braucht etwas Stärkeres. Es heißt, dass die Armeejungs besondere Medkits haben, die helfen sollen. Wenn du mir eines dieser Medkits beschaffen könntest, wäre ich dir unglaublich dankbar.</text>
+	</string>
 </string_table>

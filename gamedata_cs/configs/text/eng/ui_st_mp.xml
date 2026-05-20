@@ -493,7 +493,7 @@
 		<text>Only one active vote allowed</text>
 	</string>
 	<string id="mp_si_battleye">
-		<text>Battleye</text>
+		<text>BattlEye</text>
 	</string>
 	<string id="mp_si_max_ping">
 		<text>Max ping</text>

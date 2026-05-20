@@ -187,7 +187,7 @@
 		<text>B³¹d po³¹czenia: nieprawid³owe has³o</text>
 	</string>
 	<string id="ui_st_conn_new_patch">
-		<text>Dostêpna jest nowa poprawka.\n Wersja: %s\n Lokalizacja: %s\nCzy chcesz j¹ teraz pobraæ?</text>
+		<text>Nowa poprawka, wersja: %s\n Lokalizacja: %s\nCzy chcesz j¹ teraz pobraæ?</text>
 	</string>
 	<string id="ui_st_conn_no_new_patch">
 		<text>Brak nowych poprawek.</text>
@@ -314,5 +314,8 @@
 	</string>
 	<string id="lim_bandit_ambush_spot">
 		<text>Zasadzka bandytów</text>
+	</string>
+	<string id="ui_st_kicked_by_battleye">
+		<text>wykopany przez BattlEye:</text>
 	</string>
 </string_table>
