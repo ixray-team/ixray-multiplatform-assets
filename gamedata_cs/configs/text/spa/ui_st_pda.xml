@@ -406,7 +406,7 @@
 		<text>Comerciante</text>
 	</string>
 	<string id="st_ui_pda_legend_vip">
-		<text>Personaje importante</text>
+		<text>Personajes importantes</text>
 	</string>
 	<string id="ui_logs_center_caption">
 		<text>Historial de mensajes</text>
@@ -671,14 +671,5 @@
 	</string>
 	<string id="st_target">
 		<text>Objetivo</text>
-	</string>
-	<string id="st_technic_specialization">
-		<text>Especialización:</text>
-	</string>
-	<string id="st_technic_specialization_none">
-		<text>ninguna.</text>
-	</string>
-	<string id="hospital">
-		<text>Hospital desierto</text>
 	</string>
 </string_table>

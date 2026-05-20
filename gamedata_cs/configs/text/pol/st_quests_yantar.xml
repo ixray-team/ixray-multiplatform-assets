@@ -108,16 +108,4 @@
 	<string id="yan_repair_defend_text">
 		<text>Lewus nakaza³ wszystkim zajêcie pozycji. Pod¹¿aj za stalkerem na dach hangaru i zajmij pozycjê.</text>
 	</string>
-	<string id="yan_recover_item_1_name">
-		<text>SprowadŸ Szkar³atny Kwiat</text>
-	</string>
-	<string id="yan_recover_item_1_text">
-		<text>Pomó¿ mi, najemniku. W Zonie mo¿na znaleŸæ artefakt okreœlany mianem Szkar³atnego Kwiatu. Stalkerowi siê nie przyda, ale paniusie nie mog¹ siê na niego napatrzeæ. Szykuje mi siê randka - dziêki temu cacuszku na pewno sobie pociupciam. Dlatego wci¹¿ jestem w Zonie; Kwiat widziano w tej okolicy. Artefakt wygl¹da jak magiczny kwiatek, który œwieci dniem i noc¹. Przynieœ mi go, a godnie ciê wynagrodzê!</text>
-	</string>
-	<string id="yan_recover_item_2_name">
-		<text>Zwróæ pami¹tkowy granat</text>
-	</string>
-	<string id="yan_recover_item_2_text">
-		<text>Mam potrzebê, najemniku. Straci³em pami¹tkê wygl¹daj¹c¹ jak granat... tyle, ¿e to nie granat. No, treningowy. Odzyskaj go dla mnie... Chyba wiem, gdzie go szukaæ - by³em w fabryce, gdy coœ siê sta³o z moim mózgiem - prawie zapomnia³em, kim jestem! Ockn¹³em siê tutaj; granat powinien byæ wci¹¿ w fabryce. Przynieœ mi go!</text>
-	</string>
 </string_table>

@@ -672,13 +672,4 @@
 	<string id="st_target">
 		<text>Target</text>
 	</string>
-	<string id="st_technic_specialization">
-		<text>Specialization:</text>
-	</string>
-	<string id="st_technic_specialization_none">
-		<text>none</text>
-	</string>
-	<string id="hospital">
-		<text>Deserted hospital</text>
-	</string>
 </string_table>

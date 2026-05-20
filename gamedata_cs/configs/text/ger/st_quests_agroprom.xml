@@ -174,28 +174,4 @@
 	<string id="agr_attack_monster_group_text">
 		<text>Von Zeit zu Zeit greifen kleine Rudel von Mutanten die Stalker an der Fabrik an. Um ihre Angriffe zu stoppen, töte die Monster in ihrem Unterschlupf nördlich der Fabrik.</text>
 	</string>
-	<string id="agr_recover_item_1_name">
-		<text>Bringe dem Wächter die Schrotflinte zurück</text>
-	</string>
-	<string id="agr_recover_item_1_text">
-		<text>Als wir vor ein paar Tagen auf einer Mission waren, um ein Gebiet von Mutanten zu säubern, sind wir an einen besonders Großen geraten. Der Kampf hat mindestens eine Stunde gedauert und uns ist langsam die Munition ausgegangen - aber das Monster hat nicht im Traum daran gedacht, den Löffel abzugeben! Ich habe dann schließlich den Befehl zum Rückzug gegeben, bin aber noch dageblieben, um die Jungs zu decken. Ich habe meine restliche Munition verschossen und am Ende sogar meine Schrotflinte auf den Mutanten geworfen. Und was denkst du, was dann passiert ist? Dieses Scheißding hat mich ignoriert und stattdessen angefangen, meine Flinte zu fressen! Bringe mir die Schrotflinte zurück, immerhin hat sie mir das Leben gerettet.</text>
-	</string>
-	<string id="agr_recover_item_2_name">
-		<text>Bringe den PDA mit geheimen Informationen zurück</text>
-	</string>
-	<string id="agr_recover_item_2_text">
-		<text>Söldner, ich wurde auf der Müllhalde von Banditen überfallen. Sie haben mir alles abgenommen: Geld, Waffen, Munition und meine medizinischen Vorräte. Und das Schlimmste ist: Sie haben sich auch meinen PDA geschnappt, auf dem Informationen über den Standort von Banditen auf der Müllhalde gespeichert sind. Wenn ich den PDA nicht bei Krylow abliefere, bringt er mich um. Hilf mir bitte, das Ding zurückzubekommen!</text>
-	</string>
-	<string id="agr_recover_item_3_name">
-		<text>Bringe den Koffer des Wächters zurück</text>
-	</string>
-	<string id="agr_recover_item_3_text">
-		<text>Söldner, als die Mutanten im Untergrund auftauchten, mussten wir unsere Stellungen aufgeben und uns zurückziehen. Ich war gezwungen, meinen Koffer mit Waffen, Munition, Medikamenten und meinem Detektor dort zurückzulassen... hatte keine Zeit, daran zu denken - ich musste meinen eigenen Arsch retten. Bringe mir bitte den Koffer zurück.</text>
-	</string>
-	<string id="agr_recover_item_4_name">
-		<text>Bringe das Sturmgewehr des Wächters zurück</text>
-	</string>
-	<string id="agr_recover_item_4_text">
-		<text>Ich habe mich mit einem Ortskundigen über ein total unwichtiges Thema gestritten und jetzt will er mich nicht mehr zu den Stalkern führen! Er sagt, dass ich ihn in Ruhe lassen soll. Und ich selbst finde es nicht gerade prickelnd, alleine in der Zone herumzuwandern. Das Problem ist: Bei meinem Besuch dort letzte Woche habe ich meine Waffe bei den Stalkern gelassen. Einer unserer Jungs war befördert worden und wir feierten das mit reichlich Wodka. Ich war ziemlich betrunken... die Jungs konnten mich gerade noch zur Kaserne zurücktragen, aber mein Gewehr haben sie vergessen. Kannst du es mir zurückbringen? Ohne eine Waffe bin ich kein richtiger Soldat.</text>
-	</string>
 </string_table>

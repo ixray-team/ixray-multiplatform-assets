@@ -144,22 +144,4 @@
 	<string id="red_take_red_forest_map_pda_text">
 		<text>La PDA de un stalker muerto sigue activa. Puede que contenga información valiosa sobre el Bosque Rojo. Recoge esa PDA.</text>
 	</string>
-	<string id="red_recover_item_1_name">
-		<text>Recupera la PDA con el mapa del Bosque Rojo</text>
-	</string>
-	<string id="red_recover_item_1_text">
-		<text>Mercenario, nos vendría bien tu ayuda. Necesitamos un mapa preciso del Bosque Rojo. He oído de varios grupos de stalkers que intentaron explorarlo, pero casi todos desaparecieron. Encuentra sus notas y tráemelas.</text>
-	</string>
-	<string id="red_recover_item_2_name">
-		<text>Recupera la ametralladora del tanque</text>
-	</string>
-	<string id="red_recover_item_2_text">
-		<text>Tengo un trabajo para ti. Guardabosques me ha dicho que hay un viejo tanque soviético en el corazón del bosque. Aparte de que apareció tras la potente emisión, nadie sabe cómo llegó allí. La cuestión es que el tanque está casi intacto. Obviamente, no podrás traerlo hasta aquí, pero basta con que desmontes la ametralladora que lleva. Tráeme la ametralladora y te recompensaré bien por tus desvelos.</text>
-	</string>
-	<string id="red_recover_item_3_name">
-		<text>Recupera el dispositivo experimental</text>
-	</string>
-	<string id="red_recover_item_3_text">
-		<text>Hay algo que puedes traerme. Estábamos probando un prototipo para los científicos, un pequeño dispositivo utilizado para medir la fuerza de las anomalías. De momento no sirve de mucho: les costó dos días enseñarnos a usarlo. Recogíamos información en la antigua mina cuando algo ocurrió, algo nos atacó... Empezó a tirarnos toda clase de mierdas, y yo fui el único que salí con vida. El aparato se quedó allí, con los chicos; se hundieron en las anomalías y ya no salieron de allí. Esa cosa que nos atacó probablemente siga allí abajo, por lo que no será fácil recuperarla. Pero, si lo consigues, ganarás una buena recompensa.</text>
-	</string>
 </string_table>

@@ -406,7 +406,7 @@
 		<text>Händler</text>
 	</string>
 	<string id="st_ui_pda_legend_vip">
-		<text>Wichtiger Charakter</text>
+		<text>Wichtige Charaktere</text>
 	</string>
 	<string id="ui_logs_center_caption">
 		<text>Nachrichtenverlauf</text>
@@ -671,14 +671,5 @@
 	</string>
 	<string id="st_target">
 		<text>Ziel</text>
-	</string>
-	<string id="st_technic_specialization">
-		<text>Spezialisierung:</text>
-	</string>
-	<string id="st_technic_specialization_none">
-		<text>keine</text>
-	</string>
-	<string id="hospital">
-		<text>Verlassenes Krankenhaus.</text>
 	</string>
 </string_table>

@@ -154,7 +154,7 @@
 		<text>Get ready!</text>
 	</string>
 	<string id="crowkiller_game_runned_out">
-		<text>You left the area!</text>
+		<text>You have left the area!</text>
 	</string>
 	<string id="crowkiller_game_time_is_out">
 		<text>Time's up!</text>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="val_bandit_spy_name">
-		<text>Schalte die potentielle Gefahr an der Tankstelle aus</text>
+		<text>Finde heraus, was an der Tankstelle passiert ist</text>
 	</string>
 	<string id="val_bandit_spy_text">
-		<text>In der Nacht wurden ein paar schwache Lichter bei der verlassenen Tankstelle gesehen. Untersuche den Ort und schalte jede potentielle Gefahr aus.</text>
+		<text>In der Nacht wurden ein paar schwache Lichter bei der verlassenen Tankstelle gesehen. Das Gebдude ist hochgradig radioaktiv. Sieh nach, was bei der Tankstelle los ist.</text>
 	</string>
 	<string id="val_bring_to_fang_name">
 		<text>Folge dem Signal von Fangs PDA</text>
@@ -91,10 +91,10 @@
 		<text>Hilf den Freiheitlern dabei, die Sцldner auszuschalten.</text>
 	</string>
 	<string id="val_kill_flesh_name">
-		<text>Tцte den Pseudohund</text>
+		<text>Zerstцre den Monsterunterschlupf</text>
 	</string>
 	<string id="val_kill_flesh_text">
-		<text>Tцte den Pseudohund, der in der Nдhe der Freiheitsbasis fьr Дrger sorgt.</text>
+		<text>Zerstцre den Monsterunterschlupf.</text>
 	</string>
 	<string id="val_kill_komendant_name">
 		<text>Tцte den Kommandanten</text>
@@ -176,23 +176,5 @@
 	</string>
 	<string id="st_val_find_flesh_up_cd_svu_text">
 		<text>Jar, der Techniker, benцtigt Informationen ьber die Herstellung von Mьndungsbremsen fьr durchschlagskrдftige Scharfschьtzengewehre. Wenn er sie hat, ist er in der Lage, sie herzustellen.</text>
-	</string>
-	<string id="val_recover_item_1_name">
-		<text>Besorge das 8fach-Zielfernrohr</text>
-	</string>
-	<string id="val_recover_item_1_text">
-		<text>Hier ist vor kurzem ein Kerl mit einem richtig guten Zielfernrohr aufgetaucht... so ein Ding findet man sonst nirgendwo in der Zone. Ich habe alles versucht, konnte ihn aber nicht dazu bringen, es mir zu verkaufen. Irgendwann ist er dann schlieЯlich mit einer unserer Patrouillen zum Kordon aufgebrochen. Die Patrouille hat es leider nicht mehr zurьckgeschafft, daher nehme ich an, dass dieser Stalker ebenfalls irgendwo dort seinen letzten Frieden gefunden hat. Bringe mir dieses Zielfernrohr, damit ich es Tschechow schenken kann... vielleicht befцrdert er mich dann!</text>
-	</string>
-	<string id="val_recover_item_2_name">
-		<text>Bringe das USB-Laufwerk mit Filmen zurьck</text>
-	</string>
-	<string id="val_recover_item_2_text">
-		<text>Mein Freund, du musst mir helfen! Ganja und ich haben uns in aller Ruhe einen Film auf seinem Laptop angeschaut... leider hat uns der Kommandant dabei erwischt und dann angefangen, mich ьber meine Pflichten und so zu belehren. Er hдtte auch beinahe den Laptop auf den Boden geschleudert, aber wir haben ihn doch noch aufhalten kцnnen. Also hat er sich das USB-Laufwerk geschnappt und es ьber den Zaun in das radioaktive Gebiet geworfen. Bringe das Laufwerk zurьck und Ganja wird dich belohnen.</text>
-	</string>
-	<string id="val_recover_item_3_name">
-		<text>Bringe Seregas Gitarre zurьck</text>
-	</string>
-	<string id="val_recover_item_3_text">
-		<text>Irgendjemand hat Seregas Gitarre gestohlen, kannst du dir das vorstellen? Er ist der Einzige, der hier Gitarre spielen kann, und anders als alle anderen spielt er sogar gut. Wir haben dann recht schnell herausgefunden, wer der Dieb ist, aber der Wichser hat die Gitarre irgendwo versteckt. Bringe bitte diese Gitarre zurьck, denn Serega weigert sich, eine andere anzufassen. OK?</text>
 	</string>
 </string_table>

@@ -10,7 +10,7 @@
 		<text>Alguien no para de atacarnos. Y son muy profesionales. No tuvimos ninguna posibilidad. Controlamos todos los caminos que conducen al Valle Oscuro, pero no parece que eso detenga los ataques. Solo puedes relajarte en la base. Si tienes preguntas sobre Fang, la base de Libertad es el mejor lugar para hacerlas.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_51">
-		<text>¿Así que ese perro te ha hecho sudar?</text>
+		<text>¿Cómo va eso, mercenario?</text>
 	</string>
 	<string id="val_freedom_trader_hello_dialog_11">
 		<text>Eh, colega, ¿qué necesitas hoy?</text>
@@ -139,7 +139,7 @@
 		<text>¿Tienes algún trabajo para mí?</text>
 	</string>
 	<string id="val_freedom_barmen_questions_dialog_1">
-		<text>Desde hace un par de noches he estado viendo una especie de luz que viene del edificio abandonado de la gasolinera. Podría ser una antorcha o un fuego. ¿Por qué no echar un vistazo? Vamos, que si es algo maligno, podemos pasar. Pero, si se trata de esos cabrones del vertedero, tendremos que encargarnos de ellos. </text>
+		<text>Desde hace un par de noches he estado viendo una especie de luz que viene del edificio abandonado en la estación de servicio. Supongo que podría ser una antorcha o un fuego. El edificio es muy radiactivo, así que nuestros muchachos no se acercan a él. Oye, tú tienes un buen traje, ¿por qué no vas a echar un vistazo? A lo mejor hay fantasmas...</text>
 	</string>
 	<string id="val_freedom_barmen_questions_dialog_11">
 		<text>Está bien, iré a ver qué pasa. </text>
@@ -202,13 +202,13 @@
 		<text>Vale, ¿qué tengo que hacer?</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_11111111">
-		<text>Un pseudo perro tiene su guarida cerca de nuestra base y nos está amargando la vida. ¡Nos ataca en cuanto huele la comida del bar! Los chicos están nerviosos y asustados por ese maldito bicho. Ocúpate de este problema y, cuando vuelvas, hablamos.</text>
+		<text>Unos monstruos tienen su guarida cerca de nuestra base y nos están amargando la vida. ¡Nos atacan en cuanto huelen la comida del bar! Los chicos están nerviosos y asustados por esos estúpidos cerdos mutantes. Ocúpate de este problema y, cuando vuelvas, hablamos.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_111111111">
 		<text>Considéralo hecho.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_511">
-		<text>No importa. Lo que cuenta es que el bicho está muerto.</text>
+		<text>He matado a los mutantes.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_5111">
 		<text>Bien. Tu siguiente tarea es un poco más difícil. Mira, tenemos que llevar esta munición a nuestros muchachos de una remota avanzadilla. Ve a ver a Ashot. Te dirá exactamente lo que tienes que llevar y adónde.</text>

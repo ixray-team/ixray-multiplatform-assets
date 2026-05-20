@@ -144,22 +144,4 @@
 	<string id="red_take_red_forest_map_pda_text">
 		<text>Der PDA eines toten Stalkers ist immer noch aktiv. Er könnte wertvolle Informationen über den Roten Wald enthalten. Nimm den PDA.</text>
 	</string>
-	<string id="red_recover_item_1_name">
-		<text>Besorgen den PDA mit einer Karte des Roten Waldes</text>
-	</string>
-	<string id="red_recover_item_1_text">
-		<text>Hey, Söldner, wir könnten deine Hilfe gebrauchen. Wir brauchen eine genaue Karte des Roten Waldes. Ich habe mitbekommen, dass schon mehrere Gruppen von Stalkern ihr Glück im Roten Wald versucht hätten, aber die meisten von ihnen seien verschwunden. Finde ihre Aufzeichnungen und bringe sie zu mir.</text>
-	</string>
-	<string id="red_recover_item_2_name">
-		<text>Besorge das Panzermaschinengewehr</text>
-	</string>
-	<string id="red_recover_item_2_text">
-		<text>Ich hätte eine Auftrag für dich: Der Förster hat mir verraten, dass sich tief im Wald ein alter sowjetischer Panzer befindet. Niemand hat eine Ahnung, wie er dahin gelangen konnte, aber es heißt, dass das Ding nach einer starken Emission aufgetaucht wäre. Das Tolle ist: Der Panzer ist noch intakt. Man kann ihn wohl nicht fahren, aber das Maschinengewehr, das noch vorhanden ist, kann man sicher abmontieren. Wenn du mir das MG bringst, werde ich dich gut dafür bezahlen.</text>
-	</string>
-	<string id="red_recover_item_3_name">
-		<text>Bringe das experimentelle Gerät zurück</text>
-	</string>
-	<string id="red_recover_item_3_text">
-		<text>Es gibt da etwas, was du für mich tun kannst. Wir haben mal einen Prototypen für die Wissenschaftler getestet - ein kleines Gerät zum Messen der Stärke von Anomalien. Das Ding ist heute nicht mehr wirklich von Nutzen... sie haben ganze zwei Tage alleine dafür gebraucht, uns zu zeigen, wie man damit umgeht. Auf jeden Fall waren wir in der alten Mine und haben Daten gesammelt, als etwas passierte... irgendetwas griff uns an... alle möglichen Dinge flogen auf einmal auf uns zu. Leider habe ich den Vorfall als Einziger überlebt. Das Gerät blieb dort unten zurück, bei den anderen Jungs. Das... Ding, das uns angegriffen hat, dürfte ebenfalls noch dort sein, deswegen wird es nicht einfach werden, das Gerät in die Hände zu bekommen. Aber wenn du es dennoch schaffen solltest, werde ich dich gut dafür bezahlen.</text>
-	</string>
 </string_table>

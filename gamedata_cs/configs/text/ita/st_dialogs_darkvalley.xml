@@ -10,7 +10,7 @@
 		<text>Qualcuno ci attacca di continuo. E sicuramente sono anche professionisti... non abbiamo grandi possibilità. Noi controlliamo le strade che portano alla Valle Oscura, ma questo sembra non rallentare gli attacchi: possiamo stare tranquilli solo nella base. Se hai delle domande su Fang, fai un giro alla base della Freedom.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_51">
-		<text>Quel cane ti ha fatto dannare?</text>
+		<text>Come va, mercenario?</text>
 	</string>
 	<string id="val_freedom_trader_hello_dialog_11">
 		<text>Ehi, amico! Di che cos'hai bisogno oggi?</text>
@@ -139,7 +139,7 @@
 		<text>Qualche lavoretto da fare?</text>
 	</string>
 	<string id="val_freedom_barmen_questions_dialog_1">
-		<text>Da un paio di notti vedo provenire della luce dall'edificio abbandonato alla stazione di rifornimento. Potrebbero essere sigarette o torce, secondo me. Sarebbe meglio dare un'occhiata. Se sono i soliti mostri possiamo cavarcela facilmente, ma se sono quei bastardi della Discarica... beh, dobbiamo fare qualcosa.</text>
+		<text>Da un paio di notti vedo provenire della luce dall'edificio abbandonato alla stazione di rifornimento. Potrebbero essere sigarette o torce, secondo me. L'edificio è particolarmente radioattivo, per cui i nostri se ne stanno il più alla larga possibile. Di' un po', visto che hai una bella tuta addosso... perché non vai a dare un'occhiata? Chissà, magari ci sono i fantasmi...</text>
 	</string>
 	<string id="val_freedom_barmen_questions_dialog_11">
 		<text>OK, andrò a dare un'occhiata.</text>
@@ -202,13 +202,13 @@
 		<text>OK, che devo fare?</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_11111111">
-		<text>Uno pseudocane si è rintanato vicino alla base e ci sta facendo passare un brutto momento. Se gli arriva l'odore del cibo cucinato al bar, è meglio mettersi a correre! I nostri sono tutti nervosi per via di quel mostro. Se ci risolverai questa faccenda, al tuo ritorno potremo parlare d'affari...</text>
+		<text>I mostri hanno fatto la tana vicino alla base e ci stanno facendo passare un brutto momento. Se gli arriva l'odore della carne dalle cucine del bar, è meglio mettersi a correre! I nostri sono tutti nervosi per via di questi stupidi carnivori. Se ci risolverai questa faccenda, al tuo ritorno potremo parlare d'affari...</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_111111111">
 		<text>Consideralo già fatto.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_511">
-		<text>Fa niente. L'importante è che quella bestia sia morta.</text>
+		<text>I mutanti non esistono più.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_5111">
 		<text>Perfetto. Il tuo prossimo incarico è un po' più difficile. Ascolta, dobbiamo consegnare queste munizioni ai nostri all'avamposto più lontano. Vai da Bossolo, ti dirà più esattamente di che si tratta e dove devi portarle.</text>

@@ -1005,16 +1005,4 @@
 	<string id="gar_bandit_bookmaker_hello_61">
 		<text>Gut geschossen, Kumpel. Du solltest dir mal überlegen, um Geld zu spielen. Lust auf noch ein paar Schüsse?</text>
 	</string>
-	<string id="gar_bandit_robbery_12">
-		<text>Raus mit dem PDA... wir wollen die Kasse klingeln lassen. Aber denke ja nicht, dass das umsonst wäre - du bezahlst uns, damit wir die Ordnung auf der Müllhalde aufrechterhalten, klar?</text>
-	</string>
-	<string id="gar_bandit_robbery_121">
-		<text>Na ja, wenn es für die Ordnung ist, will ich mal nicht so sein.</text>
-	</string>
-	<string id="gar_bandit_robbery_1211">
-		<text>Du bist echt ein kluges Kerlchen! Also, ich nehme dann das alles hier, ja? Du kannst die Ausrüstung behalten - wir sind ja keine Unmenschen, dass wir deine Waffen und so stehlen würden. Du wirst uns schon noch dafür danken, wenn du auf Mutanten stößt, glaub mir. OK, genug geschwätzt - verzieh dich jetzt von hier.</text>
-	</string>
-	<string id="gar_bandit_robbery_12111">
-		<text>Ihr... passt auf euch auf!</text>
-	</string>
 </string_table>

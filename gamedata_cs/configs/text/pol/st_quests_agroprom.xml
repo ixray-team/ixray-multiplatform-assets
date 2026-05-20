@@ -174,28 +174,4 @@
 	<string id="agr_attack_monster_group_text">
 		<text>Od czasu do czasu ma³e grupki mutantów atakuj¹ stalkerów w fabryce. Zniszczenie potworów w ich norze na pó³noc od fabryki mo¿e przerwaæ te ataki.</text>
 	</string>
-	<string id="agr_recover_item_1_name">
-		<text>Zwróæ strzelbê cz³onkowi "Powinnoœci"</text>
-	</string>
-	<string id="agr_recover_item_1_text">
-		<text>Mieliœmy oczyœciæ pewien obszar z mutantów, ale wpadliœmy na olbrzymiego skurczybyka. Walczyliœmy przynajmniej godzinê i koñczy³a siê nam amunicja, a bestia by³a daleka od œmierci. Kaza³em ch³opaków siê wycofaæ i zosta³em, aby os³oniæ ich odwrót; wywali³em wszystkie pociski, po czym rzuci³em drania strzelb¹. Co ciekawe, sukinkot zacz¹³ ¿reæ strzelbê, a mnie zignorowa³. Odzyskaj dla mnie tê broñ - uratowa³a mi ¿ycie!</text>
-	</string>
-	<string id="agr_recover_item_2_name">
-		<text>Zwróæ PDA z tajnymi informacjami</text>
-	</string>
-	<string id="agr_recover_item_2_text">
-		<text>Na Wysypisku napadli mnie bandyci. Zabrali mi wszystko - gotówkê, broñ, amunicjê i leki. Co gorsza, zabrali mi te¿ PDA z informacjami o miejscach zajêtych na Wysypisku przez bandytów. Jeœli nie dostarczê ich Kry³owowi, pogrzebie mnie ¿ywcem. Pomó¿ mi odzyskaæ moje PDA!</text>
-	</string>
-	<string id="agr_recover_item_3_name">
-		<text>Zwróæ walizkê cz³onkowi "Powinnoœci"</text>
-	</string>
-	<string id="agr_recover_item_3_text">
-		<text>Najemniku - gdy mutanty zaczê³y siê zapuszczaæ pod ziemiê, musieliœmy wycofaæ siê z naszych pozycji. Zostawi³em tam walizkê z broni¹, amunicj¹, lekami i detektorem... Trzeba siê by³o ratowaæ. Pomó¿ mi odzyskaæ walizkê.</text>
-	</string>
-	<string id="agr_recover_item_4_name">
-		<text>Zwróæ karabin szturmowy cz³onkowi "Powinnoœci"</text>
-	</string>
-	<string id="agr_recover_item_4_text">
-		<text>Pok³óci³em siê o jakieœ bzdury z przewodnikiem i teraz nie chce mnie zaprowadziæ do stalkerów! Twierdzi, ¿e nie chce mnie na oczy widzieæ - a mi nie uœmiecha siê samotne wa³êsanie po Zonie. Zostawi³em u stalkerów spluwê; jeden z naszych dosta³ awans i œwiêtowaliœmy to. NieŸle siê schla³em - ch³opaki ledwo odstawili mnie do koszar, ale ju¿ o karabinie zapomnieli. Przyniesiesz mi go? Bez broni dupa ze mnie, a nie ¿o³nierz.</text>
-	</string>
 </string_table>

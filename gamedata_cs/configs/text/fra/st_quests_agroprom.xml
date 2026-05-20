@@ -174,28 +174,4 @@
 	<string id="agr_attack_monster_group_text">
 		<text>Les mutants attaquent l'usine par petits groupes de temps en temps. Tuer ces monstres dans leur nid au nord de l'usine devrait faire cesser ces attaques.</text>
 	</string>
-	<string id="agr_recover_item_1_name">
-		<text>Rapporter le fusil à pompe au membre du Devoir</text>
-	</string>
-	<string id="agr_recover_item_1_text">
-		<text>L'autre jour, on avait pour mission d'éliminer tous les mutants d'un secteur quand on est tombé sur une bestiole... t'as jamais vu ça ! Le combat a duré au moins une heure et on était à court de munitions, mais le bestiau, il voulait pas crever. J'ai ordonné aux gars de battre en retraite et je suis resté en arrière, histoire de les couvrir. J'ai fini toutes mes cartouches et j'ai balancé mon fusil en plein sur cette enflure. Et devine ce qui s'est passé ? Ce tas de merde s'est mis à bouffer mon arme et m'a complètement ignoré ! Faut que tu me rapportes ce fusil ! Il m'a sauvé la vie !</text>
-	</string>
-	<string id="agr_recover_item_2_name">
-		<text>Rapporter le PDA contenant des informations secrètes</text>
-	</string>
-	<string id="agr_recover_item_2_text">
-		<text>Je me suis fait braquer par des bandits à la Décharge. Ils m'ont tout piqué : mon fric, mes flingues, mes munitions et mes médocs. Mais le pire, c'est qu'ils ont aussi pris mon PDA qui contenait des infos sur les endroits où crèchent les bandits dans la décharge. Si je l'apporte pas à Krylov, il va m'enterrer vivant ! Aide-moi à le récupérer !</text>
-	</string>
-	<string id="agr_recover_item_3_name">
-		<text>Rapporter la mallette du membre de la Liberté</text>
-	</string>
-	<string id="agr_recover_item_3_text">
-		<text>Quand les mutants ont commencé à se pointer dans les souterrains, on a été obligés d'abandonner nos positions et de se replier. J'ai dû laisser ma mallette, mes flingues, mes munitions, mes médocs et mon détecteur sur place. J'avais pas le temps de réfléchir... Fallait que je sauve ma peau ! Faudrait que tu m'aides à récupérer cette mallette !</text>
-	</string>
-	<string id="agr_recover_item_4_name">
-		<text>Rapporter le fusil d'assaut au membre du Devoir</text>
-	</string>
-	<string id="agr_recover_item_4_text">
-		<text>Je me suis frité avec un guide pour un rien et maintenant, il refuse de m'emmener voir les stalkers ! Il a même dit qu'il voulait plus jamais me revoir et j'ai pas vraiment envie de m'aventurer dans la Zone tout seul. J'ai laissé mon fusil chez eux la dernière fois que je les ai vus. Un des nôtres avait été promu et on fêtait ça en prenant une bonne cuite. J'étais complètement torché, les gars ont eu du mal à me ramener à la caserne et ils ont oublié mon fusil là-bas. Tu pourrais me le récupérer ? J'ai l'air de quoi, moi, sans arme ?</text>
-	</string>
 </string_table>

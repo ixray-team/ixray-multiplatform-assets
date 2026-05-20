@@ -672,13 +672,4 @@
 	<string id="st_target">
 		<text>Cel</text>
 	</string>
-	<string id="st_technic_specialization">
-		<text>Specjalizacja:</text>
-	</string>
-	<string id="st_technic_specialization_none">
-		<text>brak</text>
-	</string>
-	<string id="hospital">
-		<text>Opuszczony szpital</text>
-	</string>
 </string_table>

@@ -177,22 +177,4 @@
 	<string id="st_val_find_flesh_up_cd_svu_text">
 		<text>Technik Jar potrzebuje informacje o funkcjonowaniu hamulców wylotowych potê¿nych karabinów snajperskich. Dziêki nim bêdzie móg³ coœ takiego wyprodukowaæ.</text>
 	</string>
-	<string id="val_recover_item_1_name">
-		<text>Zwróæ celownik 8x</text>
-	</string>
-	<string id="val_recover_item_1_text">
-		<text>By³ tu kolo z naprawdê fajnym celownikiem na spluwie - takim, jakiego pró¿no szukaæ w ca³ej Zonie. Mimo moich usilnych starañ nie chcia³ mi go sprzedaæ. Ruszy³ z jednym z naszych patroli do Kordonu; patrol nie wróci³, wiêc pewnie i ten stalker gdzieœ tam zgin¹³. Przynieœ mi ten celownik, podarujê go Czechowowi - mo¿e awansuje mnie na dowódcê...</text>
-	</string>
-	<string id="val_recover_item_2_name">
-		<text>Zwróæ pendrive z filmami</text>
-	</string>
-	<string id="val_recover_item_2_text">
-		<text>Pomó¿ mi, stary. Ogl¹daliœmy z Gandzi¹ film na jego laptopie, a¿ tu nagle wpada dowódca i ruga mnie, ¿e zszed³em z warty. Chcia³ rozwaliæ laptopa, ale przekonaliœmy go, ¿eby tego nie robi³. Zabra³ pendrive'a z filmem i wyrzuci³ go za ogrodzenie, w strefê radioaktywn¹. Odzyskaj pendrive'a, a Gandzia ciê nagrodzi.</text>
-	</string>
-	<string id="val_recover_item_3_name">
-		<text>Zwróæ gitarê Seregi</text>
-	</string>
-	<string id="val_recover_item_3_text">
-		<text>Niesamowite - ktoœ ukrad³ gitarê Seregi. Tylko on potrafi tu na niej graæ - i to dobrze, nie tak, jak reszta tego ta³atajstwa. Szybko wykryliœmy z³odzieja, ale lachoci¹g zd¹¿y³ j¹ gdzieœ ukryæ. Przynieœ tê gitarê - Serega nie chce graæ na ¿adnej innej.</text>
-	</string>
 </string_table>

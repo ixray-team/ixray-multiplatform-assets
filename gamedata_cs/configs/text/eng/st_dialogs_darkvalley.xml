@@ -10,7 +10,7 @@
 		<text>Someone keeps attacking us. They're real professional about it too - we never stand a chance. We control all the roads leading into the Dark Valley but that don't seem to stop the attacks one bit. The one place you can relax is the base. If you have questions about Fang, the Freedom base is your best bet.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_51">
-		<text>So, did that dog give you the run around?</text>
+		<text>How's it shaping up, merc?</text>
 	</string>
 	<string id="val_freedom_trader_hello_dialog_11">
 		<text>Hey, buddy. What will you be needing today?</text>
@@ -139,7 +139,7 @@
 		<text>Got any work?</text>
 	</string>
 	<string id="val_freedom_barmen_questions_dialog_1">
-		<text>For a couple of nights now I've been seeing some sort of light coming from the abandoned building at the gas station. Could have been smokes or torches, I suppose. Why not check it out? I mean, if it's some kind of evil we can handle that but if it's those bastards from the Garbage we'll need to deal with 'em. </text>
+		<text>For a couple of nights now I've been seeing some sort of light coming from the abandoned building at the filling station. Could have been smokes or torches, I suppose. The building is highly radioactive, so our boys keep as far away from it as possible. Say, you've got a decent suit on ya - why don't you go and check it out? Who knows, maybe ghosts live there...</text>
 	</string>
 	<string id="val_freedom_barmen_questions_dialog_11">
 		<text>OK, I'll check it out. </text>
@@ -202,13 +202,13 @@
 		<text>OK, what's the job?</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_11111111">
-		<text>A pseudo-dog has settled down near the base and it's making life hell for us. Soon as it smells food being cooked at the Bar you can kiss your ass goodbye! The boys are all jumpy and nervous 'cause of that damn thing. You take care of this problem for us and when you come back we'll get down to real business.</text>
+		<text>Monsters made a lair near the base and they're making life hell for us. Soon as they smell food being cooked at the Bar you can kiss your ass goodbye! The boys are all jumpy and nervous 'cause of the stupid flesh. You take care of this problem for us and when you come back we'll get down to real business.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_111111111">
 		<text>Consider it done.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_511">
-		<text>It doesn't matter. The bottom line: the beast is dead.</text>
+		<text>The mutants are dead.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_5111">
 		<text>All right. Your next task is a little tougher. Listen up: we've got to deliver this ammo to our guys at the far outpost. Shoot straight for Ashot's - he'll tell you what exactly you have to lug and where to.</text>

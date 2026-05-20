@@ -315,7 +315,4 @@
 	<string id="lim_bandit_ambush_spot">
 		<text>Bandit ambush</text>
 	</string>
-	<string id="ui_st_kicked_by_battleye">
-		<text>was kicked by BattlEye:</text>
-	</string>
 </string_table>

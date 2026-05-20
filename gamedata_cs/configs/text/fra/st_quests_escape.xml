@@ -231,28 +231,4 @@
 	<string id="st_esc_find_flesh_up_bd_wincheaster1300_text">
 		<text>Le technicien peut assembler un système qui améliore la précision d'un fusil à pompe, mais il lui manque des données essentielles pour ça.</text>
 	</string>
-	<string id="esc_recover_item_1_name">
-		<text>Livrer la vodka "magique"</text>
-	</string>
-	<string id="esc_recover_item_1_text">
-		<text>Y avait un pharmacien avant dans la Zone. Bon d'accord, c'était pas un vrai de vrai, mais il savait préparer de la vodka "magique". C'était vraiment quelque chose... Une ou deux lampées et t'oubliais tout : la Zone, les mutants, les anomalies, tout, je te dis ! T'avais plus peur et t'en avais rien à battre de qui t'étais et de ce qui allait t'arriver. Même au prix que ça coûtait, ça valait le coup ! Enfin bref, un jour, un mec jaloux décide d'empoisonner le pharmacien... Et bam ! Adieu la vodka magique ! Mais j'ai appris y a pas longtemps qu'il avait planqué quelques bouteilles avant de passer l'arme à gauche... Apporte-moi l'une d'entre elles et je te dédommagerai largement !</text>
-	</string>
-	<string id="esc_recover_item_2_name">
-		<text>Rapporter le AKM-47/2 de collection</text>
-	</string>
-	<string id="esc_recover_item_2_text">
-		<text>Je collectionne les armes rares. J'en ai assez pour remplir un musée, sauf qu'il m'en manque une : un AKM-47/2 bien particulier ! Ce flingue, c'est pas une simple pétoire, c'est une pièce de collection qu'a tué des mutants que t'as même jamais vus ! Son ancien propriétaire avait pas vraiment le compas dans l'oeil, mais il était devenu une vraie légende dans la Zone. Ce mec savait se tirer de n'importe quelle embrouille et échapper à n'importe quelle anomalie... Ca fait un bail que j'ai plus entendu parler de ce type, mais il paraît que son flingue est planqué dans un endroit pas facile d'accès. Rapporte-le-moi, tu veux ?</text>
-	</string>
-	<string id="esc_recover_item_3_name">
-		<text>Rapporter le détecteur "porte-bonheur"</text>
-	</string>
-	<string id="esc_recover_item_3_text">
-		<text>Faut que tu m'aides, mec ! Je me suis acheté un nouveau détecteur y a pas longtemps et j'ai balancé l'ancien dans une anomalie, histoire de fêter ça. Le problème, c'est que le nouveau me porte la poisse... Ca fait trois semaines que j'ai plus trouvé un seul artefact ! Il est pas mal, mais je voudrais vraiment récupérer l'ancien. Apporte-le-moi et je te récompenserai !</text>
-	</string>
-	<string id="esc_recover_item_4_name">
-		<text>Apporter un médikit spécial</text>
-	</string>
-	<string id="esc_recover_item_4_text">
-		<text>Un de mes potes a essayé d'échapper aux bandits y a pas longtemps. Ces enfoirés l'ont fait courir à travers des anomalies sur le remblai, juste pour se marrer... Les radiations dans le coin sont de vraies saletés. Il peut presque plus bouger et les médocs normaux lui font aucun effet. Il lui faut quelque chose de plus fort. Paraît que les troufions ont des médikits spéciaux qui pourraient aider, alors si tu peux en rapporter un, on saura se montrer reconnaissants.</text>
-	</string>
 </string_table>

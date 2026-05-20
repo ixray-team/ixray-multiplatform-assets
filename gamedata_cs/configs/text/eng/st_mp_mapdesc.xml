@@ -117,10 +117,4 @@
 	<string id="mp_autostation">
 		<text>Abandoned depot</text>
 	</string>
-	<string id="ui_map_desc_mp_training_camp_short">
-		<text>A very strange place. Gravitational anomalies have torn up the ground creating an alien landscape... </text>
-	</string>
-	<string id="ui_map_desc_mp_training_camp_large">
-		<text>A very strange place. Many laugh at stalkers who claim to have seen it but it exists nonetheless. Gravitational anomalies have torn up the ground creating an alien landscape. The area is dominated by three huge towers, remnants of military hardware and floating islands of earth, ripped out of the ground.</text>
-	</string>
 </string_table>

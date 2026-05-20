@@ -144,22 +144,4 @@
 	<string id="red_take_red_forest_map_pda_text">
 		<text>Le PDA d'un stalker mort est toujours actif. Il contient peut-être des informations intéressantes sur la Forêt rouge.</text>
 	</string>
-	<string id="red_recover_item_1_name">
-		<text>Rapporter le PDA contenant une carte de la Forêt rouge</text>
-	</string>
-	<string id="red_recover_item_1_text">
-		<text>On aurait bien besoin de ton aide... Faut qu'on récupère une carte détaillée de la Forêt rouge. Paraît qu'y a plusieurs groupes de stalkers qu'ont essayé de l'explorer, mais la plupart ont disparu. Alors, trouve leur notes et rapporte-les-moi !</text>
-	</string>
-	<string id="red_recover_item_2_name">
-		<text>Rapporter la mitrailleuse du char</text>
-	</string>
-	<string id="red_recover_item_2_text">
-		<text>J'ai du boulot pour toi ! Le Forestier m'a dit qu'y avait un vieux char soviétique au fond de la forêt. Personne sait comment il est arrivé là, si ce n'est qu'il est apparu après l'émission qu'a tout chamboulé. Apparemment, il est presque intact, en plus ! Bon, bien sûr, il roule plus, mais si tu pouvais démonter sa mitrailleuse et me la rapporter, je saurais te récompenser.</text>
-	</string>
-	<string id="red_recover_item_3_name">
-		<text>Rapporter l'appareil expérimental</text>
-	</string>
-	<string id="red_recover_item_3_text">
-		<text>J'aimerais que tu me rapportes un truc... En fait, on testait un prototype pour les scientifiques, un petit appareil qui mesure la force des anomalies... Il sert pas encore à grand-chose et il leur a fallu deux jours pour nous apprendre à l'utiliser. Bref... donc, on récupérait des données dans la vieille mine quand un truc nous a attaqués... Des merdes en tout genre ont commencé à voler dans tous les sens... Je suis le seul à m'en être sorti, mais j'ai dû laisser l'appareil là-bas avec les autres gars, qui ont été pris dans des anomalies, je crois. Le truc qui nous a attaqués doit toujours y être, lui aussi, alors ce sera pas facile de récupérer le bidule. Mais si tu y arrives, y aura une récompense à la clé.</text>
-	</string>
 </string_table>

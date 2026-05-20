@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="val_bandit_spy_name">
-		<text>Acaba con la posible amenaza en la gasolinera</text>
+		<text>Descubre lo que estб pasando en la gasolinera.</text>
 	</string>
 	<string id="val_bandit_spy_text">
-		<text>Por la noche se han visto unas tenues luces en la gasolinera abandonada. Investiga el lugar y acaba con cualquier posible amenaza.</text>
+		<text>Por la noche se han visto unas tenues luces en la gasolinera abandonada. El edificio es muy radiactivo. Investiga la situaciуn en la gasolinera.</text>
 	</string>
 	<string id="val_bring_to_fang_name">
 		<text>Sigue la seсal de la PDA de Fang.</text>
@@ -91,10 +91,10 @@
 		<text>Ayuda a Libertad a eliminar a los mercenarios.</text>
 	</string>
 	<string id="val_kill_flesh_name">
-		<text>Mata al pseudo perro</text>
+		<text>Destruye la guarida de monstruos</text>
 	</string>
 	<string id="val_kill_flesh_text">
-		<text>Mata al pseudo perro, que no para de causar problemas en la base de Libertad.</text>
+		<text>Destruye la guarida de monstruos.</text>
 	</string>
 	<string id="val_kill_komendant_name">
 		<text>Mata al comandante</text>
@@ -176,23 +176,5 @@
 	</string>
 	<string id="st_val_find_flesh_up_cd_svu_text">
 		<text>Yar, el tйcnico, necesita informaciуn acerca del funcionamiento de los caсones perforados de los fusiles de francotirador potentes. Asн podrб hacer uno similar.</text>
-	</string>
-	<string id="val_recover_item_1_name">
-		<text>Recupera la mira 8x</text>
-	</string>
-	<string id="val_recover_item_1_text">
-		<text>Por aquн corrнa un tipo con una mira realmente buena en el arma, de йsas que no se encuentran en la Zona. Lo intentй una y otra vez, pero no quiso vendйrmela. Partiу con una de las patrullas hacia el Cordуn, pero nunca regresу, por lo que me imagino que ese stalker la diсу en algъn sitio por aquн cerca. Trбeme esa mira para que pueda regalбrsela a Chekhov y asн quizб me ascienda a comandante.</text>
-	</string>
-	<string id="val_recover_item_2_name">
-		<text>Recupera la unidad USB con pelнculas</text>
-	</string>
-	<string id="val_recover_item_2_text">
-		<text>Ayъdame, colega. Ganja y yo estбbamos en su puesto, viendo una peli en su portбtil cuando el comandante nos pillу y empezу a meterme ese rollo sobre los deberes de estar de guardia y todo eso. Querнa romper en pedazos el ordenador, pero lo detuvimos, asн que cogiу la unidad USB que tenнa la peli y la tirу por la verja, a la zona radioactiva. Recupera esa unidad y Ganja te recompensarб. </text>
-	</string>
-	<string id="val_recover_item_3_name">
-		<text>Recupera la guitarra de Serega</text>
-	</string>
-	<string id="val_recover_item_3_text">
-		<text>Alguien le ha robado la guitarra a Serega, їte das cuenta? Es el ъnico que sabe tocarla por aquн, y encima lo hace bien, a diferencia de los demбs. Al parecer, el ladrуn fue muy rбpido y el muy mamуn la escondiу en algъn lugar. Recupera esa guitarra porque Serega se niega a tocar otra, їvale?</text>
 	</string>
 </string_table>

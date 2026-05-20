@@ -315,7 +315,4 @@
 	<string id="lim_bandit_ambush_spot">
 		<text>Embuscade des bandits</text>
 	</string>
-	<string id="ui_st_kicked_by_battleye">
-		<text>a été exclu par BattlEye :</text>
-	</string>
 </string_table>

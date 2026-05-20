@@ -144,22 +144,4 @@
 	<string id="red_take_red_forest_map_pda_text">
 		<text>Il PDA dello stalker morto è ancora attivo. Potrebbe contenere informazioni preziose sulla Foresta rossa. Ritrova il PDA.</text>
 	</string>
-	<string id="red_recover_item_1_name">
-		<text>Recupera il PDA con una mappa della Foresta rossa</text>
-	</string>
-	<string id="red_recover_item_1_text">
-		<text>Potresti tornarci utile, mercenario. Ci serve una mappa dettagliata della Foresta rossa. Ho sentito che diversi gruppi di stalker hanno provato a esplorarla, svanendo però nel nulla. Portami i dati che hanno raccolto.</text>
-	</string>
-	<string id="red_recover_item_2_name">
-		<text>Recupera la mitragliatrice del carro armato</text>
-	</string>
-	<string id="red_recover_item_2_text">
-		<text>Ho un incarico per te. Forester ha detto di aver visto un vecchio carro armato sovietico nella foresta. Nessuno sa come sia finito lì, ma sappiamo per certo che è comparso dopo quella potente emissione. Il veicolo è intatto ma ormai inutilizzabile, però potresti rimuovere la mitragliatrice montata sopra di esso. Portami quell'arma e avrai un'ottima ricompensa.</text>
-	</string>
-	<string id="red_recover_item_3_name">
-		<text>Recupera il dispositivo sperimentale</text>
-	</string>
-	<string id="red_recover_item_3_text">
-		<text>C'è una cosa che potresti portarmi. Stavamo provando un prototipo per gli scienziati, un piccolo dispositivo in grado di misurare la potenza delle anomalie. Ci avevano messo due giorni solo per spiegarci come usarlo, ma lo sviluppo era ancora indietro. Stavamo raccogliendo informazioni nella vecchia miniera quando siamo stati attaccati da... qualcosa. Sono l'unico a essere sopravvissuto a quelle mostruose creature volanti. Il dispositivo è rimasto laggiù con i ragazzi, che sono stati risucchiati dalle anomalie. La cosa che ci ha attaccati dev'essere ancora alla miniera, quindi non sarà facile recuperare il dispositivo. Ti aspetta una bella ricompensa.</text>
-	</string>
 </string_table>

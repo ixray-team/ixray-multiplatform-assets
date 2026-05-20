@@ -231,28 +231,4 @@
 	<string id="st_esc_find_flesh_up_bd_wincheaster1300_text">
 		<text>Il tecnico degli stalker può costruire un dispositivo in grado di aumentare la precisione delle doppiette a pompa, ma gli mancano delle informazioni.</text>
 	</string>
-	<string id="esc_recover_item_1_name">
-		<text>Consegna la vodka "magica"</text>
-	</string>
-	<string id="esc_recover_item_1_text">
-		<text>C'era un chimico qui nella Zona. Certo, non era un chimico vero e proprio, ma faceva una vodka "magica" davvero speciale... Bastavano due sorsi per dimenticare la Zona, i mutanti, le anomalie e tutto il resto! Non avevi più paura di nulla, non te ne fregava più di niente e di nessuno. Costava parecchio, ma ne valeva la pena. Comunque, un giorno qualcuno ha deciso di avvelenare il chimico, forse spinto da avidità o semplice invidia. Chi può dirlo? E con lui sono sparite anche tutte le scorte di vodka... Tuttavia ho sentito dire che il chimico aveva qualche nascondiglio nella Zona, e ho scoperto le coordinate di uno di essi. Portami una bottiglia di quella vodka "magica" e avrai una magnifica ricompensa!</text>
-	</string>
-	<string id="esc_recover_item_2_name">
-		<text>Recupera l'AKM-47/2</text>
-	</string>
-	<string id="esc_recover_item_2_text">
-		<text>Io colleziono armi rare, amico. Ormai ne ho abbastanza da riempire un museo, ma non sono ancora riuscito a trovare l'AKM-47/2. Quell'AK non è solo un ottimo fucile, ma un'arma rarissima che è stata usata per uccidere mutanti mai visti prima. Ho sentito dire che il suo proprietario era una leggenda della Zona, un tiratore eccezionale che riusciva a sfuggire a qualsiasi anomalia. È da un po' che non sento parlare di quello stalker, ma ho saputo qualcosa di nuovo sul fucile. Pare sia nascosto in un luogo segreto e difficile da raggiungere. Portami quella bellezza, mercenario.</text>
-	</string>
-	<string id="esc_recover_item_3_name">
-		<text>Recupera il rilevatore "fortunato"</text>
-	</string>
-	<string id="esc_recover_item_3_text">
-		<text>Aiutami, mercenario. Poco tempo fa ho comprato un nuovo rilevatore e ho buttato quello vecchio in un'anomalia per festeggiare l'evento. Il problema è che questo nuovo rilevatore non mi sta portando molta fortuna. Non trovo un manufatto da tre settimane. Rivoglio quello vecchio! Se riuscirai a portarmelo, saprò come ricompensarti.</text>
-	</string>
-	<string id="esc_recover_item_4_name">
-		<text>Consegna un kit di pronto soccorso speciale</text>
-	</string>
-	<string id="esc_recover_item_4_text">
-		<text>Ehi, mercenario. Di recente un mio vecchio amico è sfuggito ai banditi della Discarica. Quei bastardi l'hanno fatto correre tra le anomalie della massicciata per farsi quattro risate, e sai bene che laggiù i livelli di radiazioni sono letali. Ora si muove a malapena e gli servono medicinali antiradiazioni ancora più forti. Ho sentito che i militari hanno dei kit speciali che potrebbero fare al caso nostro. Portamene uno e avrai la nostra gratitudine.</text>
-	</string>
 </string_table>

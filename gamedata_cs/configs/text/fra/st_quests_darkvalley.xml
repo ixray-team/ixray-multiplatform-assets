@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="val_bandit_spy_name">
-		<text>Dйcouvrir ce qui se passe а la station-service</text>
+		<text>Trouver ce qui se passe а la station-service</text>
 	</string>
 	<string id="val_bandit_spy_text">
-		<text>D'йtranges lumiиres ont йtй aperзues de nuit а la station-service dйsaffectйe. Allez voir ce qu'il en est et йliminez toute menace.</text>
+		<text>D'йtranges lumiиres ont йtй aperзues de nuit а la station-service dйsaffectйe. Or, ce bвtiment est hautement radioactif. Allez voir ce qu'il en est.</text>
 	</string>
 	<string id="val_bring_to_fang_name">
 		<text>Suivre le signal du PDA des Crocs</text>
@@ -91,10 +91,10 @@
 		<text>Aidez les membres de la Libertй а йliminer les mercenaires.</text>
 	</string>
 	<string id="val_kill_flesh_name">
-		<text>Йliminer le pseudo-chien</text>
+		<text>Dйtruire le nid des monstres</text>
 	</string>
 	<string id="val_kill_flesh_text">
-		<text>Tuez le pseudo-chien qui fait des misиres а la base de la Libertй.</text>
+		<text>Dйtruisez le nid des mutants.</text>
 	</string>
 	<string id="val_kill_komendant_name">
 		<text>Tuer le commandant</text>
@@ -176,23 +176,5 @@
 	</string>
 	<string id="st_val_find_flesh_up_cd_svu_text">
 		<text>Yar a besoin d'informations sur les freins de bouche des fusils de prйcision. Il sera ensuite capable de vous en fabriquer un similaire.</text>
-	</string>
-	<string id="val_recover_item_1_name">
-		<text>Rapporter la lunette 8x</text>
-	</string>
-	<string id="val_recover_item_1_text">
-		<text>Un des mecs du coin a une lunette de visйe de premiиre sur son flingue, le genre qu'on trouve pas dans la Zone... J'ai fait tout ce que j'ai pu, mais il refuse de me la vendre. Il est parti pour le Cordon avec l'une de nos patrouilles. Nos gars sont jamais revenus, donc je me dis que ce stalker a dы y rester. Rapporte-moi sa lunette, que je puisse l'offrir а Chekhov ! J'ai bien envie de passer commandant, moi !</text>
-	</string>
-	<string id="val_recover_item_2_name">
-		<text>Rapporter la clй USB contenant des films</text>
-	</string>
-	<string id="val_recover_item_2_text">
-		<text>Tu veux bien me filer un coup de main ? Ganja et moi, on йtait peinards, chez lui en train de mater un film sur son portable quand le commandant nous a chopйs et a commencй а nous faire un sermon comme quoi j'йtais en service, bla bla bla... Il voulait pйter le PC, mais on l'en a empкchй, alors il s'est contentй de prendre la clй USB et de la balancer de l'autre cфtй de la clфture, dans un coin radioactif... Si tu la rйcupиres, Ganja te dйdommagera. </text>
-	</string>
-	<string id="val_recover_item_3_name">
-		<text>Rapporter la guitare de Serega</text>
-	</string>
-	<string id="val_recover_item_3_text">
-		<text>Quelqu'un a piquй la guitare de Serega ! T'y crois, toi ? C'est le seul qui sache jouer dans le coin et il se dйmerde pas mal, le gars, pas comme ces autres empaffйs... On a vite compris qui йtait le voleur, mais cet enfoirй l'a planquйe. Faut que tu me rapportes la guitare, ok ? Serega refuse de jouer sur un autre instrument...</text>
 	</string>
 </string_table>

@@ -406,7 +406,7 @@
 		<text>Trafficante</text>
 	</string>
 	<string id="st_ui_pda_legend_vip">
-		<text>Personaggio importante</text>
+		<text>Personaggi importanti</text>
 	</string>
 	<string id="ui_logs_center_caption">
 		<text>Cronologia messaggi</text>
@@ -671,14 +671,5 @@
 	</string>
 	<string id="st_target">
 		<text>Bersaglio</text>
-	</string>
-	<string id="st_technic_specialization">
-		<text>Specialità:</text>
-	</string>
-	<string id="st_technic_specialization_none">
-		<text>nessuna</text>
-	</string>
-	<string id="hospital">
-		<text>Ospedale deserto</text>
 	</string>
 </string_table>

@@ -1005,16 +1005,4 @@
 	<string id="gar_bandit_bookmaker_hello_61">
 		<text>Hai sparato piuttosto bene, amico. Mi sembri pronto per giocare a soldi. Vuoi sparare ancora un po'?</text>
 	</string>
-	<string id="gar_bandit_robbery_12">
-		<text>Bene, tira fuori il tuo PDA, è il momento di spartire il bottino. Non è un furto, bada bene. Ci stai pagando per mantenere l'ordine alla Discarica, capito?</text>
-	</string>
-	<string id="gar_bandit_robbery_121">
-		<text>Beh, se è per mantenere l'ordine... d'accordo.</text>
-	</string>
-	<string id="gar_bandit_robbery_1211">
-		<text>Oh, non ti facevo così sveglio! Ora prenderò tutta questa roba, OK? Puoi tenere l'equipaggiamento. Non siamo così crudeli da rubarti anche le armi. Ci ringrazierai quando ti troverai di fronte qualche mutante, vedrai. OK, qui abbiamo finito. Ce ne andiamo.</text>
-	</string>
-	<string id="gar_bandit_robbery_12111">
-		<text>Mi raccomando... Abbi cura di te.</text>
-	</string>
 </string_table>

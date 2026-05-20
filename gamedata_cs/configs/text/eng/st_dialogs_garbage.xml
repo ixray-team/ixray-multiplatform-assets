@@ -1005,16 +1005,4 @@
 	<string id="gar_bandit_bookmaker_hello_61">
 		<text>You did some good shootin' there, buddy. You should think about playing for cash. Feel like shooting some more?</text>
 	</string>
-	<string id="gar_bandit_robbery_12">
-		<text>Well, pull out your PDA, time to share the cash. And don't be thinking it's for nothing - you're paying us to maintain order at the Garbage, understand?</text>
-	</string>
-	<string id="gar_bandit_robbery_121">
-		<text>Well, if it's to maintain order then here you go.</text>
-	</string>
-	<string id="gar_bandit_robbery_1211">
-		<text>Wow, you're smart for a loser! So, I'll take all of this, OK? You can keep the equipment - we're no animals to be stealing your guns and stuff. You'll thank us when you run into some mutants, believe me. OK, enough talk - get outta here.</text>
-	</string>
-	<string id="gar_bandit_robbery_12111">
-		<text>You… take care of yourself.</text>
-	</string>
 </string_table>

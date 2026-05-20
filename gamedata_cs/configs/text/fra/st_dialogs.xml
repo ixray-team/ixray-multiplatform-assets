@@ -154,7 +154,7 @@
 		<text>Prépare-toi !</text>
 	</string>
 	<string id="crowkiller_game_runned_out">
-		<text>Hors de la zone !</text>
+		<text>Tu es sorti de la zone de tir !</text>
 	</string>
 	<string id="crowkiller_game_time_is_out">
 		<text>Temps écoulé !</text>

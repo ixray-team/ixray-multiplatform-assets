@@ -10,7 +10,7 @@
 		<text>Wir werden ständig angegriffen. Es müssen Profis sein, denn wir haben nie den Hauch einer Chance. Wir kontrollieren zwar die Straßen, die ins Dunkle Tal führen, aber das verhindert die Übergriffe nicht im Geringsten. Nur in der Basis kann man sich einigermaßen sicher fühlen. Wenn du etwas über Fang wissen willst, bist du in der Freiheitsbasis genau richtig.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_51">
-		<text>Hat dich der Hund also gut beschäftigt?</text>
+		<text>Na, wie sieht's aus, Söldner?</text>
 	</string>
 	<string id="val_freedom_trader_hello_dialog_11">
 		<text>Hallo, mein Freund. Was brauchst du heute?</text>
@@ -139,7 +139,7 @@
 		<text>Gibt es Arbeit?</text>
 	</string>
 	<string id="val_freedom_barmen_questions_dialog_1">
-		<text>Seit einigen Tagen sehe ich nachts Lichter im verlassenen Gebäude bei der Tankstelle. Könnte sich um Fackeln oder so etwas handeln, denke ich. Das sollte man mal überprüfen, oder? Ich meine, wenn's irgendetwas Böses ist, werden wir damit fertig, aber wenn das die Mistkerle von der Müllhalde sind, müssen wir uns um sie kümmern.</text>
+		<text>Seit einigen Tagen sehe ich nachts Lichter im verlassenen Gebäude bei der Tankstelle. Könnte sich um Fackeln oder so etwas handeln, denke ich. Das Gebäude ist extrem verstrahlt, deswegen halten sich unsere Jungs möglichst fern davon. Du trägst doch einen ziemlich guten Schutzanzug, nicht wahr? Warum siehst du dort nicht mal nach dem Rechten? Wer weiß, vielleicht hausen dort ja Geister...</text>
 	</string>
 	<string id="val_freedom_barmen_questions_dialog_11">
 		<text>OK, ich schaue mir das mal an.</text>
@@ -202,13 +202,13 @@
 		<text>Gut, was soll ich tun?</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_11111111">
-		<text>In der Nähe der Basis hat sich ein Pseudohund eingenistet und macht uns das Leben zur Hölle! Sobald er riecht, dass an der Bar gekocht wird, kannst du schon einpacken. Die Männer sind alle verdammt nervös wegen diesem blöden Tier. Schaff zuerst dieses Problem für uns aus der Welt. Danach kommen wir zum wirklichen Geschäft.</text>
+		<text>In der Nähe der Basis gibt es einen Unterschlupf von irgendwelchen Monstern und sie machen uns das Leben zur Hölle! Sobald sie riechen, dass an der Bar gekocht wird, kommen sie heraus. Die Männer sind alle verdammt nervös wegen diesen blöden Monstern. Schaff zuerst dieses Problem für uns aus der Welt und komm dann wieder hierher. Danach kommen wir zum wirklichen Geschäft.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_111111111">
 		<text>Ist schon so gut wie erledigt.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_511">
-		<text>Das spielt alles keine Rolle mehr, denn das Tier ist tot.</text>
+		<text>Die Mutanten sind tot.</text>
 	</string>
 	<string id="val_freedom_comendant_hello_dialog_5111">
 		<text>In Ordnung. Deine nächste Aufgabe ist etwas schwieriger: Wir müssen diese Munition zu unseren Jungs am hinteren Außenposten bringen. Geh gleich zu Ashot... er wird dir verraten, was genau du wohin schleppen musst.</text>

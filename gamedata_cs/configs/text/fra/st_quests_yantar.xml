@@ -108,16 +108,4 @@
 	<string id="yan_repair_defend_text">
 		<text>Le Gaucher a ordonné à tout le monde de prendre position. Suivez le stalker sur le toit.</text>
 	</string>
-	<string id="yan_recover_item_1_name">
-		<text>Rapporter la Fleur écarlate</text>
-	</string>
-	<string id="yan_recover_item_1_text">
-		<text>Faut que tu m'aides ! Y a un artefact dans la Zone qu'on appelle la Fleur écarlate. Ce truc sert à rien pour un stalker qui se respecte, mais les filles en raffolent. J'ai un rencard dans pas longtemps et je me disais que j'assurerais forcément avec un de ces trucs. C'est pour ça que je suis toujours dans cette Zone de merde. Paraît qu'y a un de ces artefacts dans le coin. Il ressemble à un genre de fleur magique qui brille jour et nuit. Rapporte-le-moi et je saurai me montrer généreux.</text>
-	</string>
-	<string id="yan_recover_item_2_name">
-		<text>Rapporter la grenade-souvenir</text>
-	</string>
-	<string id="yan_recover_item_2_text">
-		<text>Faudrait que tu me rendes un service. J'ai perdu un souvenir, un truc qui ressemble à une grenade... Sauf que c'est pas une grenade... Enfin si, mais du genre qu'on utilise pour l'entraînement... Bref, faudrait que tu la récupères pour moi... Je crois que je sais où tu peux la trouver... J'étais dans l'usine quand il s'est passé un truc... J'ai eu l'impression que mon cerveau grillait et j'ai presque oublié qui j'étais ! Quand je me suis réveillé, j'étais ici, alors je me dis que ma grenade, elle doit toujours être dans l'usine. Rapporte-la-moi !</text>
-	</string>
 </string_table>

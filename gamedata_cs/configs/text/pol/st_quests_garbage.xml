@@ -186,40 +186,4 @@
 	<string id="st_gar_find_flesh_up_fh_scientific_outfit_text">
 		<text>Technik bandytów, Limpid, wiele potrafi, ale do zainstalowania w kombinezonie aparatu tlenowego o obiegu zamkniêtym bêdzie potrzebowa³ dodatkowych informacji.</text>
 	</string>
-	<string id="gar_quest_redemption_name">
-		<text>Odzyskaj swoje fanty</text>
-	</string>
-	<string id="gar_quest_redemption_text">
-		<text>Odzyskaj przedmioty zabrane ci przez bandytów w pobli¿u pchlego targu.</text>
-	</string>
-	<string id="gar_recover_item_1_name">
-		<text>Zwróæ Chasera 13</text>
-	</string>
-	<string id="gar_recover_item_1_text">
-		<text>Pos³uchaj historyjki: jeden z ch³opaków z³apa³ durnego kopacza i zabra³ go na spacer miêdzy anomaliami. Obaj zginêli w Grawi. Tak bywa, ale goœæ zabra³ na misjê Chasera, który tam zosta³. By³oby mi³o, gdybyœ go odzyska³.</text>
-	</string>
-	<string id="gar_recover_item_2_name">
-		<text>Odszukaj zmodyfikowan¹ broñ</text>
-	</string>
-	<string id="gar_recover_item_2_text">
-		<text>Bracie - móg³byœ coœ dla mnie zrobiæ. Siedzieliœmy u Limpida, gdy szykowa³ dla kogoœ œwietn¹ spluwê z ró¿nymi modyfikacjami. Ten goœæ nie umia³ siê dogadaæ z naszym szefem, Joga kaza³ nam wiêc sprawiæ, aby znikn¹³. Wpêdziliœmy go po cichu w jakieœ anomalie i by³ spokój - ale spluwa tam zosta³a. Przynieœ mi tê broñ, a zadbam, aby Z¹b nie po¿a³owa³ ci nagrody.</text>
-	</string>
-	<string id="gar_recover_item_3_name">
-		<text>Dostarcz flaszkê wódki "Kozak"</text>
-	</string>
-	<string id="gar_recover_item_3_text">
-		<text>Pomó¿ mi, przynieœ jakiœ trunek. Tylko nie to œwiñstwo, które tu wszyscy ³aduj¹. Ukry³em kilka flaszek solidnego alkoholu, ale nie mogê sam tam teraz pójœæ. Przynieœ to mi - tylko ¿eby nikt tam za tob¹ nie poszed³!</text>
-	</string>
-	<string id="gar_recover_item_4_name">
-		<text>Zwróæ kurtkê nowicjusza</text>
-	</string>
-	<string id="gar_recover_item_4_text">
-		<text>Z Kordonu przypa³êta³ siê tu niedawno taki goœæ - zielony i wkurzaj¹cy. Opowiada³ wszystkim o swej magicznej kurtce, która mia³a rzekomo radziæ sobie z ka¿d¹ anomali¹. Nie zamkn¹³ siê nawet po schwytaniu przez bandytów - dopóki nie wpêdzili go w Grawi. Frajer mia³ racjê - kurtce faktycznie nic siê nie sta³o. Przyda³aby mi siê taka, jeœli mi j¹ przyniesiesz.</text>
-	</string>
-	<string id="gar_recover_item_5_name">
-		<text>Przynieœ pistolet z inskrypcj¹</text>
-	</string>
-	<string id="gar_recover_item_5_text">
-		<text>Mo¿esz mi w czymœ pomóc. Mia³em pistolet - nic niezwyk³ego, ale da³ mi go dziadek. Zgubi³em go, by³ problem... Schlaliœmy siê i postanowiliœmy przestraszyæ kilku bandziorów. Zakradliœmy siê noc¹ do ich obozu i zaczêliœmy udawaæ mutanty. Okaza³o siê, ¿e nie ma tam ¿adnych bandytów - zaatakowa³y mnie dwie pijawki. Ledwie usz³em z ¿yciem, gubi¹c tam pistolet.</text>
-	</string>
 </string_table>

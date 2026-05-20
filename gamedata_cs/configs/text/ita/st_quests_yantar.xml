@@ -108,16 +108,4 @@
 	<string id="yan_repair_defend_text">
 		<text>Lefty ha ordinato a tutti di assumere la posizione. Segui lo stalker sul tetto e mettiti in posizione.</text>
 	</string>
-	<string id="yan_recover_item_1_name">
-		<text>Recupera il Fiore scarlatto</text>
-	</string>
-	<string id="yan_recover_item_1_text">
-		<text>Aiutami, mercenario. Nella Zona c'è un manufatto che chiamiamo Fiore scarlatto. Agli stalker non serve a niente, ma le donne ne vanno matte. Tra poco ho un appuntamento, e con quel manufatto farei un figurone. Ecco perché sono ancora in questa cavolo di Zona. Qui vicino è stato visto un Fiore scarlatto. Ha l'aspetto di un fiore magico che resta illuminato giorno e notte. Portami quel manufatto e sarai ben ricompensato!</text>
-	</string>
-	<string id="yan_recover_item_2_name">
-		<text>Recupera la granata "souvenir"</text>
-	</string>
-	<string id="yan_recover_item_2_text">
-		<text>Devi aiutarmi, mercenario. Ho perso un souvenir che somiglia a una granata, anche se non lo è... Beh, a dire il vero è una granata che usano per l'addestramento. Potresti riportarmela? So che riuscirai a trovarla. Ero alla fabbrica quando è successa quella cosa... Mi si è incasinato il cervello e non ricordavo più chi ero! Poi mi sono ritrovato qui, quindi immagino che la granata sia rimasta alla fabbrica. Vai a prenderla!</text>
-	</string>
 </string_table>

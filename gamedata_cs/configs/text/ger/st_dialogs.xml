@@ -154,7 +154,7 @@
 		<text>Bereit machen!</text>
 	</string>
 	<string id="crowkiller_game_runned_out">
-		<text>Nicht mehr im Gebiet</text>
+		<text>Du hast das Gebiet verlassen!</text>
 	</string>
 	<string id="crowkiller_game_time_is_out">
 		<text>Die Zeit ist um.</text>

@@ -117,10 +117,4 @@
 	<string id="mp_autostation">
 		<text>Porzucony sk³ad</text>
 	</string>
-	<string id="ui_map_desc_mp_training_camp_short">
-		<text>Bardzo dziwne miejsce. Anomalie grawitacyjne rozdar³y ziemiê, tworz¹c kosmiczny krajobraz…</text>
-	</string>
-	<string id="ui_map_desc_mp_training_camp_large">
-		<text>Bardzo dziwne miejsce. Wielu kpi ze stalkerów, którzy twierdz¹, ¿e je widzieli. A jednak ono istnieje. Anomalie grawitacyjne rozdar³y ziemiê, tworz¹c kosmiczny krajobraz. Nad obszarem góruj¹ trzy potê¿ne wie¿e, pozosta³oœæ po wojskowych  instalacjach, oraz unosz¹ce siê w powietrzu wyspy z wyrwanej z pod³o¿a ziemi.</text>
-	</string>
 </string_table>

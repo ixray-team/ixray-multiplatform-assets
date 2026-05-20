@@ -186,40 +186,4 @@
 	<string id="st_gar_find_flesh_up_fh_scientific_outfit_text">
 		<text>Limpide, le technicien des bandits, peut installer toutes sortes de modification, mais pour un respirateur en circuit fermé, il a besoin d'informations supplémentaires.</text>
 	</string>
-	<string id="gar_quest_redemption_name">
-		<text>Récupérer vos affaires</text>
-	</string>
-	<string id="gar_quest_redemption_text">
-		<text>Récupérez les objets que vous ont pris les bandits près du marché aux puces.</text>
-	</string>
-	<string id="gar_recover_item_1_name">
-		<text>Rapporter le Chaser 13</text>
-	</string>
-	<string id="gar_recover_item_1_text">
-		<text>Bon, alors, je vais t'expliquer le truc... L'un de nos gars a chopé un des ces mineurs à la con et l'a emmené faire une promenade dans les anomalies. Ils ont tous les deux crevé dans un Gravi. Ca me pose pas de problème, mais le mec en question avait emprunté mon Chaser... Du coup, il est toujours là-bas. Ce serait sympa d'aller le récupérer...</text>
-	</string>
-	<string id="gar_recover_item_2_name">
-		<text>Trouver l'arme modifiée</text>
-	</string>
-	<string id="gar_recover_item_2_text">
-		<text>Y a bien un truc que tu peux faire pour moi. On était peinards chez Limpide et il préparait un super flingue pour un gars... je te parle de matos de qualité avec des améliorations et tout ! Il se trouve que ce gars et notre boss, ben, ils s'entendent pas, donc Yoga nous a demandé de le faire disparaît. Du coup, on a fait ça en douceur en l'obligeant à foncer dans une anomalie, mais manque de bol, le flingue est toujours là-bas. Si tu me le rapportes, je ferai en sorte que les Crocs soit pas trop rat avec la récompense.</text>
-	</string>
-	<string id="gar_recover_item_3_name">
-		<text>Apporter une bouteille de vodka cosaque</text>
-	</string>
-	<string id="gar_recover_item_3_text">
-		<text>Dis, tu voudrais pas me filer un coup de main et m'apporter de la gnôle ? Mais attention, hein, je veux pas de la piquette que boivent tous les autres ! J'ai planqué des bouteilles de vodka premier cru, mais je peux pas aller les chercher. Tu voudrais pas les récupérer et faire en sorte que personne te voie ?</text>
-	</string>
-	<string id="gar_recover_item_4_name">
-		<text>Rapporter la veste du bleu</text>
-	</string>
-	<string id="gar_recover_item_4_text">
-		<text>Un mec du Cordon est venu ici l'autre jour, un bleu du genre casse-couilles, si tu vois ce que je veux dire... Il racontait à qui voulait l'entendre que sa veste était magique et qu'elle lui permettait de traverser n'importe quelle anomalie. Paraît que même quand les bandits l'ont chopé, il a pas arrêté de jacasser jusqu'à ce qu'ils l'obligent à foncer dans un Gravi. Ce pauvre gars avait raison, sa veste, elle avait pas une égratignure... Apporte-le-moi et je saurai quoi en faire...</text>
-	</string>
-	<string id="gar_recover_item_5_name">
-		<text>Rapporter le pistolet gravé</text>
-	</string>
-	<string id="gar_recover_item_5_text">
-		<text>Ouais, tu peux m'aider pour un truc. J'avais un pistolet, rien de bien moderne, hein, mais je le tenais de mon grand-père... Je l'ai paumé un soir où on s'était bourré la gueule... On s'était dit qu'on allait faire flipper les bandits. Quand la nuit est tombée, on s'est faufilé jusqu'à un camp qu'on avait repéré pendant la journée et on a commencé à imiter des cris de mutants. Manque de bol, y avait pas de bandits dans le coin, juste deux sangsues qui nous ont sauté dessus. J'ai failli y passer et en plus, j'ai laissé mon pistolet là-bas !</text>
-	</string>
 </string_table>

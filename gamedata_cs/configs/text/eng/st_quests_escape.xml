@@ -231,28 +231,4 @@
 	<string id="st_esc_find_flesh_up_bd_wincheaster1300_text">
 		<text>The stalker technician can assemble a device which would increase the accuracy of a pump-action shotgun, but he's missing some information.</text>
 	</string>
-	<string id="esc_recover_item_1_name">
-		<text>Deliver the "magic" vodka</text>
-	</string>
-	<string id="esc_recover_item_1_text">
-		<text>There used to be a chemist here in the Zone. He wasn't a real chemist or anything but he made a "magic" vodka. It really was something... A couple of swigs and you'd forget everything: the Zone, mutants, anomalies - everything! Your fears left you and you didn't give a shit about who you were or what was happening to you. Even at the price they used to charge for that stuff, it was still worth it. Anyway, one day someone decided to poison the chemist out of jealousy or greed, who knows? They poisoned him and that put an end to the vodka supplies... But, I heard the chemist had a few stashes around the Zone and I know where one is. Bring me a bottle of that magic stuff and I'll pay you handsomely for it!</text>
-	</string>
-	<string id="esc_recover_item_2_name">
-		<text>Bring back the trophy AKM-47/2</text>
-	</string>
-	<string id="esc_recover_item_2_text">
-		<text>I collect rare weapons, buddy - I've got enough of them to fill a museum, but if there's one thing I'm missing that's a trophy AKM-47/2. That AK is not just a good shooter, it's a real rare piece that was used to kill mutants you ain't never seen. I heard its owner was not only a great shot, he was a legend in the Zone who could get out of any trouble and escape any anomaly... I haven't heard anything about that stalker for a while but I recently got some info about the shooter: it's hidden in a secret place that's pretty tough to get to. Bring me that shooter, merc.</text>
-	</string>
-	<string id="esc_recover_item_3_name">
-		<text>Return the "lucky" detector</text>
-	</string>
-	<string id="esc_recover_item_3_text">
-		<text>Help me out, merc. I recently bought me a new, more powerful detector and threw the old one into an anomaly to celebrate. The thing is, this new detector is not bringing me much luck - it's been three weeks without an artifact. I guess this new detector is OK but I want my old one back. Bring it to me and I'll make it worth it.</text>
-	</string>
-	<string id="esc_recover_item_4_name">
-		<text>Deliver a special medkit</text>
-	</string>
-	<string id="esc_recover_item_4_text">
-		<text>Merc, an old friend of mine recently escaped the bandits at the Garbage. Those bastards made him run between anomalies at the embankment just for their amusement and the radiation levels around there are close to lethal. He can barely move now and normal rad meds are no use - he needs something stronger. I heard the army boys have special medkits that can help, so if you can get me one of those, we'd be tangibly grateful.</text>
-	</string>
 </string_table>

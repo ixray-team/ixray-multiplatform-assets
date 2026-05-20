@@ -190,12 +190,9 @@
 		<text>Désactiver le générateur ($$ACTION_USE$$)</text>
 	</string>
 	<string id="ui_st_mp_experience_grow">
-		<text>Notice ESRB : Votre impression du jeu peu changer durant une partie en ligne.</text>
+		<text> -</text>
 	</string>
 	<string id="renegade">
 		<text>Rebelles</text>
-	</string>
-	<string id="agru_cs_warning">
-		<text>ATTENTION ! SECTEUR DANGEREUX ! PARTEZ IMMEDIATEMENT !</text>
 	</string>
 </string_table>

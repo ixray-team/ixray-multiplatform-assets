@@ -190,12 +190,9 @@
 		<text>Deactivate the generator ($$ACTION_USE$$)</text>
 	</string>
 	<string id="ui_st_mp_experience_grow">
-		<text>ESRB Notice: Game Experience May Change During Online Play</text>
+		<text> -</text>
 	</string>
 	<string id="renegade">
 		<text>Renegades</text>
-	</string>
-	<string id="agru_cs_warning">
-		<text>ATTENTION! LEAVE HAZARDOUS AREA IMMEDIATELY</text>
 	</string>
 </string_table>

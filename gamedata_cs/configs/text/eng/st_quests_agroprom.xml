@@ -174,28 +174,4 @@
 	<string id="agr_attack_monster_group_text">
 		<text>Time to time small packs of mutants attack stalkers at the factory. Killing the monsters at their lair to the north of the factory could stop the attacks.</text>
 	</string>
-	<string id="agr_recover_item_1_name">
-		<text>Return the shotgun to the Duty member</text>
-	</string>
-	<string id="agr_recover_item_1_text">
-		<text>We were on a mission to clear an area of mutants the other day when we ran into a huge one. The fight lasted at least an hour and we were low on ammo but that beast wasn't even close to dying. I gave the order to retreat but stayed behind to hold the mutant back while the boys were getting clear. I fired off all my ammo and then threw my shotgun straight at the bastard. Guess what happened next? That piece of crap started eating away at the shooter and ignoring me. Bring back my shotgun, it saved my life after all!</text>
-	</string>
-	<string id="agr_recover_item_2_name">
-		<text>Return the PDA with secret information</text>
-	</string>
-	<string id="agr_recover_item_2_text">
-		<text>Merc, I was mugged by the bandits at the Garbage. They took everything: cash, weapons, ammo and my medical supplies. Worst of all, they took my PDA, which contained information about bandit locations at the Garbage. If I don't deliver that info to Krylov he'll bury me alive. Help me get it back!</text>
-	</string>
-	<string id="agr_recover_item_3_name">
-		<text>Return Duty member's case</text>
-	</string>
-	<string id="agr_recover_item_3_text">
-		<text>Merc, when the mutants started appearing in the underground we had to abandon our positions and fall back. I was forced to leave my case back there with weapons, ammo, meds and my detector. I didn't have time to think about it - I had to save myself. Help me get that case back.</text>
-	</string>
-	<string id="agr_recover_item_4_name">
-		<text>Return Duty member's assault rifle.</text>
-	</string>
-	<string id="agr_recover_item_4_text">
-		<text>I had an argument with a guide over nothing much and he won't take me to see the stalkers now! He says he doesn't even want to see me again, and I don't fancy wandering around the Zone on my own. I left my shooter with the stalkers when I went to visit them last week. One of our fellas got promoted and we were celebrating that with a good dose of booze. I got pretty wasted: the boys barely managed to get me back to the barracks, but they forgot my rifle. Could you bring it back for me? I'm not much of a soldier without a weapon.</text>
-	</string>
 </string_table>

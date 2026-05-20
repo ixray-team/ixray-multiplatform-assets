@@ -117,10 +117,4 @@
 	<string id="mp_autostation">
 		<text>Depósito abandonado</text>
 	</string>
-	<string id="ui_map_desc_mp_training_camp_short">
-		<text>Un lugar muy extraño. Las anomalías gravitacionales han deformado el terreno creando un paisaje alienígena... </text>
-	</string>
-	<string id="ui_map_desc_mp_training_camp_large">
-		<text>Un lugar muy extraño. Los stalkers que dicen haberlo visto reciben muchas burlas, pero existe de todas formas. Las anomalías gravitacionales han deformado el terreno creando un paisaje alienígena. La zona está dominada por grandes torres, restos de material militar e islotes flotantes, arrancados del suelo.</text>
-	</string>
 </string_table>
